@@ -1,0 +1,506 @@
+1259088	Qutbnagar	Qutbnagar	Qutbnagar,Qutubnagar	27.49014	80.44871	P	PPL	IN		36	154	803		0		144	Asia/Kolkata	2024-01-07
+1259089	Qutb Minar	Qutb Minar	Kutb,Qutb,kutup minar,குதுப் மினார்	28.51667	77.2	S	MNMT	IN		07	098	454		0		240	Asia/Kolkata	2024-01-06
+1259090	Qutba	Qutba		30.57859	75.62682	P	PPL	IN		23	054	275		0		245	Asia/Kolkata	2024-01-06
+1259093	Quilāndi	Quilandi	Kovilkandi,Koyilandi,Koyilandy,Koyilāndi,Quilandi,Quilandy,Quilāndi,keayilanti,കൊയിലാണ്ടി	11.4381	75.69306	P	PPL	IN		13	591	5639		0		15	Asia/Kolkata	2024-01-06
+1259094	Queula	Queula	Quela,Queula	15.39011	73.98557	P	PPL	IN		33	585	5614		6852		37	Asia/Kolkata	2024-12-31
+1259095	Querim	Querim		15.71667	73.66667	P	PPL	IN		00				0		1	Asia/Kolkata	1994-01-13
+1259096	Querim	Querim		15.60385	74.07353	P	PPL	IN		33	585	5613		0		43	Asia/Kolkata	2024-01-06
+1259097	Querim	Querim		15.45	74	P	PPL	IN		33	585	5614		0		85	Asia/Kolkata	2024-01-06
+1259098	Quepem	Quepem	Quepem,Quepem Town	15.2128	74.0772	P	PPL	IN		33	586	5617		14795		20	Asia/Kolkata	2024-12-31
+1259099	Quelossim	Quelossim	Quelossim	15.39183	73.94133	P	PPL	IN		33	586	5615		0		1	Asia/Kolkata	2024-01-06
+1259101	Qizil Dawān	Qizil Dawan		35.04716	79.12027	T	PASS	IN		41	003			0		5396	Asia/Kolkata	2019-10-18
+1259102	Qāzigund	Qazigund	Qazigund,Qāzigund	33.63828	75.14261	P	PPL	IN		12	014	6817		5576		1666	Asia/Kolkata	2024-01-06
+1259103	Qāzi Sarai	Qazi Sarai	Qasi Sarai,Qazi Sarai,Qāsi Sarai,Qāzi Sarai	25.16923	85.071	P	PPL	IN		34	239	1537		0		76	Asia/Kolkata	2024-01-06
+1259104	Qasba Naubug	Qasba Naubug		33.64584	75.37598	P	PPL	IN		12	014	57		0		2214	Asia/Kolkata	2024-01-06
+1259105	Qasba Nagum	Qasba Nagum	Kasba Nagum,Qasba Nagum	33.92594	74.79245	P	PPL	IN		12	002	9		0		1669	Asia/Kolkata	2024-01-06
+1259107	Qasba Ao	Qasba Ao		27.43148	77.34634	P	PPL	IN		24	105	508		0		187	Asia/Kolkata	2024-01-06
+1259109	Qara Tāgh Pass	Qara Tagh Pass	Kara-tagh Pass,Kara-tāgh Pass,Qara Qashi,Qara Tagh Pass,Qara Tāgh Pass	35.72353	78.31271	T	PASS	IN		12				0		5295	Asia/Kolkata	2020-06-10
+1259110	Qadian	Qadian	Kadian,Kādiān,Qadian,Qādiān,ka di ya en,kadi'am,kadiyam,kadiyana,kari'am,katiyan,qadyan,qadyan dar alaman,qadyaں,Кадиан,Қадиан,קאדיאן,قاديان,قادیان,قادیان دار الامان,قادیاں,कादियां,কাদিয়ান,ਕਾਦੀਆਂ,કાદિયાં,କାଡ଼ିଆଁ,காதியன்,ഖാദിയാൻ,卡迪亚恩,卡迪亞恩	31.82198	75.37663	P	PPL	IN		23	035	203		21015		254	Asia/Kolkata	2024-02-19
+1259111	Qabarwāla	Qabarwala	Qabarwala,Qabarwāla,Qabrwala,Qabrwāla	30.18333	74.48333	S	RSTN	IN		23	044	239		0		193	Asia/Kolkata	2024-01-06
+1266557	Qila Zafargarh	Qila Zafargarh	Kila Zafargarh,Qila Zafargarh,Qila Zafargarh Railroad Station	29.08046	76.42946	S	RSTN	IN		10	077	384		0		225	Asia/Kolkata	2024-01-06
+1268674	Qādirganj	Qadirganj	Kadirganj,Kādirganj,Qadirganj,Qādirganj	27.78864	79.06117	P	PPL	IN		36	202	1012		0		158	Asia/Kolkata	2024-01-07
+1274658	Qiangchenmo He	Qiangchenmo He	Chang Chenmo River,Chāng Chenmo River,Qiangchenmo He,qiang chen mo he,羌臣摩诃	34.28987	78.27984	H	STM	IN		00				0		3784	Asia/Kolkata	2012-01-18
+1274659	Qiangchenmo	Qiangchenmo	Chang Chenmo,Chang-chemo,Chāng Chenmo,Qiangchenmo,qiang chen mo,羌臣摩	34.24283	78.64309	T	VAL	IN	CN	00				0		5238	Asia/Kolkata	2014-03-06
+1332388	Qaimsar	Qaimsar	Kiamsir,Kiāmsir,Qaimsar	28.10058	74.9957	P	PPL	IN		24	111	6388		0		318	Asia/Kolkata	2024-01-06
+1429065	Qasba Lār	Qasba Lar		34.25681	74.7543	P	PPL	IN		12	011	45		0		1616	Asia/Kolkata	2024-01-06
+1430942	Qasba Bīru	Qasba Biru		34.0147	74.59278	P	PPL	IN		12	002	5		0		1724	Asia/Kolkata	2024-01-06
+1431971	Qasba Bala	Qasba Bala		33.16131	74.24611	P	PPL	IN		12	006	25		0		593	Asia/Kolkata	2024-01-06
+1439603	Qādirpur	Qadirpur		32.55099	74.77883	P	PPL	IN		12	021	80		0		269	Asia/Kolkata	2024-01-06
+1439648	Qadre Chak	Qadre Chak	Chak Qadir,Chak Qādir,Qadre Chak	32.5724	74.93267	P	PPL	IN		12	021	81		0		305	Asia/Kolkata	2024-01-06
+1439682	Qutb Nizām Minor	Qutb Nizam Minor		32.57087	74.77903	H	CNL	IN		12				0		271	Asia/Kolkata	2015-08-07
+1439683	Qutb Nizām	Qutb Nizam		32.5816	74.7846	P	PPL	IN		12	021	80		0		273	Asia/Kolkata	2024-01-06
+1440746	Quāsampur	Quasampur		30.48103	77.78004	P	PPL	IN		39	060	303		0		464	Asia/Kolkata	2024-01-07
+1441229	Qutbpur	Qutbpur		30.02732	77.85072	P	PPL	IN		39	068	6022		0		288	Asia/Kolkata	2024-01-07
+1441255	Qutbpur	Qutbpur		30.00716	77.83907	P	PPL	IN		39	068	6022		0		280	Asia/Kolkata	2024-01-07
+1441475	Qutab Kheri	Qutab Kheri		29.73245	77.26231	P	PPL	IN		36	132	703		0		258	Asia/Kolkata	2024-01-06
+1441590	Qādirpur	Qadirpur		29.64931	77.40344	P	PPL	IN		36	660	707		0		256	Asia/Kolkata	2024-01-07
+1441626	Qādirgarh Minor	Qadirgarh Minor		29.56475	77.46787	H	CNL	IN		36				0		251	Asia/Kolkata	2015-04-08
+1441634	Qāzīpur	Qazipur		29.55924	77.3342	P	PPL	IN		36	660	707		0		246	Asia/Kolkata	2024-01-07
+1441681	Qādirgarh	Qadirgarh	Niraisi,Nīrāisi,Qadirgarh,Qādirgarh	29.57924	77.48286	P	PPL	IN		36	133	708		0		252	Asia/Kolkata	2024-01-06
+1441689	Qutabgarh	Qutabgarh		29.55956	77.44094	P	PPL	IN		36	660	707		0		254	Asia/Kolkata	2024-01-07
+1445937	Qaneshgūdam	Qaneshgudam		17.80319	78.75053	P	PPL	IN		40	692	6282		0		565	Asia/Kolkata	2024-01-07
+6471036	Qutab	Qutab		28.53869	77.19006	S	HTL	IN		07	098	6080		0		237	Asia/Kolkata	2024-01-06
+6505936	Quality Inn Manali	Quality Inn Manali		32.2666	77.1666	S	HTL	IN		11	026	117		0		2031	Asia/Kolkata	2024-01-06
+6507119	Quality Inn The Meadows	Quality Inn The Meadows		19.8833	75.3333	S	HTL	IN		16	515	4137		0		573	Asia/Kolkata	2024-01-06
+6510229	Quality Inn Mgm Beach Resort	Quality Inn Mgm Beach Resort		27.0858	80.314	S	HTL	IN		36	155	813		0		134	Asia/Kolkata	2024-01-07
+6511952	Quality Inn Corbett Jungle Reso	QUALITY INN CORBETT JUNGLE RESO		29.6166	79.6666	S	HTL	IN		36				0		1559	Asia/Kolkata	2007-04-13
+6519885	Quality Hotel Regency	Quality Hotel Regency		18.5333	73.8666	S	HTL	IN		16	521	4194		0		547	Asia/Kolkata	2024-01-06
+6525044	Quality Inn Himdev	Quality Inn Himdev		30.8833	77.05	S	HTL	IN		11	031	165		0		1790	Asia/Kolkata	2024-01-06
+6529235	Quality Resort The Riverview	Quality Resort The Riverview		17.5333	73.5166	S	HTL	IN		16	528	4269		0		12	Asia/Kolkata	2024-01-06
+6532057	Quality Inn Regency	Quality Inn Regency		20.3333	73.8833	S	HTL	IN		16	516	4149		0		673	Asia/Kolkata	2024-01-06
+6619395	Qutab Minar	Qutab Minar		28.52542	77.1884	S	MNMT	IN		07	098	6080		0		246	Asia/Kolkata	2024-01-06
+6992873	Qādir Chauk	Qadir Chauk		27.87333	79.08328	P	PPL	IN		36	149	782		0		162	Asia/Kolkata	2024-01-06
+6992910	Qādirbāri	Qadirbari		27.84886	79.06831	P	PPL	IN		36	149	782		0		158	Asia/Kolkata	2024-01-06
+6992965	Qila	Qila	Oila,Qila	27.7596	79.10849	P	PPL	IN		36	202	1012		0		158	Asia/Kolkata	2024-01-07
+6993116	Qāzīkhera	Qazikhera		27.96838	79.31375	P	PPL	IN		36	149	783		0		156	Asia/Kolkata	2024-01-06
+6995373	Qāsimpur	Qasimpur		27.04489	79.98195	P	PPL	IN		36	160	834		0		122	Asia/Kolkata	2024-01-07
+6996255	Qadampura	Qadampura	Kadampura,Qadampura	26.37367	79.1171	P	PPL	IN		36	165	851		0		146	Asia/Kolkata	2024-01-07
+6996292	Qasba	Qasba	Kasba,Qasba	26.32711	79.17517	P	PPL	IN		36	165	851		0		152	Asia/Kolkata	2024-01-07
+7002254	Qasba Khānpur	Qasba Khanpur		26.44317	79.49567	P	PPL	IN		36	162	842		0		140	Asia/Kolkata	2024-01-07
+7002426	Qutabpur	Qutabpur		26.30233	79.33311	P	PPL	IN		36	165	851		0		144	Asia/Kolkata	2024-01-07
+7302845	Quthbullapur	Quthbullapur	Quthbullapur,Qutubullapur,ku te bu er la pu er,kutaba'ullapura,kutbullapura mandala,قطب اللہ پور,قطب‌الله‌پور,कुत्बुल्लापुर मण्डल,কুতবউল্লাপুর,కుత్బుల్లాపూర్‌,库特布尔拉普尔,庫特布爾拉普爾	17.50107	78.45818	P	PPL	IN		40	700	4517		225816		554	Asia/Kolkata	2024-01-07
+8333919	Qaimsar Railroad Station	Qaimsar Railroad Station	Kaymsar Railroad Station,Kāymsar Railroad Station,Qaimsar,Qaimsar Railroad Station	28.10088	74.99344	S	RSTN	IN		24	111	6388		0		311	Asia/Kolkata	2024-01-06
+8439878	Qādirpur	Qadirpur	Qadirpur,Qādirpur	25.72736	85.42926	P	PPL	IN		34	220	1276		0		52	Asia/Kolkata	2024-01-06
+8439879	Qādirganj	Qadirganj		24.9138	85.59263	P	PPL	IN		34	237	1512		0		92	Asia/Kolkata	2024-01-06
+9036595	Quazigund	Quazigund		33.62416	75.14578	P	PPL	IN		12	014	6817		0		1682	Asia/Kolkata	2024-01-06
+9881092	Qāzīpur	Qazipur	Qazipur,Qāzīpur	34.424	74.61207	P	PPL	IN		12	009	41		0		1585	Asia/Kolkata	2024-01-06
+9909459	Qubūlpur	Qubulpur		28.76031	76.57607	P	PPL	IN		10	082	405		0		225	Asia/Kolkata	2024-01-06
+9913608	Qāsimpur	Qasimpur		28.03129	76.69492	P	PPL	IN		24	104	495		0		262	Asia/Kolkata	2024-01-06
+9913649	Qutabpur Maula	Qutabpur Maula		28.19647	76.60499	P	PPL	IN		10	085	414		0		250	Asia/Kolkata	2024-01-06
+9915772	Qāimpur Jokhāwās	Qaimpur Jokhawas		28.08039	76.7648	P	PPL	IN		24	104	495		0		260	Asia/Kolkata	2024-01-06
+9915775	Qutabpur	Qutabpur		28.05865	76.76712	P	PPL	IN		24	104	495		0		264	Asia/Kolkata	2024-01-06
+9957022	Qi Sabri	Qi Sabri		13.04681	80.23925	S	HTL	IN		25	603	5982		0		12	Asia/Kolkata	2024-01-06
+9958573	Q I Regency	Q I Regency		20.00307	73.77967	S	HTL	IN		16	516	4152		0		584	Asia/Kolkata	2024-01-06
+9958592	Quality Inn Centurion	Quality Inn Centurion		18.53046	73.85016	S	HTL	IN		16	521	4194		0		556	Asia/Kolkata	2024-01-06
+9959231	Qutub Residency	Qutub Residency		28.5441	77.2012	S	HTL	IN		07	098	6080		0		227	Asia/Kolkata	2024-01-06
+9959276	Qutab Residency	Qutab Residency		28.54407	77.20116	S	HTL	IN		07	098	6080		0		227	Asia/Kolkata	2024-01-06
+9959357	Quality Inn Residency	Quality Inn Residency		17.39127	78.46942	S	HTL	IN		40	536	4504		0		507	Asia/Kolkata	2024-01-07
+9959375	Quality Inn The Den	Quality Inn The Den		29.2752	78.2684	S	HTL	IN		36	134	713		0		238	Asia/Kolkata	2024-01-06
+9963968	Quality Inn Riviera	Quality Inn Riviera		23.04076	72.5689	S	HTL	IN		09	474	3781		0		57	Asia/Kolkata	2024-01-06
+10026061	Qāda Bora	Qada Bora		30.93093	74.78755	P	PPL	IN		23	043	235		0		202	Asia/Kolkata	2024-01-06
+10026084	Qabar Bachha	Qabar Bachha		30.78032	74.82132	P	PPL	IN		23	043	235		0		202	Asia/Kolkata	2024-01-06
+10056579	Quality Hotel Sabari Classic	Quality Hotel Sabari Classic		12.84083	80.22778	S	HTL	IN		25	730	5703		0		9	Asia/Kolkata	2024-01-06
+10105853	Quality Inn Shravanthi	Quality Inn Shravanthi		12.88343	77.58164	S	HTL	IN		19	572	2002		0		923	Asia/Kolkata	2024-01-06
+10108091	Quality Inn Sabari	Quality Inn Sabari		13.04833	80.23986	S	HTL	IN		25	603	5982		0		15	Asia/Kolkata	2024-01-06
+10119890	Quality Inn Bliss	Quality Inn Bliss		28.46817	77.06507	S	HTL	IN		10	086	417		0		233	Asia/Kolkata	2024-01-06
+10126963	Quality Inn The Den Resort	Quality Inn The Den Resort		29.61645	79.66882	S	HTL	IN		39	064	330		0		1619	Asia/Kolkata	2024-01-07
+10141696	Quality Inn Sabri	Quality Inn Sabri		13.04754	80.23998	S	HTL	IN		25	603	5982		0		13	Asia/Kolkata	2024-01-06
+10145999	Qula Klānch	Qula Klanch		30.79715	77.10821	S	RUIN	IN		11	032	169		0		1309	Asia/Kolkata	2024-01-06
+10152886	Qāzībās	Qazibas		30.16468	77.14338	P	PPL	IN		10	071	6476		0		277	Asia/Kolkata	2024-01-06
+10166465	Qutabpur	Qutabpur		30.02927	77.32822	P	PPL	IN		36	132	703		0		269	Asia/Kolkata	2024-01-06
+10168359	Qāsimpur	Qasimpur		30.29202	77.62358	P	PPL	IN		36	132	701		0		349	Asia/Kolkata	2024-01-06
+10179444	Qāzīwāla	Qaziwala	Qaziwala,Qāzīwāla,Tayyabpur Qazi,Tayyabpur Qāzi	29.48719	78.08929	P	PPL	IN		36	134	713		0		233	Asia/Kolkata	2024-01-06
+10179504	Qāzīwāla	Qaziwala		29.42052	78.10711	P	PPL	IN		36	134	713		0		230	Asia/Kolkata	2024-01-06
+10179640	Qutabpur Garhi	Qutabpur Garhi		29.27216	78.18213	P	PPL	IN		36	134	713		0		233	Asia/Kolkata	2024-01-06
+10193115	Qila Khāndhār Reserved Forest	Qila Khandhar Reserved Forest		26.02738	76.61982	L	RESF	IN		24				0		230	Asia/Kolkata	2015-04-10
+10193470	Qāimpur	Qaimpur		26.99951	76.78236	P	PPL	IN		24	109	534		0		258	Asia/Kolkata	2024-01-06
+10202087	Qāsimpur	Qasimpur		29.44368	77.42621	P	PPL	IN		36	660	707		0		246	Asia/Kolkata	2024-01-07
+10202145	Qāsimpurkheri	Qasimpurkheri		29.18344	77.29366	P	PPL	IN		36	139	735		0		232	Asia/Kolkata	2024-01-06
+10202150	Qāsimpurkheri Drain	Qasimpurkheri Drain		29.14869	77.32139	H	CNL	IN		36				0		226	Asia/Kolkata	2015-04-10
+10202199	Qiāmpur	Qiampur		29.01892	77.27757	P	PPL	IN		36	139	736		0		228	Asia/Kolkata	2024-01-06
+10204945	Qāsīmpur	Qasimpur		29.71054	77.66558	P	PPL	IN		36	132	704		0		255	Asia/Kolkata	2024-01-06
+10226662	Qutbpur	Qutbpur		29.2327	77.52	P	PPL	IN		36	133	709		0		228	Asia/Kolkata	2024-01-06
+10226782	Qamruddīnnagar Mandyāi	Qamruddinnagar Mandyai		29.11322	77.62141	P	PPL	IN		36	138	732		0		229	Asia/Kolkata	2024-01-06
+10226804	Qasimpur	Qasimpur		29.00944	77.6808	P	PPLX	IN		36	138	734		0		228	Asia/Kolkata	2024-01-06
+10228561	Qube Studios-Managed By Starlit Suites	Qube Studios-Managed By Starlit Suites		28.4807	77.48039	S	HTL	IN		36	141	743		0		198	Asia/Kolkata	2024-01-06
+10229191	Quality Inn Pearl	Quality Inn Pearl		17.4302	78.37494	S	HTL	IN		40	537	4516		0		568	Asia/Kolkata	2024-01-07
+10230100	Quality Inn Sabri Classic	Quality Inn Sabri Classic		12.84243	80.22727	S	HTL	IN		25	730	5703		0		9	Asia/Kolkata	2024-01-06
+10230653	Quality Inn The Den Resort (Corbet Jungle Resort)	Quality Inn The Den Resort (Corbet Jungle Resort)		29.55435	78.87062	S	HTL	IN		39	061	313		0		564	Asia/Kolkata	2024-01-07
+10250543	Qādirwāla	Qadirwala		30.99936	75.12853	P	PPL	IN		23	042	5996		0		215	Asia/Kolkata	2024-01-06
+10250648	Qādirwāla Branch	Qadirwala Branch		30.98223	75.09545	H	CNL	IN		23				0		238	Asia/Kolkata	2015-05-07
+10252242	Qadampura	Qadampura		26.37883	74.88766	P	PPL	IN		24	119	611		0		403	Asia/Kolkata	2024-01-06
+10260483	Qāsimpur Nawāda	Qasimpur Nawada		29.74611	77.76948	P	PPL	IN		39	068	6352		0		259	Asia/Kolkata	2024-01-07
+10260703	Qāsimpur Nawāda	Qasimpur Nawada		29.79216	77.98494	P	PPL	IN		39	068	355		0		243	Asia/Kolkata	2024-01-07
+10260716	Qāsimpur	Qasimpur		29.84715	77.99425	P	PPL	IN		39	068	354		0		249	Asia/Kolkata	2024-01-07
+10260742	Qutabpur	Qutabpur		29.94267	77.99511	P	PPL	IN		39	068	354		0		281	Asia/Kolkata	2024-01-07
+10260813	Qutabpur	Qutabpur		29.61578	77.77648	P	PPL	IN		36	133	708		0		251	Asia/Kolkata	2024-01-06
+10260831	Qāsimpur	Qasimpur		29.55065	77.80309	P	PPL	IN		36	133	708		0		253	Asia/Kolkata	2024-01-06
+10261127	Qāzīpur Minor	Qazipur Minor		29.48257	77.86935	H	CNL	IN		36				0		246	Asia/Kolkata	2015-05-08
+10261142	Qāsimpur Reserved Forest	Qasimpur Reserved Forest		29.35843	77.99477	L	RESF	IN		36				0		236	Asia/Kolkata	2015-05-08
+10261254	Qāsimpur	Qasimpur		29.47032	77.83954	P	PPL	IN		36	133	711		0		248	Asia/Kolkata	2024-01-06
+10261256	Qazīpur	Qazipur		29.4856	77.86083	P	PPL	IN		36	133	711		0		249	Asia/Kolkata	2024-01-06
+10261291	Qutbpur	Qutbpur		29.2721	77.90274	P	PPL	IN		36	133	711		0		243	Asia/Kolkata	2024-01-06
+10261307	Qāsimpur Khola	Qasimpur Khola		29.35417	77.9828	P	PPL	IN		36	133	711		0		243	Asia/Kolkata	2024-01-06
+10261402	Qatlūpur	Qatlupur		28.8418	77.03193	P	PPL	IN		10	076	381		0		225	Asia/Kolkata	2024-01-06
+10261654	Qādiān	Qadian		30.97213	75.8212	P	PPL	IN		23	041	228		0		238	Asia/Kolkata	2024-01-06
+10262989	Qudsia Bāgh	Qudsia Bagh	Qudsia Bagh,Qudsia Bāgh	28.67018	77.22819	S	GDN	IN		07	095	433		0		214	Asia/Kolkata	2024-01-06
+10262996	Qila Rāi Bithora	Qila Rai Bithora		28.5204	77.19536	S	FT	IN		07	098	6080		0		245	Asia/Kolkata	2024-01-06
+10262997	Qila Lal Kot	Qila Lal Kot		28.52938	77.18458	S	FT	IN		07	098	6080		0		244	Asia/Kolkata	2024-01-06
+10265417	Qiāmpur Minor	Qiampur Minor		28.9844	77.2791	H	CNL	IN		36				0		221	Asia/Kolkata	2015-05-08
+10265573	Qādirnagar Burāri	Qadirnagar Burari		28.84909	77.44441	L	LCTY	IN		36	140	738		0		221	Asia/Kolkata	2024-01-06
+10265882	Qureshipur	Qureshipur		28.34331	77.25147	P	PPL	IN		10	088	6414		0		201	Asia/Kolkata	2024-01-06
+10269850	Qāsimpur	Qasimpur		28.75999	77.61184	P	PPL	IN		36	140	738		0		218	Asia/Kolkata	2024-01-06
+10269877	Qādirābād	Qadirabad		28.86633	77.59875	P	PPL	IN		36	140	738		0		222	Asia/Kolkata	2024-01-06
+10269984	Qāzīpur	Qazipur		28.93846	77.73749	P	PPL	IN		36	138	734		0		227	Asia/Kolkata	2024-01-06
+10270048	Qādirābād Drain	Qadirabad Drain		28.66291	77.74815	H	CNL	IN		36				0		207	Asia/Kolkata	2015-07-05
+10270279	Qamrūddīnnagar	Qamruddinnagar		28.59312	77.68059	P	PPL	IN		36	661	6032		0		210	Asia/Kolkata	2024-01-07
+10276095	Qayāmpur	Qayampur		28.45579	77.55626	P	PPL	IN		36	141	743		0		204	Asia/Kolkata	2024-01-06
+10276135	Qādirpur	Qadirpur		28.28078	77.52472	P	PPL	IN		36	141	743		0		193	Asia/Kolkata	2024-01-06
+10285433	Queens Pearl Inn Hotel	Queens Pearl Inn Hotel		30.28431	77.99771	S	HTL	IN		39	060	304		0		603	Asia/Kolkata	2024-01-07
+10290166	Quality Inn Vishnupriya	Quality Inn Vishnupriya		24.56946	73.69389	S	HTL	IN		24	130	689		0		584	Asia/Kolkata	2024-01-06
+10313767	Qutbpur	Qutbpur		29.12184	75.90778	P	PPL	IN		10	080	396		0		217	Asia/Kolkata	2024-01-06
+10330633	Qadirwāli	Qadirwali		28.35863	79.17675	P	PPL	IN		36	150	786		0		170	Asia/Kolkata	2024-01-06
+10340632	Quality Inn Parle International	Quality Inn Parle International		19.10059	72.84551	S	HTL	IN		16	518	999		0		12	Asia/Kolkata	2024-01-06
+10371555	Qāsimpur	Qasimpur		28.8897	77.89381	P	PPL	IN		36	138	733		0		218	Asia/Kolkata	2024-01-06
+10372614	Qayāmpur	Qayampur		28.57352	77.76691	P	PPL	IN		36	142	746		0		206	Asia/Kolkata	2024-01-06
+10438875	Qutabpur	Qutabpur		29.7648	76.3443	P	PPL	IN		10	073	368		0		236	Asia/Kolkata	2024-01-06
+10439192	Qila Zafargarh Minor	Qila Zafargarh Minor		29.08788	76.42448	H	CNL	IN		10				0		220	Asia/Kolkata	2015-08-09
+10439345	Qādirpur	Qadirpur		28.2887	77.75811	P	PPL	IN		36	142	745		0		201	Asia/Kolkata	2024-01-06
+10439433	Qāzīpur	Qazipur		28.43319	77.85731	P	PPL	IN		36	142	746		0		208	Asia/Kolkata	2024-01-06
+10439586	Qutabpur	Qutabpur		28.40085	77.95847	P	PPL	IN		36	142	746		0		202	Asia/Kolkata	2024-01-06
+10439866	Qalandargarhi	Qalandargarhi		28.20525	77.80849	P	PPL	IN		36	142	751		0		200	Asia/Kolkata	2024-01-06
+10439871	Qalandargarhi Drain	Qalandargarhi Drain		28.18884	77.80394	H	CNL	IN		36				0		197	Asia/Kolkata	2015-08-09
+10439996	Qila Mewi	Qila Mewi		28.23662	77.85628	P	PPL	IN		36	142	751		0		197	Asia/Kolkata	2024-01-06
+10451924	Qabūlpur	Qabulpur		27.06434	78.00024	P	PPL	IN		36	146	766		0		169	Asia/Kolkata	2024-01-06
+10452678	Qāzipur	Qazipur		27.42572	78.30563	P	PPL	IN		36	201	1009		0		173	Asia/Kolkata	2024-01-07
+10452746	Qutbpur	Qutbpur		27.38305	78.351	P	PPL	IN		36	147	771		0		171	Asia/Kolkata	2024-01-06
+10455036	Qāsimpur	Qasimpur		27.59991	77.88484	P	PPL	IN		36	143	756		0		179	Asia/Kolkata	2024-01-06
+10455837	Qubādganj	Qubadganj		27.7449	78.57891	P	PPL	IN		36	201	1008		0		179	Asia/Kolkata	2024-01-07
+10456001	Qāzi Khera	Qazi Khera		27.66308	78.59326	P	PPL	IN		36	201	1008		0		174	Asia/Kolkata	2024-01-07
+10456064	Qila Himmat Singh	Qila Himmat Singh		27.62343	78.67566	S	FT	IN		36	201	1008		0		175	Asia/Kolkata	2024-01-07
+10456084	Qutbpur	Qutbpur		27.6417	78.60524	P	PPL	IN		36	201	1008		0		174	Asia/Kolkata	2024-01-07
+10456169	Qadampur	Qadampur		27.60594	78.66785	P	PPL	IN		36	201	1008		0		173	Asia/Kolkata	2024-01-07
+10456266	Qila	Qila		27.57161	78.50332	P	PPL	IN		36	201	1008		0		173	Asia/Kolkata	2024-01-07
+10456290	Qāsimpur	Qasimpur		27.54239	78.61511	P	PPL	IN		36	201	1008		0		174	Asia/Kolkata	2024-01-07
+10458592	Qutbpura	Qutbpura		27.03777	78.53804	P	PPL	IN		36	147	774		0		163	Asia/Kolkata	2024-01-06
+10460114	Qāsimpur Minor	Qasimpur Minor		27.96812	78.16062	H	CNL	IN		36				0		188	Asia/Kolkata	2015-08-09
+10460116	Qāsimpur	Qasimpur		27.99489	78.14556	P	PPL	IN		36	143	755		0		194	Asia/Kolkata	2024-01-06
+10462229	Qalandarpur	Qalandarpur		27.06042	78.88725	P	PPL	IN		36	148	776		0		156	Asia/Kolkata	2024-01-06
+10462272	Qutbpur	Qutbpur		27.01638	78.95426	P	PPL	IN		36	148	776		0		155	Asia/Kolkata	2024-01-06
+10463894	Qutbpur	Qutbpur		27.6005	78.79118	P	PPL	IN		36	201	1008		0		169	Asia/Kolkata	2024-01-07
+10463976	Qāimpur	Qaimpur		27.59361	78.92144	P	PPL	IN		36	202	1012		0		167	Asia/Kolkata	2024-01-07
+10464142	Qutbpur	Qutbpur	Kundanpur,Qutbpur	27.51657	78.82657	P	PPL	IN		36	201	1008		0		167	Asia/Kolkata	2024-01-07
+10466982	Qobardhan	Qobardhan		27.7224	79.09295	P	PPL	IN		36	202	1012		0		157	Asia/Kolkata	2024-01-07
+10467005	Qāimpur	Qaimpur		27.69685	79.12494	P	PPL	IN		36	202	1012		0		155	Asia/Kolkata	2024-01-07
+10468278	Qadrāganj	Qadraganj		27.41817	79.19022	P	PPL	IN		36	201	1007		0		161	Asia/Kolkata	2024-01-07
+10470493	Qutbuddīnpur	Qutbuddinpur		27.46845	79.38943	P	PPL	IN		36	159	830		0		157	Asia/Kolkata	2024-01-07
+10475892	Qāzīhār	Qazihar		27.13835	79.62533	P	PPL	IN		36	160	833		0		150	Asia/Kolkata	2024-01-07
+10476052	Qāzi Purwa	Qazi Purwa		27.14385	79.7219	P	PPL	IN		36	160	833		0		146	Asia/Kolkata	2024-01-07
+10476848	Qāsimganj	Qasimganj		27.75343	79.89312	P	PPL	IN		36	152	795		0		149	Asia/Kolkata	2024-01-07
+10480416	Qāzīkheri	Qazikheri		24.14297	77.66334	P	PPL	IN		35	443	3571		0		474	Asia/Kolkata	2024-01-06
+10481556	Qāsimpur	Qasimpur		27.66513	78.13244	P	PPL	IN		36	144	757		0		182	Asia/Kolkata	2024-01-06
+10481981	Qāsimpur	Qasimpur		27.98976	78.45963	P	PPL	IN		36	143	754		0		184	Asia/Kolkata	2024-01-06
+10482138	Qāsimpur	Qasimpur		27.84516	78.3502	P	PPL	IN		36	143	755		0		183	Asia/Kolkata	2024-01-06
+10482139	Qāsimpur	Qasimpur		27.85058	78.35556	P	PPL	IN		36	143	755		0		182	Asia/Kolkata	2024-01-06
+10482140	Qutbpur	Qutbpur		27.86007	78.3641	P	PPL	IN		36	143	755		0		183	Asia/Kolkata	2024-01-06
+10482212	Qadampur	Qadampur		27.79301	78.45446	P	PPL	IN		36	144	758		0		181	Asia/Kolkata	2024-01-06
+10482216	Qutbpur	Qutbpur		27.78724	78.4916	P	PPL	IN		36	202	1010		0		180	Asia/Kolkata	2024-01-07
+10482243	Qāsimpur	Qasimpur		27.77744	78.41993	P	PPL	IN		36	144	758		0		180	Asia/Kolkata	2024-01-06
+10482625	Qāsimpur	Qasimpur		27.5877	78.49183	P	PPL	IN		36	201	1008		0		176	Asia/Kolkata	2024-01-07
+10484059	Qāsimpur	Qasimpur	Kaser,Qasimpur,Qāsimpur	27.93834	78.51027	P	PPL	IN		36	143	754		0		183	Asia/Kolkata	2024-01-06
+10484291	Qāsimpur	Qasimpur		27.81037	78.69987	P	PPL	IN		36	202	1011		0		176	Asia/Kolkata	2024-01-07
+10484311	Qila Taraura	Qila Taraura		27.81485	78.64633	S	FT	IN		36	202	1010		0		177	Asia/Kolkata	2024-01-07
+10484354	Qadampur	Qadampur		27.81203	78.50069	P	PPL	IN		36	143	754		0		180	Asia/Kolkata	2024-01-06
+10484495	Qāsīmpur	Qasimpur		27.74992	78.55122	P	PPL	IN		36	201	1008		0		180	Asia/Kolkata	2024-01-07
+10486053	Qutabpur	Qutabpur		26.62739	79.5022	P	PPL	IN		36	162	842		0		143	Asia/Kolkata	2024-01-07
+10488272	Qadampur	Qadampur		27.44009	78.71652	P	PPL	IN		36	201	1008		0		169	Asia/Kolkata	2024-01-07
+10488615	Qāimpur	Qaimpur		27.3235	78.64941	P	PPL	IN		36	147	773		0		170	Asia/Kolkata	2024-01-06
+10489080	Qutbpur	Qutbpur		26.01984	79.96885	P	PPL	IN		36	168	864		0		132	Asia/Kolkata	2024-01-07
+10489082	Qutbpur Minor	Qutbpur Minor		26.00146	79.93094	H	CNL	IN		36				0		129	Asia/Kolkata	2015-08-09
+10489371	Qābilpura	Qabilpura		25.90623	79.37148	P	PPL	IN		36	165	854		0		149	Asia/Kolkata	2024-01-07
+10489678	Qāzī Nālā	Qazi Nala		25.83685	79.83231	H	STM	IN		36				0		114	Asia/Kolkata	2015-08-09
+10490669	Qutbpur	Qutbpur		25.06364	80.35596	P	PPL	IN		36	170	874		0		145	Asia/Kolkata	2024-01-07
+10490722	Qāsimpur	Qasimpur		25.02134	80.41707	P	PPL	IN		35	426	3435		0		154	Asia/Kolkata	2024-01-06
+10491250	Qasba Sohan	Qasba Sohan	Intgaon,Qasba Sohan	25.70929	81.12744	P	PPL	IN		36	172	879		0		121	Asia/Kolkata	2024-01-07
+10492173	Qutubpur	Qutubpur		25.60155	82.09171	P	PPL	IN		36	175	889		0		95	Asia/Kolkata	2024-01-07
+10492305	Qutbpatti	Qutbpatti		25.56255	82.0706	P	PPL	IN		36	175	889		0		99	Asia/Kolkata	2024-01-07
+10498558	Qutbpur	Qutbpur		25.48746	83.22515	L	LCTY	IN		36	196	992		0		71	Asia/Kolkata	2024-01-07
+10499934	Qāzīpur	Qazipur		25.11775	83.04899	L	LCTY	IN		36	199	1003		0		83	Asia/Kolkata	2024-01-07
+10500521	Qādirganj	Qadirganj		25.05638	83.19423	P	PPL	IN		36	196	994		0		126	Asia/Kolkata	2024-01-07
+10502257	Qasba Keori	Qasba Keori		25.67993	83.37459	P	PPL	IN		36	195	987		0		77	Asia/Kolkata	2024-01-07
+10502286	Qutbpur	Qutbpur		25.70379	83.34917	P	PPL	IN		36	195	987		0		76	Asia/Kolkata	2024-01-07
+10502333	Qāsimpur	Qasimpur		25.73808	83.45416	P	PPL	IN		36	195	987		0		76	Asia/Kolkata	2024-01-07
+10503274	Qādirābād	Qadirabad		25.37605	83.33979	P	PPL	IN		36	196	992		0		77	Asia/Kolkata	2024-01-07
+10504952	Qāzīpur	Qazipur		25.23784	83.35999	P	PPL	IN		36	196	993		0		79	Asia/Kolkata	2024-01-07
+10505536	Qutbanpur	Qutbanpur		25.10352	83.45292	L	LCTY	IN		34	233	1451		0		77	Asia/Kolkata	2024-01-06
+10506905	Qāsim Chak	Qasim Chak		25.95354	83.5445	P	PPL	IN		36	192	973		0		76	Asia/Kolkata	2024-01-07
+10506940	Qānūngoyān	Qanungoyan		25.9563	83.56497	P	PPL	IN		36	192	973		0		71	Asia/Kolkata	2024-01-07
+10507513	Qadīm Canal	Qadim Canal		25.38052	78.74764	H	CNL	IN		36				0		213	Asia/Kolkata	2015-08-09
+10510327	Qutabou	Qutabou		25.58995	83.97065	P	PPL	IN		36	193	978		0		68	Asia/Kolkata	2024-01-07
+10510417	Qutbpur	Qutbpur		25.50837	83.87269	P	PPL	IN		34				0		69	Asia/Kolkata	2015-08-09
+10511320	Qutbpur	Qutbpur		25.07897	83.99284	L	LCTY	IN		34	234	1467		0		96	Asia/Kolkata	2024-01-06
+10524264	Qutb Shāhi Tombs	Qutb Shahi Tombs		17.3949	78.39544	S	TMB	IN		40	536	4496		0		549	Asia/Kolkata	2024-01-07
+10536738	Qādirdādpur Sarāi	Qadirdadpur Sarai		27.56836	79.28939	P	PPL	IN		36	159	830		0		158	Asia/Kolkata	2024-01-07
+10536911	Qāsimpur Tarāi	Qasimpur Tarai		27.56284	79.45396	P	PPL	IN		36	159	830		0		146	Asia/Kolkata	2024-01-07
+10537064	Qāsim	Qasim		27.65175	79.46437	P	PPL	IN		36	152	6882		0		148	Asia/Kolkata	2024-01-06
+10539214	Qutubpur	Qutubpur		25.77335	82.31601	P	PPL	IN		36	194	983		0		88	Asia/Kolkata	2024-01-07
+10540596	Qutubpur	Qutubpur		25.66475	82.58803	P	PPL	IN		36	194	985		0		90	Asia/Kolkata	2024-01-07
+10540676	Qāzīpur Basantlāl	Qazipur Basantlal		25.59351	82.62305	P	PPL	IN		36	194	985		0		89	Asia/Kolkata	2024-01-07
+10541077	Qutlūpur	Qutlupur		25.6853	82.72074	P	PPL	IN		36	194	984		0		84	Asia/Kolkata	2024-01-07
+10541165	Qalondarpur	Qalondarpur		25.70963	82.73648	P	PPL	IN		36	194	984		0		82	Asia/Kolkata	2024-01-07
+10542415	Quisara	Quisara		24.68128	80.83495	P	PPL	IN		35	429	3461		0		320	Asia/Kolkata	2024-01-06
+10542762	Qāzīpur	Qazipur		25.72529	81.30066	P	PPL	IN		36	174	885		0		111	Asia/Kolkata	2024-01-07
+10542773	Qāzīpur Nawāwān	Qazipur Nawawan		25.69723	81.32712	P	PPL	IN		36	174	885		0		109	Asia/Kolkata	2024-01-07
+10543010	Qadampur	Qadampur		25.69318	81.47835	P	PPL	IN		36	173	881		0		105	Asia/Kolkata	2024-01-07
+10543081	Qādirābād	Qadirabad		25.51329	81.42438	P	PPL	IN		36	174	886		0		107	Asia/Kolkata	2024-01-07
+10544347	Qāzichaura	Qazichaura		25.17092	82.32757	P	PPL	IN		36	199	1000		0		90	Asia/Kolkata	2024-01-07
+10544884	Qāzīpur	Qazipur		25.40251	82.56391	P	PPL	IN		36	198	997		0		89	Asia/Kolkata	2024-01-07
+10545505	Qāzīhad	Qazihad		25.46985	82.69596	P	PPL	IN		36	194	985		0		89	Asia/Kolkata	2024-01-07
+10545534	Qamruddīnpur	Qamruddinpur		25.43879	82.71264	P	PPL	IN		36	194	985		0		86	Asia/Kolkata	2024-01-07
+10547449	Qāzīpur Utraon	Qazipur Utraon		25.44805	82.16764	P	PPL	IN		36	175	893		0		97	Asia/Kolkata	2024-01-07
+10547531	Qāzīpur	Qazipur		25.4774	82.21807	P	PPL	IN		36	175	893		0		95	Asia/Kolkata	2024-01-07
+10547582	Qāzīpur	Qazipur		25.44189	82.17188	P	PPL	IN		36	175	893		0		97	Asia/Kolkata	2024-01-07
+10547671	Qāzīpur	Qazipur		25.32559	82.20381	P	PPL	IN		36	175	893		0		92	Asia/Kolkata	2024-01-07
+10547734	Qāzīpur	Qazipur		25.41914	82.04312	P	PPL	IN		36	175	889		0		98	Asia/Kolkata	2024-01-07
+10548061	Qāzi Chak	Qazi Chak		25.20902	82.88583	P	PPL	IN		36	197	6093		0		86	Asia/Kolkata	2024-01-07
+10549624	Qāsimpur	Qasimpur		29.31252	77.1746	P	PPL	IN		36	660	706		0		238	Asia/Kolkata	2024-01-07
+10552773	Qadanpur	Qadanpur		25.66215	82.40477	P	PPL	IN		36	194	983		0		89	Asia/Kolkata	2024-01-07
+10553418	Qāsim Khera	Qasim Khera		26.70928	80.86966	P	PPL	IN		36	157	6094		0		124	Asia/Kolkata	2024-01-07
+10553667	Qasba Pachhim	Qasba Pachhim		26.46045	80.76493	P	PPL	IN		36	156	817		0		126	Asia/Kolkata	2024-01-07
+10553707	Qāzi Khera	Qazi Khera		26.38758	80.81206	P	PPL	IN		36	156	818		0		120	Asia/Kolkata	2024-01-07
+10553847	Qutabpur	Qutabpur		26.28355	80.86703	P	PPL	IN		36	156	818		0		122	Asia/Kolkata	2024-01-07
+10554650	Qabūlpur	Qabulpur		25.67996	82.7653	P	PPL	IN		36	194	984		0		86	Asia/Kolkata	2024-01-07
+10555194	Qāzīpur	Qazipur		28.57787	76.88171	P	PPL	IN		07	097	451		0		217	Asia/Kolkata	2024-01-06
+10555319	Qāzi Khera	Qazi Khera		26.18478	80.7925	P	PPL	IN		36	158	826		0		121	Asia/Kolkata	2024-01-07
+10555372	Qalandar Khera	Qalandar Khera		26.14863	80.81233	P	PPL	IN		36	158	826		0		122	Asia/Kolkata	2024-01-07
+10555458	Qāsimpur	Qasimpur		26.00258	80.77003	P	PPL	IN		36	172	878		0		121	Asia/Kolkata	2024-01-07
+10557701	Qāzi Behar	Qazi Behar		27.76437	81.183	P	PPL	IN		36	154	805		0		126	Asia/Kolkata	2024-01-07
+10557869	Qāzīpur	Qazipur		27.90566	81.18495	P	PPL	IN		36	153	802		0		129	Asia/Kolkata	2024-01-07
+10559217	Qāsimpur	Qasimpur		27.33605	81.18153	P	PPL	IN		36	154	807		0		120	Asia/Kolkata	2024-01-07
+10559518	Qabūlnagar	Qabulnagar		27.29786	81.03225	P	PPL	IN		36	154	807		0		132	Asia/Kolkata	2024-01-07
+10562303	Qeyāmpur	Qeyampur		25.94513	83.95343	P	PPL	IN		36	193	977		0		74	Asia/Kolkata	2024-01-07
+10571332	Qāzīpum	Qazipum		34.148	74.11169	P	PPL	IN		12	008	38		0		1517	Asia/Kolkata	2024-01-06
+10578080	Qāsimpur	Qasimpur		25.90259	81.03432	P	PPL	IN		36	172	879		0		116	Asia/Kolkata	2024-01-07
+10578317	Qāsimpur	Qasimpur		25.86293	81.17021	P	PPL	IN		36	172	879		0		116	Asia/Kolkata	2024-01-07
+10578318	Qāsimpur Katra	Qasimpur Katra		25.86137	81.17712	P	PPL	IN		36	172	879		0		117	Asia/Kolkata	2024-01-07
+10578494	Qaziāna	Qaziana		25.98083	81.22226	P	PPL	IN		36	158	828		0		116	Asia/Kolkata	2024-01-07
+10578525	Qāsimpur Minor	Qasimpur Minor		25.87558	81.15049	H	CNL	IN		36				0		111	Asia/Kolkata	2015-08-09
+10579424	Qāzipura Sādāt	Qazipura Sadat		28.96024	78.42186	P	PPL	IN		36	137	6831		0		218	Asia/Kolkata	2024-01-06
+10579475	Qāsimpur	Qasimpur		28.86101	78.4276	P	PPL	IN		36	137	730		0		213	Asia/Kolkata	2024-01-06
+10579605	Qāsimpur Meo	Qasimpur Meo		28.96259	78.48089	P	PPL	IN		36	137	6831		0		211	Asia/Kolkata	2024-01-06
+10580032	Qāzi Kola	Qazi Kola		27.24723	80.80585	P	PPL	IN		36	154	808		0		132	Asia/Kolkata	2024-01-07
+10580091	Qāsimpur	Qasimpur		27.18269	80.80787	P	PPL	IN		36	154	808		0		120	Asia/Kolkata	2024-01-07
+10580373	Qāzi Har	Qazi Har		27.09465	80.90853	P	PPL	IN		36	157	820		0		130	Asia/Kolkata	2024-01-07
+10581006	Qāzi Khera	Qazi Khera		26.25753	80.30586	P	PPL	IN		36	164	6163		0		124	Asia/Kolkata	2024-01-07
+10582609	Qāsimpur	Qasimpur		28.60655	78.35645	P	PPL	IN		36	137	731		0		201	Asia/Kolkata	2024-01-06
+10582917	Qutabpur Mali	Qutabpur Mali		28.54861	78.45932	L	LCTY	IN		36	659	721		0		198	Asia/Kolkata	2024-01-07
+10584950	Qāzīkhera	Qazikhera		28.97485	78.53244	P	PPL	IN		36	135	718		0		216	Asia/Kolkata	2024-01-06
+10584951	Qāzīkhera Minor	Qazikhera Minor		28.96051	78.56077	H	CNL	IN		36				0		213	Asia/Kolkata	2015-08-09
+10585006	Qāzi Sarāi	Qazi Sarai	Kankar Sarai,Kānkar Sarāi,Qazi Sarai,Qāzi Sarāi	28.87078	78.50386	P	PPL	IN		36	137	730		0		213	Asia/Kolkata	2024-01-06
+10585103	Qāsimpur Jat	Qasimpur Jat		28.86501	78.60752	P	PPL	IN		36	137	730		0		205	Asia/Kolkata	2024-01-06
+10585330	Qāzīpura	Qazipura		28.8889	78.72129	P	PPL	IN		36	135	719		0		207	Asia/Kolkata	2024-01-06
+10585352	Qāzīpura	Qazipura		28.98431	78.74618	P	PPL	IN		36	135	717		0		200	Asia/Kolkata	2024-01-06
+10585981	Qāzīpur	Qazipur		25.79782	81.49916	P	PPL	IN		36	173	881		0		107	Asia/Kolkata	2024-01-07
+10586225	Qāsampur	Qasampur		28.58969	78.6493	P	PPL	IN		36	659	721		0		199	Asia/Kolkata	2024-01-07
+10586662	Qāzīpur	Qazipur		25.77895	81.43017	P	PPL	IN		36	173	881		0		110	Asia/Kolkata	2024-01-07
+10586766	Qasba Latīfpur	Qasba Latifpur		25.87191	81.47657	P	PPL	IN		36	173	881		0		115	Asia/Kolkata	2024-01-07
+10587239	Quraishpur	Quraishpur		28.26982	78.67175	P	PPL	IN		36	149	781		0		185	Asia/Kolkata	2024-01-06
+10592779	Qāzīwāla	Qaziwala		28.52621	78.87336	P	PPL	IN		36	659	722		0		187	Asia/Kolkata	2024-01-07
+10592905	Qāsim Nagla	Qasim Nagla		28.65309	78.92479	P	PPL	IN		36	136	727		0		187	Asia/Kolkata	2024-01-06
+10592936	Qāsimpur	Qasimpur		28.58215	78.91359	P	PPL	IN		36	135	720		0		189	Asia/Kolkata	2024-01-06
+10592996	Qāsim Nagla	Qasim Nagla		28.61118	78.98022	P	PPL	IN		36	136	727		0		181	Asia/Kolkata	2024-01-06
+10593029	Qāzipura	Qazipura	Menhadipura,Qazipura,Qāzipura	28.73094	78.98738	P	PPL	IN		36	136	726		0		185	Asia/Kolkata	2024-01-06
+10594785	Qumir	Qumir		33.95609	74.58622	P	PPL	IN		12	002	6		0		1974	Asia/Kolkata	2024-01-06
+10595112	Qurbānpur	Qurbanpur		28.00259	78.78584	P	PPL	IN		36	149	781		0		168	Asia/Kolkata	2024-01-06
+10597628	Qutbpur	Qutbpur		25.46071	81.37958	L	LCTY	IN		36	174	886		0		104	Asia/Kolkata	2024-01-07
+10597788	Qādir Mahājan ka Purwa	Qadir Mahajan ka Purwa		25.37779	81.38518	P	PPL	IN		36	174	886		0		108	Asia/Kolkata	2024-01-07
+10598332	Qāsimpur	Qasimpur		25.41304	81.43048	P	PPL	IN		36	174	886		0		105	Asia/Kolkata	2024-01-07
+10598339	Qāimpur	Qaimpur		25.3886	81.43024	P	PPL	IN		36	174	886		0		110	Asia/Kolkata	2024-01-07
+10598522	Qutb Ālampur	Qutb Alampur		25.4678	81.43453	P	PPL	IN		36	174	886		0		105	Asia/Kolkata	2024-01-07
+10598692	Qutbpur Minor	Qutbpur Minor		25.45519	81.37932	H	CNL	IN		36				0		107	Asia/Kolkata	2015-08-09
+10602017	Qutabpur	Qutabpur		27.09277	82.42132	P	PPL	IN		36	182	927		0		100	Asia/Kolkata	2024-01-07
+10602595	Qutab Jot	Qutab Jot		27.07624	82.49589	P	PPL	IN		36	183	931		0		97	Asia/Kolkata	2024-01-07
+10606862	Qaisarmul	Qaisarmul		33.93918	74.82387	P	PPL	IN		12	002	8		0		1641	Asia/Kolkata	2024-01-06
+10606909	Qāzīpur	Qazipur		33.90518	74.84275	P	PPL	IN		12	012	51		0		1687	Asia/Kolkata	2024-01-06
+10606959	Qalampor	Qalampor		33.7954	74.83249	P	PPL	IN		12	012	6796		0		1861	Asia/Kolkata	2024-01-06
+10607079	Qazigund	Qazigund		33.95702	74.90614	P	PPL	IN		12	012	6793		0		1589	Asia/Kolkata	2024-01-06
+10612549	Qāzīyākūpur	Qaziyakupur		25.99127	83.00665	P	PPL	IN		36	191	967		0		86	Asia/Kolkata	2024-01-07
+10617033	Qāzi Bhīti	Qazi Bhiti		25.95431	83.14898	P	PPL	IN		36	191	966		0		80	Asia/Kolkata	2024-01-07
+10617249	Qutabpur	Qutabpur		25.92406	83.21988	P	PPL	IN		36	191	966		0		81	Asia/Kolkata	2024-01-07
+10625641	Qasba Pahalwānpur	Qasba Pahalwanpur		25.82745	83.29116	P	PPL	IN		36	191	970		0		78	Asia/Kolkata	2024-01-07
+10625825	Qālījpur	Qalijpur		25.84042	83.33946	P	PPL	IN		36	192	974		0		77	Asia/Kolkata	2024-01-07
+10626059	Qutubpur	Qutubpur		25.8675	83.42958	P	PPL	IN		36	192	974		0		78	Asia/Kolkata	2024-01-07
+10626130	Qādirshāhpur	Qadirshahpur		25.79071	83.41997	P	PPL	IN		36	195	987		0		79	Asia/Kolkata	2024-01-07
+10656692	Qāsimpur	Qasimpur		27.12045	83.53047	P	PPL	IN		36	187	947		0		91	Asia/Kolkata	2024-01-07
+10657650	Qāzīpur Gosāīn	Qazipur Gosain		25.96988	81.57609	P	PPL	IN		36	173	880		0		107	Asia/Kolkata	2024-01-07
+10658130	Qāzīpur	Qazipur		25.89879	81.73607	P	PPL	IN		36	173	880		0		107	Asia/Kolkata	2024-01-07
+10658268	Qāsimpur Minor	Qasimpur Minor		25.83554	81.59095	H	CNL	IN		36				0		106	Asia/Kolkata	2015-09-08
+10666588	Qāzīpur Gulām Jāfar	Qazipur Gulam Jafar		25.74953	81.56732	P	PPL	IN		36	173	881		0		107	Asia/Kolkata	2024-01-07
+10667257	Qayāmuddīnpur	Qayamuddinpur		25.51018	81.63983	P	PPL	IN		36	174	887		0		105	Asia/Kolkata	2024-01-07
+10668384	Qāsimpur	Qasimpur		26.006	83.50323	P	PPL	IN		36	192	973		0		76	Asia/Kolkata	2024-01-07
+10668706	Qutbpur	Qutbpur		26.10462	83.71244	P	PPL	IN		36	192	972		0		78	Asia/Kolkata	2024-01-07
+10672315	Qayampur	Qayampur		25.72635	83.50622	P	PPL	IN		36	195	989		0		79	Asia/Kolkata	2024-01-07
+10672323	Qasba Gaur	Qasba Gaur		25.7423	83.54624	P	PPL	IN		36	195	989		0		76	Asia/Kolkata	2024-01-07
+10672357	Qayāmpur	Qayampur		25.68422	83.5439	P	PPL	IN		36	195	989		0		75	Asia/Kolkata	2024-01-07
+10672737	Qamar Alī Chak	Qamar Ali Chak		25.64024	83.64368	P	PPL	IN		36	195	990		0		72	Asia/Kolkata	2024-01-07
+10672798	Qāzipur Mākhupur	Qazipur Makhupur		25.62374	83.58603	P	PPL	IN		36	195	989		0		73	Asia/Kolkata	2024-01-07
+10672852	Qutb Chak	Qutb Chak		25.60046	83.6248	S	FRM	IN		36	195	989		0		60	Asia/Kolkata	2024-01-07
+10672907	Qāsimpur Tārī	Qasimpur Tari		25.55882	83.59273	S	FRM	IN		36	195	991		0		71	Asia/Kolkata	2024-01-07
+10672962	Qayāmpur	Qayampur		25.72718	83.6993	P	PPL	IN		36	195	6834		0		72	Asia/Kolkata	2024-01-07
+10672983	Qayāmpur	Qayampur		25.68774	83.69559	P	PPL	IN		36	195	6834		0		73	Asia/Kolkata	2024-01-07
+10673067	Qāzīpura	Qazipura		25.64258	83.70587	P	PPL	IN		36	195	990		0		71	Asia/Kolkata	2024-01-07
+10673098	Qāzīpur	Qazipur		25.63088	83.74584	P	PPL	IN		36	195	990		0		74	Asia/Kolkata	2024-01-07
+10678423	Qunain	Qunain		32.73849	75.3334	P	PPL	IN		12	019	74		0		1333	Asia/Kolkata	2024-01-06
+10679552	Qādirpur Newāda	Qadirpur Newada		25.37049	81.60296	P	PPL	IN		36	174	887		0		105	Asia/Kolkata	2024-01-07
+10679707	Qādilpur	Qadilpur		25.41912	81.68427	P	PPL	IN		36	175	890		0		102	Asia/Kolkata	2024-01-07
+10679761	Qutbanpur	Qutbanpur		25.45244	81.7088	L	LCTY	IN		36	175	890		0		101	Asia/Kolkata	2024-01-07
+10679791	Qāzīpur	Qazipur		25.4984	81.63722	P	PPL	IN		36	174	887		0		104	Asia/Kolkata	2024-01-07
+10683641	Qāzi ka Purwa	Qazi ka Purwa		25.90704	81.93468	P	PPL	IN		36	173	882		0		96	Asia/Kolkata	2024-01-07
+10685295	Qāzīpur	Qazipur		25.38931	81.87057	P	PPL	IN		36	175	892		0		99	Asia/Kolkata	2024-01-07
+10695425	Qatla	Qatla		31.9695	74.87064	P	PPL	IN		23	049	255		0		234	Asia/Kolkata	2024-01-06
+10695575	Qiāmpur	Qiampur		31.80859	74.82536	P	PPL	IN		23	049	255		0		231	Asia/Kolkata	2024-01-06
+10695823	Qāzikot	Qazikot		31.46531	74.90413	P	PPL	IN		23	050	259		0		225	Asia/Kolkata	2024-01-06
+10696189	Qila	Qila		31.16334	74.75903	P	PPL	IN		23	050	260		0		205	Asia/Kolkata	2024-01-06
+10696269	Qutbpura	Qutbpura		31.0924	74.98863	P	PPL	IN		23	043	234		0		209	Asia/Kolkata	2024-01-06
+10696272	Qutbpur Branch	Qutbpur Branch		31.0971	74.93568	H	CNL	IN		23				0		206	Asia/Kolkata	2015-09-08
+10696869	Qutbewāla	Qutbewala		30.98236	74.62776	P	PPL	IN		23	043	235		0		201	Asia/Kolkata	2024-01-06
+10697102	Qawi	Qawi		29.43501	76.78107	P	PPL	IN		10	075	6412		0		238	Asia/Kolkata	2024-01-06
+10698255	Qāzīkhera	Qazikhera		29.46371	77.60757	P	PPL	IN		36	133	708		0		250	Asia/Kolkata	2024-01-06
+10698677	Qutbewāl	Qutbewal		31.36074	75.20078	P	PPL	IN		23	036	207		0		217	Asia/Kolkata	2024-01-06
+10698742	Qutbewāla	Qutbewala	Mairwala,Mairwāla,Qutbewala,Qutbewāla	31.34916	75.18181	P	PPL	IN		23	036	207		0		226	Asia/Kolkata	2024-01-06
+10698804	Quthewāl	Quthewal		31.15162	75.11282	P	PPL	IN		23	037	209		0		210	Asia/Kolkata	2024-01-06
+10701480	Qādirābād	Qadirabad		31.29321	75.42079	P	PPL	IN		23	036	206		0		229	Asia/Kolkata	2024-01-06
+10712301	Qutbpur	Qutbpur		27.43267	80.97112	P	PPL	IN		36	154	806		0		137	Asia/Kolkata	2024-01-07
+10712380	Qāimpur	Qaimpur		27.31628	80.96052	P	PPL	IN		36	154	808		0		135	Asia/Kolkata	2024-01-07
+10722928	Qasba	Qasba		32.18359	76.39847	P	PPL	IN		11	024	99		0		1290	Asia/Kolkata	2024-01-06
+10723308	Qasha	Qasha		32.05941	76.47222	P	PPL	IN		11	024	7048		0		972	Asia/Kolkata	2024-01-06
+10723417	Qasba	Qasba		32.0014	76.47581	P	PPL	IN		11	024	6939		0		843	Asia/Kolkata	2024-01-06
+10723964	Qazīpur	Qazipur		27.03848	81.13099	P	PPL	IN		36	176	898		0		125	Asia/Kolkata	2024-01-07
+10723997	Qasimganj	Qasimganj		27.06253	81.17898	P	PPL	IN		36	176	898		0		126	Asia/Kolkata	2024-01-07
+10724050	Qutlūpur	Qutlupur		27.09544	81.19227	P	PPL	IN		36	176	896		0		123	Asia/Kolkata	2024-01-07
+10726428	Qasba	Qasba		32.04661	76.64512	P	PPL	IN		11	024	112		0		988	Asia/Kolkata	2024-01-06
+10726434	Qasba	Qasba		32.05231	76.63201	P	PPL	IN		11	024	112		0		968	Asia/Kolkata	2024-01-06
+10726475	Qasba	Qasba		32.05087	76.5229	P	PPL	IN		11	024	6899		0		1007	Asia/Kolkata	2024-01-06
+10726622	Qasba	Qasba		32.02433	76.53189	P	PPL	IN		11	024	6939		0		917	Asia/Kolkata	2024-01-06
+10726625	Qasba	Qasba		32.01374	76.52849	P	PPL	IN		11	024	6939		0		873	Asia/Kolkata	2024-01-06
+10735096	Qadirpur	Qadirpur		30.75137	76.99742	P	PPL	IN		10	069	356		0		608	Asia/Kolkata	2024-01-06
+10739570	Qaiyūm Sāgar	Qaiyum Sagar		23.23191	74.41632	H	LKI	IN		24				0		273	Asia/Kolkata	2015-09-08
+10742273	Qagna	Qagna		30.9984	77.50378	P	PPL	IN		11	033	185		0		2315	Asia/Kolkata	2024-01-06
+10743956	Qāsimpur	Qasimpur		30.17321	77.50677	P	PPL	IN		36	132	701		0		285	Asia/Kolkata	2024-01-06
+10744055	Qādirpur	Qadirpur		30.16324	77.59459	P	PPL	IN		36	132	701		0		299	Asia/Kolkata	2024-01-06
+10744165	Qutbpur Kisāni	Qutbpur Kisani		30.01724	77.64791	P	PPL	IN		36	132	702		0		285	Asia/Kolkata	2024-01-06
+10750675	Qādirābād	Qadirabad		28.92472	78.1655	P	PPL	IN		36	137	729		0		206	Asia/Kolkata	2024-01-06
+10750714	Qāzipura	Qazipura		28.87704	78.2052	L	LCTY	IN		36	137	729		0		207	Asia/Kolkata	2024-01-06
+10750839	Qāsimabād	Qasimabad		28.76131	78.16904	P	PPL	IN		36	137	731		0		202	Asia/Kolkata	2024-01-06
+10751294	Qutbpūr	Qutbpur		28.32116	78.05568	P	PPL	IN		36	142	750		0		199	Asia/Kolkata	2024-01-06
+10751296	Qādirābād	Qadirabad		28.32119	78.06762	P	PPL	IN		36	142	750		0		199	Asia/Kolkata	2024-01-06
+10751923	Qāsimpūr Nagri	Qasimpur Nagri		28.05496	78.39924	P	PPL	IN		36	143	754		0		185	Asia/Kolkata	2024-01-06
+10751945	Qāsimpūr Gadaipūr	Qasimpur Gadaipur		28.05118	78.26286	P	PPL	IN		36	143	754		0		190	Asia/Kolkata	2024-01-06
+10805084	Qāimnagar	Qaimnagar		25.58699	84.72526	P	PPL	IN		34	231	1424		0		62	Asia/Kolkata	2024-01-06
+10810745	Qila Jobat	Qila Jobat		22.43828	74.5666	P	PPL	IN		35	465	3712		0		326	Asia/Kolkata	2024-01-06
+10812417	Qāzipur	Qazipur	Kazipur,Kāzipur,Qazipur,Qāzipur	25.75042	84.84205	P	PPL	IN		34	219	1258		0		58	Asia/Kolkata	2024-01-06
+10815246	Qāzīpura	Qazipura		26.44026	74.58898	P	PPL	IN		24	119	607		0		521	Asia/Kolkata	2024-01-06
+10817200	Qāzipur	Qazipur		26.68114	84.07368	P	PPL	IN		36	189	958		0		80	Asia/Kolkata	2024-01-07
+10817740	Quini Goshāin	Quini Goshain		26.69599	84.19447	P	PPL	IN		36	189	958		0		82	Asia/Kolkata	2024-01-07
+10817745	Quini Khurd	Quini Khurd		26.67778	84.2037	L	LCTY	IN		36	189	958		0		81	Asia/Kolkata	2024-01-07
+10817746	Quini Bariārpur	Quini Bariarpur		26.68255	84.20659	P	PPL	IN		36	189	958		0		83	Asia/Kolkata	2024-01-07
+10817762	Quini	Quini		26.69519	84.20014	P	PPL	IN		36	189	958		0		83	Asia/Kolkata	2024-01-07
+10818539	Qadir Chak	Qadir Chak		26.35653	84.18539	P	PPL	IN		34	218	1229		0		73	Asia/Kolkata	2024-01-06
+10818674	Qazīpur	Qazipur		26.47246	84.24155	P	PPL	IN		34	217	1220		0		75	Asia/Kolkata	2024-01-06
+10823717	Qāzīpur	Qazipur		28.19621	79.20093	P	PPL	IN		36	149	782		0		167	Asia/Kolkata	2024-01-06
+10823747	Qādirnagar	Qadirnagar		28.20234	79.07347	P	PPL	IN		36	149	779		0		174	Asia/Kolkata	2024-01-06
+10823837	Qāsimpur	Qasimpur		28.10994	79.1315	P	PPL	IN		36	149	782		0		175	Asia/Kolkata	2024-01-06
+10823906	Qabūlpura	Qabulpura		28.03648	79.11639	P	PPL	IN		36	149	782		0		170	Asia/Kolkata	2024-01-06
+10824664	Qaziāpura	Qaziapura		28.68583	79.26448	P	PPL	IN		36	136	728		0		182	Asia/Kolkata	2024-01-06
+10824907	Qutubpur	Qutubpur		28.7284	79.34834	P	PPL	IN		36	150	784		0		183	Asia/Kolkata	2024-01-06
+10825649	Qādirābād	Qadirabad		28.09701	79.29897	P	PPL	IN		36	149	782		0		161	Asia/Kolkata	2024-01-06
+10827850	Qāzīpur	Qazipur		26.56296	84.91772	P	PPL	IN		34	204	1050		0		67	Asia/Kolkata	2024-01-06
+10831678	Qāzipura	Qazipura		25.76334	84.15606	P	PPL	IN		36	193	978		0		63	Asia/Kolkata	2024-01-07
+10833358	Qamariya	Qamariya		25.19108	84.80909	P	PPL	IN		34	240	1546		0		75	Asia/Kolkata	2024-01-06
+10833369	Qamariya Chak	Qamariya Chak		25.18651	84.81456	P	PPL	IN		34	240	1546		0		75	Asia/Kolkata	2024-01-06
+10834823	Qāzībighā	Qazibigha		24.57337	84.03023	P	PPL	IN		38	358	2615		0		144	Asia/Kolkata	2024-01-07
+10841221	Qāzi Chak	Qazi Chak		24.38764	84.52543	P	PPL	IN		34	236	1501		0		210	Asia/Kolkata	2024-01-06
+10841947	Qāzi Chak	Qazi Chak		25.39494	85.76076	P	PPL	IN		34	230	1418		0		50	Asia/Kolkata	2024-01-06
+10841994	Qāzi Chak	Qazi Chak		25.2997	85.78941	P	PPL	IN		34	229	1384		0		50	Asia/Kolkata	2024-01-06
+10842627	Qāzi Fātu Chak	Qazi Fatu Chak		25.24902	85.75002	P	PPL	IN		34	228	1372		0		50	Asia/Kolkata	2024-01-06
+10842643	Qāzi Chak	Qazi Chak		25.23287	85.81325	P	PPL	IN		34	229	1384		0		48	Asia/Kolkata	2024-01-06
+10854022	Quarry Honnenhalli	Quarry Honnenhalli		13.45708	77.7372	P	PPL	IN		19	582	2902		0		914	Asia/Kolkata	2024-01-06
+10880857	Qāzi Rasūlpur	Qazi Rasulpur		25.51424	85.94874	P	PPL	IN		34	222	1308		0		47	Asia/Kolkata	2024-01-06
+10882122	Qāzi Bigha	Qazi Bigha		24.82443	85.32961	P	PPL	IN		34	237	1520		0		99	Asia/Kolkata	2024-01-06
+10882388	Qāzi Bigha	Qazi Bigha		24.94124	85.47397	P	PPL	IN		34	237	1511		0		82	Asia/Kolkata	2024-01-06
+10882518	Qāzipura	Qazipura		24.80275	85.42126	P	PPL	IN		34	237	1521		0		104	Asia/Kolkata	2024-01-06
+10885525	Qāzi Chak	Qazi Chak		24.86226	85.62655	P	PPL	IN		34	237	1517		0		101	Asia/Kolkata	2024-01-06
+10885724	Qāzi Chak	Qazi Chak		24.83449	85.66569	P	PPL	IN		34	237	1517		0		102	Asia/Kolkata	2024-01-06
+10892617	Qāzi Dumra	Qazi Dumra		25.87843	86.03153	P	PPL	IN		34	221	1286		0		49	Asia/Kolkata	2024-01-06
+10894403	Qāsimpur	Qasimpur		25.35641	86.24705	P	PPL	IN		34	222	1320		0		45	Asia/Kolkata	2024-01-06
+10898215	Qutbpur	Qutbpur		25.50704	86.44882	P	PPL	IN		34	223	1323		0		45	Asia/Kolkata	2024-01-06
+10898430	Qasba	Qasba		25.42889	86.29366	P	PPL	IN		34	222	1319		0		47	Asia/Kolkata	2024-01-06
+10898457	Qasba	Qasba		25.34631	86.267	P	PPL	IN		34	222	1319		0		38	Asia/Kolkata	2024-01-06
+10898543	Qāsimpur	Qasimpur		25.49877	86.41729	P	PPL	IN		34	223	1323		0		41	Asia/Kolkata	2024-01-06
+10898594	Qāsim Bāzār	Qasim Bazar		25.35748	86.46767	P	PPLX	IN		34	226	1356		0		43	Asia/Kolkata	2024-01-06
+10903197	Qāsimpur	Qasimpur		25.70128	86.63474	P	PPL	IN		34	214	1180		0		44	Asia/Kolkata	2024-01-06
+10905371	Qāzi Chak	Qazi Chak		25.08093	86.66258	P	PPL	IN		34	226	1362		0		58	Asia/Kolkata	2024-01-06
+10905470	Qasba	Qasba		25.21943	86.68571	P	PPL	IN		34	224	1340		0		40	Asia/Kolkata	2024-01-06
+10905521	Qasba	Qasba		25.11987	86.66357	P	PPL	IN		34	226	1362		0		56	Asia/Kolkata	2024-01-06
+10910062	Qāzi Koraiya	Qazi Koraiya		25.32212	86.9814	P	PPLQ	IN		34	224	1331		0		37	Asia/Kolkata	2024-01-06
+10922782	Quilūr	Quilur		11.9824	75.60238	P	PPL	IN		13	589	5937		0		36	Asia/Kolkata	2024-01-06
+10926797	Qila Jīwan Singh	Qila Jiwan Singh		31.61823	74.97404	P	PPL	IN		23	049	256		0		231	Asia/Kolkata	2024-01-06
+10934703	Qutabpur	Qutabpur		26.7288	79.19484	P	PPL	IN		36	161	839		0		149	Asia/Kolkata	2024-01-07
+10938247	Quelaudem	Quelaudem		15.62726	74.09423	P	PPL	IN		33	585	5613		0		101	Asia/Kolkata	2024-01-06
+10938313	Queunicho Dongar	Queunicho Dongar		15.61519	74.18746	T	MT	IN		33	585	5613		0		352	Asia/Kolkata	2024-01-06
+10964191	Qutabpur	Qutabpur		26.97017	79.35094	P	PPL	IN		36	148	6872		0		150	Asia/Kolkata	2024-01-06
+10964372	Qāimpura	Qaimpura		26.86375	79.31829	P	PPL	IN		36	161	6158		0		153	Asia/Kolkata	2024-01-07
+10964462	Qadampur	Qadampur		26.79374	79.4045	P	PPL	IN		36	162	841		0		148	Asia/Kolkata	2024-01-07
+10964582	Qutabpur	Qutabpur		26.96362	79.45208	P	PPL	IN		36	160	833		0		150	Asia/Kolkata	2024-01-07
+10966376	Qasba Bābarpur	Qasba Babarpur		26.57363	79.31031	P	PPL	IN		36	162	6877		0		145	Asia/Kolkata	2024-01-07
+10966416	Qasba Shinganpur	Qasba Shinganpur		26.50437	79.32181	P	PPL	IN		36	162	6877		0		142	Asia/Kolkata	2024-01-07
+10966428	Qasba Jahān	Qasba Jahan		26.51733	79.36998	P	PPL	IN		36	162	6877		0		150	Asia/Kolkata	2024-01-07
+10977012	Queri	Queri		14.98544	74.25174	P	PPL	IN		33	586	5619		0		500	Asia/Kolkata	2024-01-06
+10994916	Qasba	Qasba		25.05302	87.10879	P	PPL	IN		34	225	1348		0		51	Asia/Kolkata	2024-01-06
+10995771	Qasba	Qasba		25.0639	87.2849	P	PPL	IN		38	351	2558		0		57	Asia/Kolkata	2024-01-07
+10995959	Qasba	Qasba		25.17933	87.39376	P	PPL	IN		38	351	2555		0		51	Asia/Kolkata	2024-01-07
+11010700	Qutubpur Bangri	Qutubpur Bangri		25.96747	85.09632	P	PPL	IN		34	220	1268		0		60	Asia/Kolkata	2024-01-06
+11011920	Qutubpur	Qutubpur		25.43778	85.02414	P	PPL	IN		34	230	1410		0		60	Asia/Kolkata	2024-01-06
+11011970	Qāzi Chak	Qazi Chak		25.40472	85.03987	P	PPL	IN		34	230	1408		0		60	Asia/Kolkata	2024-01-06
+11012167	Qādirganj	Qadirganj		25.28909	85.08937	P	PPL	IN		34	230	1409		0		65	Asia/Kolkata	2024-01-06
+11012185	Qawālpur	Qawalpur		25.29196	85.12555	P	PPL	IN		34	239	1538		0		62	Asia/Kolkata	2024-01-06
+11012418	Qāzi Bigha	Qazi Bigha		25.40432	85.18915	P	PPL	IN		34	230	1411		0		56	Asia/Kolkata	2024-01-06
+11013031	Qāzibāri	Qazibari		25.65163	87.60133	P	PPL	IN		34	212	1144		0		36	Asia/Kolkata	2024-01-06
+11015451	Qāsimpur	Qasimpur		25.4342	87.88852	P	PPL	IN		28	332	2208		0		32	Asia/Kolkata	2024-01-06
+11015518	Qāsimpur	Qasimpur		25.2764	87.9556	P	PPL	IN		28	332	2211		0		32	Asia/Kolkata	2024-01-06
+11017092	Qāzi Daulatpur	Qazi Daulatpur		25.18946	85.04253	P	PPL	IN		34	239	1537		0		70	Asia/Kolkata	2024-01-06
+11017527	Qāzipur	Qazipur		25.2114	85.1993	P	PPL	IN		34	229	1391		0		66	Asia/Kolkata	2024-01-06
+11017577	Qāsimpur	Qasimpur		25.15719	85.2097	P	PPL	IN		34	229	1392		0		71	Asia/Kolkata	2024-01-06
+11017588	Qāzi Chak	Qazi Chak		25.13504	85.19563	P	PPL	IN		34	229	1392		0		75	Asia/Kolkata	2024-01-06
+11020630	Qāzīpur Dohji	Qazipur Dohji		25.79944	85.33074	P	PPL	IN		34	220	1271		0		54	Asia/Kolkata	2024-01-06
+11020674	Qāzīpur Thāthan	Qazipur Thathan		25.7525	85.25589	P	PPL	IN		34	220	1278		0		54	Asia/Kolkata	2024-01-06
+11020709	Qutubpur	Qutubpur		25.79043	85.37195	P	PPL	IN		34	220	1272		0		57	Asia/Kolkata	2024-01-06
+11020846	Qutubpur	Qutubpur		25.95099	85.48158	P	PPL	IN		34	216	1214		0		55	Asia/Kolkata	2024-01-06
+11020900	Qutubpur	Qutubpur		25.87604	85.48601	P	PPL	IN		34	220	1274		0		53	Asia/Kolkata	2024-01-06
+11027630	Qutubpur	Qutubpur		25.74941	85.26052	P	PPL	IN		34	220	1278		0		53	Asia/Kolkata	2024-01-06
+11027690	Qila Larui	Qila Larui		25.69801	85.28482	P	PPL	IN		34	220	1278		0		54	Asia/Kolkata	2024-01-06
+11027826	Qutubpur	Qutubpur		25.60996	85.36916	P	PPL	IN		34	220	1280		0		55	Asia/Kolkata	2024-01-06
+11027840	Qutubpur	Qutubpur		25.6279	85.36837	P	PPL	IN		34	220	1280		0		55	Asia/Kolkata	2024-01-06
+11027854	Qāzīpatti	Qazipatti		25.65901	85.35525	P	PPL	IN		34	220	1280		0		51	Asia/Kolkata	2024-01-06
+11028016	Quatpur	Quatpur		25.61667	85.43317	P	PPL	IN		34	220	1282		0		49	Asia/Kolkata	2024-01-06
+11028270	Qāzi Bigha	Qazi Bigha		25.43038	85.27551	P	PPL	IN		34	230	1412		0		55	Asia/Kolkata	2024-01-06
+11028392	Qāzi Chak	Qazi Chak		25.28905	85.28881	P	PPL	IN		34	229	1390		0		55	Asia/Kolkata	2024-01-06
+11028661	Qāimpur	Qaimpur		25.48023	85.39812	P	PPL	IN		34	230	1413		0		55	Asia/Kolkata	2024-01-06
+11028710	Qāzi Chak	Qazi Chak		25.42211	85.41889	P	PPL	IN		34	229	1380		0		49	Asia/Kolkata	2024-01-06
+11029035	Qutlūpur	Qutlupur		25.18118	85.30933	P	PPL	IN		34	229	1389		0		65	Asia/Kolkata	2024-01-06
+11029043	Qāzi Bigha	Qazi Bigha		25.17368	85.27321	P	PPL	IN		34	229	1392		0		65	Asia/Kolkata	2024-01-06
+11029272	Qutlūpur	Qutlupur		25.115	85.36511	P	PPL	IN		34	229	1393		0		65	Asia/Kolkata	2024-01-06
+11030826	Qutubpura	Qutubpura		25.2932	85.55054	P	PPL	IN		34	229	1382		0		52	Asia/Kolkata	2024-01-06
+11030861	Qāzi Chak	Qazi Chak		25.2887	85.58202	P	PPL	IN		34	229	1382		0		50	Asia/Kolkata	2024-01-06
+11031006	Qāzi Chak	Qazi Chak		25.47861	85.7165	P	PPL	IN		34	230	1417		0		49	Asia/Kolkata	2024-01-06
+11040362	Qāsim ji Dhāni	Qasim ji Dhani		25.1622	70.88627	P	PPL	IN		24	115	6912		0		138	Asia/Kolkata	2024-01-06
+11055613	Qāmat Daulatpur	Qamat Daulatpur		26.17329	87.54856	P	PPL	IN		34	209	1120		0		53	Asia/Kolkata	2024-01-06
+11062824	Qabar Jinnat	Qabar Jinnat		27.46031	80.13443	S	CMTY	IN		36	155	811		0		144	Asia/Kolkata	2024-01-07
+11062855	Qāimpur	Qaimpur		27.49856	80.16666	P	PPL	IN		36	155	811		0		147	Asia/Kolkata	2024-01-07
+11063039	Quin Bāgh	Quin Bagh		27.40089	80.13489	S	GDN	IN		36	155	811		0		149	Asia/Kolkata	2024-01-07
+11063124	Qutbapur	Qutbapur		27.19526	80.08108	P	PPL	IN		36	155	812		0		144	Asia/Kolkata	2024-01-07
+11063130	Qutlūpur	Qutlupur		27.1888	80.04219	P	PPL	IN		36	155	812		0		141	Asia/Kolkata	2024-01-07
+11063252	Qāzipur	Qazipur		27.0434	80.08084	P	PPL	IN		36	155	812		0		132	Asia/Kolkata	2024-01-07
+11063257	Qurbānpur	Qurbanpur		27.02773	80.06254	P	PPL	IN		36	155	812		0		130	Asia/Kolkata	2024-01-07
+11063556	Qāzipur Farnatnagar	Qazipur Farnatnagar		27.073	80.15627	P	PPL	IN		36	155	812		0		143	Asia/Kolkata	2024-01-07
+11071415	Quila Kumbhalgarh	Quila Kumbhalgarh		25.13514	73.57368	P	PPL	IN		24	123	642		0	0	963	Asia/Kolkata	2024-01-06
+11326844	Qutubpur	Qutubpur	Qutubpur	25.53696	85.58302	P	PPLQ	IN		34	221	1293		0		41	Asia/Kolkata	2024-01-06
+11326936	Qutubpur	Qutubpur	Qutubpur	25.62334	85.50477	P	PPL	IN		34	220	1283		0		51	Asia/Kolkata	2024-01-06
+11327076	Qāsim Chak	Qasim Chak	Qasim Chak,Qāsim Chak	25.59986	85.65843	P	PPL	IN		34	221	1294		0		53	Asia/Kolkata	2024-01-06
+11424209	Qudakulurāti Konda	Qudakulurati Konda		13.54837	79.85924	T	HLL	IN		02	752	5403		0		254	Asia/Kolkata	2024-01-06
+11464156	Qutubpur	Qutubpur		25.40085	87.61899	P	PPL	IN		34	212	1156		0		32	Asia/Kolkata	2024-01-06
+11464160	Qābilpur	Qabilpur		25.42823	87.74757	P	PPL	IN		34	212	1149		0		31	Asia/Kolkata	2024-01-06
+11634137	Qāzi Chak	Qazi Chak		25.30044	86.54685	P	PPL	IN		34	226	1357		0		42	Asia/Kolkata	2024-01-06
+11723951	Qutab Chak	Qutab Chak		24.92435	85.84432	P	PPL	IN		34	237	1516		0		79	Asia/Kolkata	2024-01-06
+11857135	Qubarwala	Qubarwala	QBW	30.17589	74.41737	S	RSTN	IN		23	044	239		0		194	Asia/Kolkata	2024-01-06
+11857839	Quilandi	Quilandi	QLD	11.44614	75.69392	S	RSTN	IN		13	591	5639		0		16	Asia/Kolkata	2024-01-06
+11858899	Quatabpur	Quatabpur	QTP	29.76397	76.34974	S	RSTN	IN		10	073	368		0		233	Asia/Kolkata	2024-01-06
+11859644	Qasimpur Kheri	Qasimpur Kheri	KPKI	29.18277	77.28593	S	RSTN	IN		36	139	735		0		235	Asia/Kolkata	2024-01-06
+11860153	Qcab	Qcab	QCAB	22.22937	84.8848	S	RSTN	IN		21	374	2833		0		196	Asia/Kolkata	2024-01-06
+12681792	Quepem	Quepem		15.15892	74.04001	A	ADM3	IN		33	586	5617		81193		40	Asia/Kolkata	2023-12-17
+12684867	Qaimoh	Qaimoh		33.70278	75.06003	A	ADM3	IN		12	015	6193		42331		1626	Asia/Kolkata	2023-12-17
+12685171	Qalamabad	Qalamabad		34.32093	74.21845	A	ADM3	IN		12	001	7205		26941		1779	Asia/Kolkata	2023-12-17
+12685186	Qazigund	Qazigund		33.61786	75.1496	A	ADM3	IN		12	014	6817		44774		1687	Asia/Kolkata	2023-12-17
+12685248	Qaziabad	Qaziabad		34.34444	74.33848	A	ADM3	IN		12	001	6788		42671		1600	Asia/Kolkata	2023-12-17
+12685266	Qila Darhal	Qila Darhal		33.24563	74.20308	A	ADM3	IN		12	006	6773		10632		958	Asia/Kolkata	2023-12-17
+12750016	Qadian	Qadian		31.82635	75.3881	S	RSTN	IN		23	035	203		0		250	Asia/Kolkata	2024-05-23

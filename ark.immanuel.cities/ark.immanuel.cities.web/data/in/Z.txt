@@ -1,0 +1,773 @@
+1252651	Zuvvaladinne	Zuvvaladinne		14.80796	80.07045	P	PPL	IN		02	550	5159		0		7	Asia/Kolkata	2024-01-06
+1252652	Zuvāri River	Zuvari River	Juari,Juāri,Rachol,Rio Zuari,Suari River,Zuari River,Zuvari River,Zuvāri River,Zuāri River	15.41521	73.92082	H	STM	IN		00				0		1	Asia/Kolkata	2011-10-21
+1252653	Zunheboto	Zunheboto	Zunheboto	25.96667	94.51667	P	PPLA2	IN		20	263	1772		29499		1349	Asia/Kolkata	2024-01-06
+1252654	Zunheboto	Zunheboto	ZNH,Zonheboto,Zunheboto,Zunhebotto	26	94.5	A	ADM2	IN		20	263			140757		1807	Asia/Kolkata	2023-07-11
+1252655	Zungki River	Zungki River	Zungki,Zungki River	25.78315	94.75554	H	STM	IN		00				0		488	Asia/Kolkata	2021-09-07
+1252656	Zulidok	Zulidok		34.05488	76.32796	P	PPL	IN		41	004	14		0		3988	Asia/Kolkata	2024-01-07
+1252657	Zulhami	Zulhami		25.82455	94.39098	P	PPL	IN		20	266	1800		0		1733	Asia/Kolkata	2024-01-06
+1252658	Zūlakallu	Zulakallu		16.44415	79.78743	P	PPL	IN		02	751	5047		0		144	Asia/Kolkata	2024-01-06
+1252659	Zuchhip	Zuchhip		23.47709	93.15298	P	PPL	IN		31	728	1907		0		1214	Asia/Kolkata	2024-01-06
+1252660	Zozar	Zozar	Zozar,Zuzzar	33.58839	77.00959	P	PPL	IN		41	004	15		0		3489	Asia/Kolkata	2024-01-07
+1252661	Zotlāng	Zotlang		23.82896	92.48431	P	PPL	IN		31	281	1896		0		1134	Asia/Kolkata	2024-01-06
+1252662	Zorāwarpura	Zorawarpura		29.7557	73.44915	S	RSTN	IN		24	099	457		0		166	Asia/Kolkata	2024-01-06
+1252663	Zongsa	Zongsa	Zongsa,Zongsar	35.01112	77.35926	P	PPL	IN		41	003	7231		0		3340	Asia/Kolkata	2024-01-07
+1252664	Zong	Zong		32.68506	78.86262	P	PPL	IN		41	003	7162		0		4443	Asia/Kolkata	2024-01-07
+1252665	Zoji La Pass	Zoji La Pass	Zoji La,Zoji La Pass,Zozila Pass	34.28006	75.46995	T	PASS	IN		41	004	6191		0		3549	Asia/Kolkata	2024-01-07
+1252666	Zobawk	Zobawk		23.55763	92.83044	P	PPL	IN		31	285	1910		0		849	Asia/Kolkata	2024-01-06
+1252667	Zobawk	Zobawk		22.86241	92.82586	P	PPL	IN		31	286	1914		0		1017	Asia/Kolkata	2024-01-06
+1252668	Ziro	Ziro	ZER,Zero,Ziro,jiro,ஜிரோ	27.59497	93.83854	P	PPL	IN		30	255	6107		13893		1579	Asia/Kolkata	2025-02-25
+1252669	Zirāpur	Zirapur		24.02217	76.3771	P	PPL	IN		35	442	3563		0		402	Asia/Kolkata	2024-01-06
+1252670	Zirad	Zirad		18.75609	72.88851	P	PPL	IN		16	520	4177		0		17	Asia/Kolkata	2024-01-06
+1252671	Zingzingbar	Zingzingbar	Zingzingbar	32.79337	77.32372	S	HLT	IN		11	025	115		0		4131	Asia/Kolkata	2024-01-06
+1252672	Zingral	Zingral		34.02643	77.91831	P	PPL	IN		41	003			0		5286	Asia/Kolkata	2019-10-18
+1252673	Zindpurā Railroad Station	Zindpura Railroad Station	ZNP,Zindpura,Zindpura Railroad Station,Zindpurā,Zindpurā Railroad Station	28.19291	79.85051	S	RSTN	IN		36	152	794		0		167	Asia/Kolkata	2024-01-06
+1252674	Zhumkiri	Zhumkiri		25.88112	94.86265	P	PPL	IN		20	269	1838		0		1072	Asia/Kolkata	2024-01-06
+1252675	Zerpur Pali	Zerpur Pali	Zerpur,Zerpur Pali	28.32426	76.09787	S	RSTN	IN		10	084	411		0		258	Asia/Kolkata	2024-01-06
+1252676	Zemu Glacier	Zemu Glacier	Zemu Glacier	27.74971	88.25662	H	GLCR	IN		00				0		4893	Asia/Kolkata	2012-09-06
+1252677	Zemābawk	Zemabawk		23.73916	92.74523	P	PPL	IN		31	283	1901		0		891	Asia/Kolkata	2024-01-06
+1252678	Zawngling	Zawngling		22.25106	93.04491	P	PPL	IN		31	288	1920		0		1046	Asia/Kolkata	2024-01-06
+1252679	Zawngin	Zawngin		23.90282	93.01808	P	PPL	IN		31	727	1903		0		1200	Asia/Kolkata	2024-01-06
+1252680	Zāwār	Zawar	Zawar,Zāwār	24.34908	73.6942	P	PPL	IN		24	130	689		0		399	Asia/Kolkata	2024-01-06
+1252681	Zāwal	Zawal	Jawal,Jāwāl,Zawal,Zāwal	24.99185	72.74858	P	PPL	IN		24	117	593		0		236	Asia/Kolkata	2024-01-06
+1252682	Zāskār River	Zaskar River	Zaskar,Zaskar River,Zāskār,Zāskār River	34.16519	77.33204	H	STM	IN		00				0		3099	Asia/Kolkata	2021-09-07
+1252684	Zāskār	Zaskar		33.58333	76.83333	L	AREA	IN		41				0		5068	Asia/Kolkata	2020-09-10
+1252685	Zarani	Zarani	Zadani,Zarani,Zaranim	15.55611	74.23195	P	PPLQ	IN		33	585	5613		0		57	Asia/Kolkata	2024-01-06
+1252686	Zankhvāv	Zankhvav	ZKV,Zankhvav,Zankhvāv	21.45	73.31667	S	RSTN	IN		09	492	3933		0		120	Asia/Kolkata	2024-01-06
+1252687	Zangla	Zangla	Zangla	33.65922	76.98969	P	PPL	IN		41	004	15		0		3529	Asia/Kolkata	2024-01-07
+1252688	Zangāreddigūdem	Zangareddigudem		17.12288	81.29525	P	PPL	IN		02	748	4953		0		102	Asia/Kolkata	2024-01-06
+1252689	Zangālapalle	Zangalapalle	Kandukuru,Kandukūru,ZPL,Zangalapalle,Zangālapalle	14.59074	77.6413	S	RSTN	IN		02	553	5330		0		372	Asia/Kolkata	2024-01-06
+1252690	Zamin Nischinta	Zamin Nischinta		25.29982	88.63236	P	PPL	IN		28	331	2205		0		36	Asia/Kolkata	2024-01-06
+1252691	Zamānia	Zamania	ZNA,Zamania,Zamania Railroad Station,Zamānia,Zamānia Railroad Station	25.3742	83.54376	S	RSTN	IN		36	195	991		0		77	Asia/Kolkata	2024-01-07
+1252692	Zamānia	Zamania	Zamania,Zaminia,Zamānia	25.41961	83.55786	P	PPL	IN		36	195	991		32008		72	Asia/Kolkata	2024-01-07
+1252693	Zālung Seru	Zalung Seru		34.36573	79.27385	S	HLT	IN		41	003			0		5290	Asia/Kolkata	2019-10-18
+1252694	Zaladanki	Zaladanki		14.88431	79.91251	P	PPL	IN		02	550	5157		0		21	Asia/Kolkata	2024-01-06
+1252695	Zākhung	Zakhung		27.90276	88.41592	P	PPL	IN		29	241	1547		0		4532	Asia/Kolkata	2024-01-06
+1252696	Zainābād	Zainabad		23.28553	71.76712	P	PPL	IN		09	475	3790		0		24	Asia/Kolkata	2024-01-06
+1252697	Zainābād	Zainabad		21.3	76.23333	P	PPL	IN		35	467	6972		0		233	Asia/Kolkata	2024-01-06
+1252698	Zaidpur	Zaidpur	Zaidpur,ja'idapura,jaidapura,jayedapura,zai de pu er,zaidapura,zyd pwr,zydpwr,Заидпур,زید پور,زیدپور,ज़ैदपुर,जैदपुर,জাইদপুর,জায়েদপুর,宰德普尔,宰德普爾	26.83093	81.32929	P	PPL	IN		36	176	898		33397		121	Asia/Kolkata	2024-01-07
+1252699	Zahirābād	Zahirabad	Zahirabad,Zahirābād	17.68138	77.60743	P	PPL	IN		40	691	4474		46504		626	Asia/Kolkata	2024-01-07
+1252700	Zagok	Zagok		33.76073	78.02518	P	PPL	IN		41	003			0		4170	Asia/Kolkata	2019-10-18
+1252701	Zagalnakchan	Zagalnakchan		34.75853	76.94574	P	PPL	IN		41	003	7231		0		3645	Asia/Kolkata	2024-01-07
+1252702	Zafarābād	Zafarabad		25.69867	82.73354	P	PPL	IN		36	194	984		9106		86	Asia/Kolkata	2024-01-07
+1270143	Zema	Zema	Hema,Zema	27.75934	88.53952	P	PPL	IN		29	241	1547		0		2842	Asia/Kolkata	2024-01-06
+1272135	Zanak	Zanak	Dzanak,Dzānak,Zanak	27.90163	88.27356	P	PPL	IN		29	241	1547		0		4933	Asia/Kolkata	2024-01-06
+1348837	Zeyādah Kot	Zeyadah Kot		22.44451	88.33447	P	PPL	IN		28	343	2412		0		7	Asia/Kolkata	2024-01-06
+1412685	Ziankal	Ziankal		34.67193	74.93544	S	TRIG	IN	IN,PK	52				0	3904	3901	Asia/Kolkata	2023-11-08
+1429262	Zhakhran	Zhakhran		34.34167	74.8	T	MT	IN		12	011	46		0		3455	Asia/Kolkata	2024-01-06
+1429358	Zajibāl	Zajibal	Zajibal,Zajibāl	34.43406	74.97046	T	RDGE	IN		12	011			0		4258	Asia/Kolkata	2020-06-11
+1429359	Zajībāl Gali	Zajibal Gali	Zajibal Gali,Zajībāl Gali	34.4293	74.97493	T	PASS	IN		12	011	46		0		4061	Asia/Kolkata	2024-01-06
+1429718	Ziārat	Ziarat		34.1844	74.90372	P	PPL	IN		12	010	43		0		1909	Asia/Kolkata	2024-01-06
+1429777	Zadibal	Zadibal		34.11352	74.8067	P	PPL	IN		12	010	43		0		1599	Asia/Kolkata	2024-01-06
+1429778	Zunnamar	Zunnamar		34.12138	74.80057	P	PPL	IN		12	010	43		0		1591	Asia/Kolkata	2024-01-06
+1429797	Zukūrāh	Zukurah		34.15919	74.82948	P	PPL	IN		12	010	43		0		1607	Asia/Kolkata	2024-01-06
+1429870	Zangibāgh	Zangibagh		34.00677	74.85155	P	PPL	IN		12	002	6815		0		1593	Asia/Kolkata	2024-01-06
+1429883	Zinpur	Zinpur		34.02056	74.91394	P	PPL	IN		12	002	6815		0		1590	Asia/Kolkata	2024-01-06
+1429892	Zewan	Zewan		34.0404	74.90724	P	PPL	IN		12	010	43		0		1598	Asia/Kolkata	2024-01-06
+1429900	Zāwara	Zawara		34.05343	74.9258	P	PPL	IN		12	010	43		0		1666	Asia/Kolkata	2024-01-06
+1429920	Zaina Kadal	Zaina Kadal		34.09444	74.81111	P	PPLX	IN		12	010	43		0		1592	Asia/Kolkata	2024-01-06
+1430320	Zinda Pīr	Zinda Pir	Zinda Pir,Zinda Pīr,Zindo Pir,Zindo Pīr	33.2563	74.10491	P	PPL	IN		12	006	6774		0		893	Asia/Kolkata	2024-01-06
+1430565	Zab Baihk	Zab Baihk		34.2545	74.20736	P	PPL	IN		12	008	33		0		2458	Asia/Kolkata	2024-01-06
+1430566	Zachaldor	Zachaldor		34.40614	74.19919	P	PPL	IN		12	001	6790		0		1662	Asia/Kolkata	2024-01-06
+1430567	Zafarkhani	Zafarkhani		34.43711	74.15847	P	PPL	IN		12	001	7206		0		1790	Asia/Kolkata	2024-01-06
+1430654	Zerāmahal	Zeramahal		34.17572	74.58202	P	PPL	IN		12	008	7204		0		1582	Asia/Kolkata	2024-01-06
+1430681	Zālāpur	Zalapur		34.22682	74.58457	P	PPL	IN		12	009	42		0		1584	Asia/Kolkata	2024-01-06
+1430696	Zazun	Zazun	Zazun	34.22888	74.68503	P	PPL	IN		12	011	6808		0		1609	Asia/Kolkata	2024-01-06
+1430708	Zarīgund	Zarigund		34.22427	74.70591	P	PPL	IN		12	011	6808		0		1615	Asia/Kolkata	2024-01-06
+1430752	Zainakūt	Zainakut		34.10399	74.73007	P	PPL	IN		12	010	44		0		1597	Asia/Kolkata	2024-01-06
+1430833	Zangām	Zangam		34.14492	74.56623	P	PPL	IN		12	008	34		0		1601	Asia/Kolkata	2024-01-06
+1430993	Ziārat	Ziarat		34.075	74.70556	P	PPL	IN		12	002	7		0		1590	Asia/Kolkata	2024-01-06
+1431053	Zūrīgund	Zurigund		34.0033	74.7355	P	PPL	IN		12	002	7		0		1605	Asia/Kolkata	2024-01-06
+1431179	Zithan	Zithan		34.30745	74.26114	P	PPL	IN		12	008	6824		0		1716	Asia/Kolkata	2024-01-06
+1431210	Zainagir Minor	Zainagir Minor		34.3103	74.4634	H	CNL	IN		12				0		1585	Asia/Kolkata	2015-09-06
+1431213	Zandwain	Zandwain		34.32209	74.45944	P	PPL	IN		12	008	32		0		1589	Asia/Kolkata	2024-01-06
+1431267	Zagsundar	Zagsundar		34.33279	74.29359	P	PPL	IN		12	001	6788		0		1703	Asia/Kolkata	2024-01-06
+1431293	Zindri Nadi	Zindri Nadi	Zindri,Zindri Nadi	34.3416	74.41365	H	STM	IN		12				0		1583	Asia/Kolkata	2015-09-06
+1431294	Zaingar Kol	Zaingar Kol		34.34205	74.4146	H	CNL	IN		12				0		1583	Asia/Kolkata	2015-09-06
+1431316	Zunipura	Zunipura		34.36731	74.40792	P	PPL	IN		12	008	6826		0		1591	Asia/Kolkata	2024-01-06
+1431341	Zandbāba	Zandbaba		34.38571	74.3288	P	PPL	IN		12	001	6789		0		1596	Asia/Kolkata	2024-01-06
+1431392	Zalūrāh	Zalurah		34.40957	74.37352	P	PPL	IN		12	001	6789		0		1609	Asia/Kolkata	2024-01-06
+1431433	Zun Nār	Zun Nar		34.44561	74.34867	H	STM	IN		12				0		1653	Asia/Kolkata	2015-09-06
+1432061	Zīnda Pīr	Zinda Pir		33.21806	74.29861	P	PPL	IN		12	006	25		0		657	Asia/Kolkata	2024-01-06
+1432773	Zogi Nai	Zogi Nai		34.53611	75.02222	H	STM	IN		12				0		2876	Asia/Kolkata	2002-08-13
+1440276	Zamshung	Zamshung		34.52083	76.13333	P	PPL	IN		41	004	13		0		2733	Asia/Kolkata	2024-01-07
+1440402	Zūti	Zuti		34.64862	76.42208	P	PPL	IN		41	004	13		0		3286	Asia/Kolkata	2024-01-07
+1440715	Zaria na Danna	Zaria na Danna	Zaria na Danna,Zarlana Danna	34.40226	73.9401	P	PPL	IN		12	001	2		0		3026	Asia/Kolkata	2024-01-06
+1440716	Zarla Nār	Zarla Nar		34.40327	73.90344	H	STM	IN		12				0		2235	Asia/Kolkata	2015-12-06
+1441262	Zainpur	Zainpur		29.97373	77.02375	P	PPL	IN		10	072	6410		0		261	Asia/Kolkata	2024-01-06
+1441278	Zainpur Sādān	Zainpur Sadan		29.92172	77.07435	P	PPL	IN		10	074	371		0		260	Asia/Kolkata	2024-01-06
+1441512	Zaidpura	Zaidpura		29.6954	77.40403	P	PPL	IN		36	132	705		0		258	Asia/Kolkata	2024-01-06
+1442379	Ziārat Pīr Bahāuddin	Ziarat Pir Bahauddin		28.93125	76.58751	V	FRST	IN		10				0		224	Asia/Kolkata	2012-10-07
+1463456	Zīrad	Zirad		18.75472	72.89	P	PPL	IN		16	520	4177		0		21	Asia/Kolkata	2024-01-06
+6989684	Zulmat	Zulmat		30.05263	76.54777	P	PPL	IN		10	072	365		0		246	Asia/Kolkata	2024-01-06
+6989891	Zerakpur	Zerakpur	Zerakpur,Zirakpur	30.65622	76.82093	P	PPL	IN		23	052	268		0		310	Asia/Kolkata	2024-01-06
+6990102	Zaīnpur	Zainpur		30.19641	76.85092	P	PPL	IN		10	072	364		0		266	Asia/Kolkata	2024-01-06
+6992417	Zālampur	Zalampur		24.12033	78.92431	P	PPL	IN		35	427	3447		0		502	Asia/Kolkata	2024-01-06
+6992532	Zālampur Reserved Forest	Zalampur Reserved Forest		24.11849	78.90815	L	RESF	IN		35				0		502	Asia/Kolkata	2012-09-07
+6993288	Zālim Nagla	Zalim Nagla		27.91118	79.34706	P	PPL	IN		36	149	783		0		156	Asia/Kolkata	2024-01-06
+6993706	Zindāpur	Zindapur		27.24874	79.48188	P	PPL	IN		36	159	832		0		151	Asia/Kolkata	2024-01-07
+6994578	Zarainpur	Zarainpur		27.66542	79.59036	P	PPL	IN		36	152	6882		0		149	Asia/Kolkata	2024-01-06
+6995421	Zālimpur	Zalimpur	Zalimpur,Zalimpura,Zālimpur,Zālimpura	26.99236	79.17574	P	PPL	IN		36	161	838		0		155	Asia/Kolkata	2024-01-07
+6995828	Zainpur Chaubia	Zainpur Chaubia		26.89054	79.13894	P	PPL	IN		36	161	838		0		149	Asia/Kolkata	2024-01-07
+6995975	Zālim ka Adda	Zalim ka Adda	Calim ka Adda,Cālim ka Adda,Zalim ka Adda,Zālim ka Adda	26.80056	79.00644	P	PPL	IN		36	161	838		0		153	Asia/Kolkata	2024-01-07
+6996166	Zāhirpura	Zahirpura	Zaharpura,Zahirpura,Zāharpura,Zāhirpura	26.49984	79.13629	P	PPL	IN		36	161	840		0		143	Asia/Kolkata	2024-01-07
+7645176	Zira	Zira	Zira,ci la,jhira,jila,jira,qi la,zi la,zira,Зира,زیرا، بھارت,ज़ीरा,জিরা,ਜ਼ੀਰਾ,ઝીરા,ஜிரா,జీరా,ಜಿರಾ,ジラ,兹拉,茲拉,齐拉,지라	30.96853	74.99106	P	PPL	IN		23	043	234		31350		214	Asia/Kolkata	2024-01-06
+7668598	Zero Airport	Zero Airport	Aeroportul Zero,VEZO,ZER,Zero Airport,aeroport de Ziro,aéroport de Ziro,frwdgah zyrw,jhiro vimanatala,jiro bimanabandara,jiro vanurti nilaiyam,ziro vimanaksetra,Фурудгоҳи зиру,فرودگاه زیرو,ज़िरो विमानक्षेत्र,झिरो विमानतळ,জিরো বিমানবন্দর,ஜிரோ வானூர்தி நிலையம்	27.5883	93.8281	S	AIRP	IN		30	255	6107		0		1566	Asia/Kolkata	2024-01-06
+8431299	Zinchan	Zinchan		34.09554	77.43231	P	PPL	IN		41	003			0		3980	Asia/Kolkata	2019-10-18
+8432307	Zhekiya	Zhekiya		25.92996	94.48988	P	PPL	IN		20	263	1777		0		1748	Asia/Kolkata	2024-01-06
+8438335	Zangīpur	Zangipur	Zangipur,Zangīpur	25.64762	83.55655	P	PPL	IN		36	195	989		0		74	Asia/Kolkata	2024-01-07
+8442469	Zidke	Zidke		19.46878	73.08269	P	PPL	IN		16	517	4166		0		25	Asia/Kolkata	2024-01-06
+8533180	Zerda	Zerda		24.32626	72.13463	P	PPL	IN		09	469	3740		0		146	Asia/Kolkata	2024-01-06
+9881047	Zainagīr Canal	Zainagir Canal	Zainagir Canal,Zainagīr Canal	34.44396	74.64619	H	CNL	IN		12				0		1642	Asia/Kolkata	2014-12-05
+9881137	Zirīmanz	Zirimanz	Zirimanz,Zirīmanz	34.36762	74.5289	P	PPL	IN		12	009	6811		0		1581	Asia/Kolkata	2024-01-06
+9881138	Ziārat Bāba Shukruddīn	Ziarat Baba Shukruddin	Ziarat Baba Shukruddin,Ziārat Bāba Shukruddīn	34.37247	74.52479	S	SHRN	IN		12	009	6809		0		1744	Asia/Kolkata	2024-01-06
+9881186	Zajiar Nadi	Zajiar Nadi	Zajiar Nadi	34.31801	74.64435	H	STM	IN		12				0		1585	Asia/Kolkata	2014-12-05
+9881214	Zinīpur	Zinipur	Zinipur,Zinīpur	34.26428	74.63684	P	PPL	IN		12	009	6811		0		1583	Asia/Kolkata	2024-01-06
+9901287	Zarīfābād	Zarifabad		29.6919	76.86761	P	PPL	IN		10	074	372		0		248	Asia/Kolkata	2024-01-06
+9901325	Zarīfa	Zarifa		29.71871	76.95814	P	PPL	IN		10	074	372		0		253	Asia/Kolkata	2024-01-06
+9904408	Zad Sar	Zad Sar		34.36737	74.8495	H	LK	IN		12				0		3593	Asia/Kolkata	2015-01-08
+9904432	Zairikhan	Zairikhan		34.29288	74.83817	P	PPL	IN		12	011	46		0		1782	Asia/Kolkata	2024-01-06
+9909437	Ziārat Pīr Bahāuddin	Ziarat Pir Bahauddin		28.93198	76.60127	S	SHRN	IN		10	082	405		0		219	Asia/Kolkata	2024-01-06
+9957019	Zen Garden	Zen Garden		13.01087	80.21515	S	HTL	IN		25	603	5982		0		16	Asia/Kolkata	2024-01-06
+9958683	Zuri	Zuri		9.59225	76.42493	S	HTL	IN		13	597	5670		0		3	Asia/Kolkata	2024-01-06
+9958898	Zuri Whitefield	Zuri Whitefield		12.98883	77.72518	S	HTL	IN		19	572	2004		0		882	Asia/Kolkata	2024-01-06
+9959110	Zuri White Sands Resorts	Zuri White Sands Resorts		15.22653	73.93129	S	HTL	IN		33	586	5616		0		5	Asia/Kolkata	2024-01-06
+9985549	Zurahom	Zurahom		34.55182	74.15936	P	PPL	IN		12	001	1		0		1923	Asia/Kolkata	2024-01-06
+9985586	Zaripur	Zaripur		34.56921	74.2354	P	PPL	IN		12	001	1		0		1740	Asia/Kolkata	2024-01-06
+10002780	Zāngil	Zangil		34.54556	74.27314	P	PPL	IN		12	001	6786		0		1695	Asia/Kolkata	2024-01-06
+10002977	Zimindārkhan Gali	Zimindarkhan Gali		34.62047	74.42326	T	PASS	IN		12	001	1		0		3184	Asia/Kolkata	2024-01-06
+10002978	Zimindārkhan	Zimindarkhan		34.53909	74.25529	P	PPL	IN		12	001	1		0		1648	Asia/Kolkata	2024-01-06
+10003011	Zab	Zab		34.57818	74.43815	P	PPL	IN		12	001	1		0		2843	Asia/Kolkata	2024-01-06
+10003060	Zabardon	Zabardon		34.65126	74.44377	L	AREA	IN		12				0		2398	Asia/Kolkata	2015-02-08
+10026178	Zīra Nau	Zira Nau		30.99415	74.97578	P	PPL	IN		23	043	234		0		212	Asia/Kolkata	2024-01-06
+10113982	Zip By Spree Hotel Bluestone	Zip By Spree Hotel Bluestone		28.54783	77.25053	S	HTL	IN		07	670	456		0		245	Asia/Kolkata	2024-01-06
+10126831	Zest Big Beach Resort	Zest Big Beach Resort		11.93308	79.83604	S	HTL	IN		22	635	5909		0		7	Asia/Kolkata	2024-01-06
+10135053	Zagāt Khāna	Zagat Khana		31.452	77.63098	P	PPL	IN		11	026	122		0		944	Asia/Kolkata	2024-01-06
+10152652	Zafarpur	Zafarpur		30.31842	77.14325	P	PPL	IN		10	070	6430		0		292	Asia/Kolkata	2024-01-06
+10153673	Zik	Zik		30.91834	77.48026	P	PPL	IN		11	033	185		0		2342	Asia/Kolkata	2024-01-06
+10181093	Ziārat Pīr Saiyad	Ziarat Pir Saiyad		29.97188	78.07285	S	SHRN	IN		39	068	354		0		317	Asia/Kolkata	2024-01-07
+10181130	Ziārat Pīr Mansūr Ali	Ziarat Pir Mansur Ali		29.85757	78.01105	S	SHRN	IN		39	068	354		0		251	Asia/Kolkata	2024-01-07
+10181161	Ziārat Pīrshāh Muhammad	Ziarat Pirshah Muhammad		29.78955	78.07515	S	SHRN	IN		39	068	354		0		242	Asia/Kolkata	2024-01-07
+10181203	Ziārat Pīr Burha	Ziarat Pir Burha		29.80687	78.12205	S	SHRN	IN		39	068	354		0		249	Asia/Kolkata	2024-01-07
+10181352	Ziarat Pīr Karīmshāh	Ziarat Pir Karimshah		29.75705	78.008	S	SHRN	IN		39	068	355		0		237	Asia/Kolkata	2024-01-07
+10193795	Zaīnpur	Zainpur		29.55033	77.13991	P	PPL	IN		36	660	706		0		240	Asia/Kolkata	2024-01-07
+10194404	Zainpur	Zainpur		29.88866	77.3198	P	PPL	IN		36	132	703		0		264	Asia/Kolkata	2024-01-06
+10202272	Zainuddīnpur Chirchita	Zainuddinpur Chirchita		29.04764	77.4394	P	PPL	IN		36	139	735		0		223	Asia/Kolkata	2024-01-06
+10202304	Zaibābād	Zaibabad		29.1603	77.44737	L	AREA	IN		36				0		228	Asia/Kolkata	2015-04-10
+10204891	Zafarpur	Zafarpur		29.50326	77.58844	P	PPL	IN		36	133	708		0		247	Asia/Kolkata	2024-01-06
+10226627	Zolang Nāgne	Zolang Nagne		31.35508	78.19678	L	LCTY	IN		11	034	199		0		4419	Asia/Kolkata	2024-01-06
+10233819	Zip By Spree Hotel King Palace	Zip By Spree Hotel King Palace		26.94613	75.84208	S	HTL	IN		24	110	546		0		420	Asia/Kolkata	2024-01-06
+10250151	Zālimpura	Zalimpura		24.32154	73.34271	P	PPL	IN		24	130	688		0		490	Asia/Kolkata	2024-01-06
+10250639	Ziārat Malian Shāh	Ziarat Malian Shah		30.79558	75.14181	S	SHRN	IN		23	042	233		0		221	Asia/Kolkata	2024-01-06
+10250910	Zāli	Zali		24.60187	73.54413	T	MT	IN		24	130	686		0		1058	Asia/Kolkata	2024-01-06
+10256407	Zainpur	Zainpur		30.93511	75.74638	P	PPL	IN		23	041	228		0		241	Asia/Kolkata	2024-01-06
+10260682	Zabardastpur	Zabardastpur		29.82319	77.94338	P	PPL	IN		39	068	6352		0		259	Asia/Kolkata	2024-01-07
+10260687	Zainpur Jhamandi	Zainpur Jhamandi		29.80074	77.92145	P	PPL	IN		39	068	6352		0		263	Asia/Kolkata	2024-01-07
+10260707	Zainpur Khurd	Zainpur Khurd		29.79595	77.99005	P	PPL	IN		39	068	355		0		244	Asia/Kolkata	2024-01-07
+10260806	Zāhirpur	Zahirpur		29.65761	77.80871	P	PPL	IN		36	132	704		0		259	Asia/Kolkata	2024-01-06
+10260950	Zindāhwāla	Zindahwala		29.58604	77.93344	P	PPL	IN		36	133	708		0		227	Asia/Kolkata	2024-01-06
+10261498	Zindpur	Zindpur		28.79238	77.15587	P	PPL	IN		07	091	6076		0		213	Asia/Kolkata	2024-01-06
+10261508	Zāngīrpur	Zangirpur		28.75201	77.18101	P	PPL	IN		07	091	432		0		210	Asia/Kolkata	2024-01-06
+10263256	Zumredpur	Zumredpur		28.55606	77.24259	P	PPLX	IN		07	098	454		0		222	Asia/Kolkata	2024-01-06
+10265501	Zāfarābād Ganauli	Zafarabad Ganauli		28.78784	77.33757	P	PPL	IN		36	140	6089		0		219	Asia/Kolkata	2024-01-06
+10276343	Zāhidpur	Zahidpur		28.35827	77.71881	P	PPL	IN		36	142	745		0		203	Asia/Kolkata	2024-01-06
+10303669	Zokhawthar	Zokhawthar		23.36583	93.38417	P	PPL	IN		31	284	1908		0		766	Asia/Kolkata	2024-01-06
+10303670	Zawlpui	Zawlpui		24.11998	92.34103	P	PPL	IN		31	281	1896		0		74	Asia/Kolkata	2024-01-06
+10304338	Zarbdiāl	Zarbdial		31.57222	75.77976	P	PPL	IN		23	038	216		0		265	Asia/Kolkata	2024-01-06
+10305962	Zurji ka Khera	Zurji ka Khera		24.63592	74.02229	P	PPL	IN		24	130	690		0		493	Asia/Kolkata	2024-01-06
+10306200	Zālim ka Bās	Zalim ka Bas		27.21622	75.59315	P	PPL	IN		24	110	541		0		450	Asia/Kolkata	2024-01-06
+10307445	Zālimpura	Zalimpura		25.51468	75.15564	P	PPL	IN		24	122	636		0		340	Asia/Kolkata	2024-01-06
+10307494	Zālimpura	Zalimpura		25.64463	75.24606	P	PPL	IN		24	122	636		0		339	Asia/Kolkata	2024-01-06
+10308069	Zulmgarh	Zulmgarh		30.28089	75.87401	P	PPL	IN		23	053	271		0		237	Asia/Kolkata	2024-01-06
+10308121	Zainpur	Zainpur		30.44655	75.95237	P	PPL	IN		23	737	7122		0		248	Asia/Kolkata	2024-01-06
+10310982	Zābtewāla	Zabtewala		29.66253	75.7002	P	PPL	IN		10	078	6439		0		223	Asia/Kolkata	2024-01-06
+10310983	Zābtewāla Minor	Zabtewala Minor		29.65164	75.67402	H	CNL	IN		10				0		216	Asia/Kolkata	2015-06-10
+10314231	Zariun Nadi	Zariun Nadi		33.17368	76.2408	H	STM	IN		12				0		1943	Asia/Kolkata	2015-06-10
+10314258	Zamal Nadi	Zamal Nadi		33.15539	76.24983	H	STM	IN		12				0		1280	Asia/Kolkata	2015-06-10
+10314270	Zoi	Zoi		33.11524	76.09994	P	PPL	IN		12	016	6753		0		3396	Asia/Kolkata	2024-01-06
+10315006	Zāgal	Zagal		33.41944	76.27809	T	MT	IN		41	018			0		4643	Asia/Kolkata	2020-09-13
+10315021	Zugāt Forest	Zugat Forest		33.40882	76.38463	V	FRST	IN		41				0		2947	Asia/Kolkata	2020-09-13
+10315154	Zaskār Range	Zaskar Range		33.07328	76.86246	T	MTS	IN		11				0		5646	Asia/Kolkata	2015-06-10
+10318563	Zainābād	Zainabad	Zainabad,Zainābād	28.28813	76.38231	P	PPL	IN		10	085	6464		0		260	Asia/Kolkata	2024-01-06
+10318609	Zāhīdpur Tapp Kosli	Zahidpur Tapp Kosli		28.36912	76.47616	P	PPL	IN		10	085	413		0		234	Asia/Kolkata	2024-01-06
+10318716	Zafarpur	Zafarpur		29.16611	77.00292	P	PPL	IN		10	076	379		0		224	Asia/Kolkata	2024-01-06
+10318825	Zainpur	Zainpur		29.06758	77.12945	P	PPL	IN		10	076	380		0		220	Asia/Kolkata	2024-01-06
+10322361	Zoundru Gād	Zoundru Gad		31.33448	78.44221	H	STM	IN		11				0		3932	Asia/Kolkata	2015-06-10
+10327437	Zikriwāla	Zikriwala	Bhawanipur,Bhawānipur,Zikriwala,Zikriwāla	29.38927	78.70906	P	PPL	IN		36	134	715		0		240	Asia/Kolkata	2024-01-06
+10327449	Zabtānagar	Zabtanagar		29.33645	78.73876	P	PPL	IN		36	134	715		0		236	Asia/Kolkata	2024-01-06
+10329335	Zāskār Mountains	Zaskar Mountains		30.69269	79.86572	T	MTS	IN		39				0		4098	Asia/Kolkata	2015-06-10
+10329886	Ziārat Kadam Sharīf	Ziarat Kadam Sharif		28.85508	79.03269	S	SHRN	IN		36	136	726		0		196	Asia/Kolkata	2024-01-06
+10338629	Zip By Spree Hotels At Woodrose Club	Zip By Spree Hotels At Woodrose Club		12.89225	77.58324	S	HTL	IN		19	572	2002		0		919	Asia/Kolkata	2024-01-06
+10349950	Zikarpur Minor	Zikarpur Minor		28.01419	77.59444	H	CNL	IN		36				0		195	Asia/Kolkata	2015-07-05
+10349990	Zhaidābād Kherli	Zhaidabad Kherli		28.22664	77.50124	P	PPL	IN		10	089	427		0		191	Asia/Kolkata	2024-01-06
+10350041	Zikarpur	Zikarpur		28.01057	77.60095	P	PPL	IN		36	143	752		0		195	Asia/Kolkata	2024-01-06
+10350110	Zafargarh	Zafargarh		28.15859	77.69226	P	PPL	IN		36	141	744		0		198	Asia/Kolkata	2024-01-06
+10432431	Zūlfgarh	Zulfgarh		30.95445	76.19044	P	PPL	IN		23	041	224		0		252	Asia/Kolkata	2024-01-06
+10434300	Zabardon	Zabardon		34.52619	74.48823	P	PPL	IN		12	001	1		0		2225	Asia/Kolkata	2024-01-06
+10434301	Zimindārkhan	Zimindarkhan		34.62089	74.4054	P	PPL	IN		12	001	1		0		3114	Asia/Kolkata	2024-01-06
+10434541	Zindānpur	Zindanpur		30.95568	76.39754	P	PPLQ	IN		23	051	265		0		258	Asia/Kolkata	2024-01-06
+10436634	Ziārat Pīr Gugga	Ziarat Pir Gugga		30.45068	76.8021	S	TMB	IN		23	052	268		0		278	Asia/Kolkata	2024-01-06
+10436638	Ziārat Pīr Lakhdāta	Ziarat Pir Lakhdata		30.42937	76.8136	S	TMB	IN		23	052	268		0		279	Asia/Kolkata	2024-01-06
+10439274	Zainpur Drain	Zainpur Drain		28.4684	77.81158	H	CNL	IN		36				0		207	Asia/Kolkata	2015-08-09
+10439442	Zainpur	Zainpur		28.46449	77.81766	P	PPL	IN		36	142	746		0		206	Asia/Kolkata	2024-01-06
+10439863	Zāhidpur Khurd	Zahidpur Khurd		28.21423	77.80291	P	PPL	IN		36	142	751		0		198	Asia/Kolkata	2024-01-06
+10439868	Zahidpur Kalān	Zahidpur Kalan		28.19156	77.75613	P	PPL	IN		36	142	751		0		197	Asia/Kolkata	2024-01-06
+10448251	Zulum	Zulum	Julum,Zulum	21.12416	81.61681	P	PPL	IN		37	410	3331		0		286	Asia/Kolkata	2024-01-07
+10449288	Zillah Parishad Rest House	Zillah Parishad Rest House		18.70833	77.3713	S	RHSE	IN		16	511	4109		0		399	Asia/Kolkata	2024-01-06
+10449326	Zirga	Zirga		18.59236	77.33881	P	PPL	IN		16	511	4109		0		445	Asia/Kolkata	2024-01-06
+10450715	Zaripura	Zaripura		27.48478	78.17001	P	PPL	IN		36	144	760		0		177	Asia/Kolkata	2024-01-06
+10451606	Zorāwar	Zorawar		27.22768	78.00229	P	PPL	IN		36	146	766		0		161	Asia/Kolkata	2024-01-06
+10452754	Zālimpur	Zalimpur		27.38134	78.3303	P	PPL	IN		36	147	771		0		170	Asia/Kolkata	2024-01-06
+10455967	Zāhidpur	Zahidpur		27.70589	78.54129	P	PPL	IN		36	201	1008		0		177	Asia/Kolkata	2024-01-07
+10458687	Zafarābād	Zafarabad		27.06945	78.5123	P	PPL	IN		36	147	774		0		163	Asia/Kolkata	2024-01-06
+10460308	Zorāwar Nagar	Zorawar Nagar		27.85	78.1297	P	PPL	IN		36	143	755		0		188	Asia/Kolkata	2024-01-06
+10464027	Zāhirpur	Zahirpur		27.5939	78.81284	P	PPL	IN		36	201	1008		0		168	Asia/Kolkata	2024-01-07
+10465123	Ziārat Sārwār Pir	Ziarat Sarwar Pir		27.24979	77.86881	S	SHRN	IN		36	146	767		0		165	Asia/Kolkata	2024-01-06
+10465184	Ziārat Kamai Khān	Ziarat Kamai Khan		27.1562	77.98393	S	SHRN	IN		36	146	766		0		173	Asia/Kolkata	2024-01-06
+10465919	Zainpur Nagar	Zainpur Nagar		26.8184	78.9453	P	PPL	IN		36	161	836		0		154	Asia/Kolkata	2024-01-07
+10469186	Zālaguda	Zalaguda		17.27249	78.14548	P	PPL	IN		40	537	4529		0		613	Asia/Kolkata	2024-01-07
+10471370	Zilāpur	Zilapur		21.78605	79.58006	P	PPL	IN		35	456	3666		0		418	Asia/Kolkata	2024-01-06
+10473969	Zanāna Hospital	Zanana Hospital		27.37839	79.60477	S	HSP	IN		36	159	832		0		155	Asia/Kolkata	2024-01-07
+10474075	Zaināpur Maheshpur	Zainapur Maheshpur		27.47616	79.69088	P	PPL	IN		36	159	831		0		145	Asia/Kolkata	2024-01-07
+10475518	Zūlāpalli	Zulapalli		16.85666	78.35809	P	PPL	IN		40	537	4562		0		553	Asia/Kolkata	2024-01-07
+10477061	Zainuddīnnagar	Zainuddinnagar	Zainuddinnagar,Zainuddīnnagar,Zindi Nagla	27.82213	79.95063	P	PPL	IN		36	152	795		0		156	Asia/Kolkata	2024-01-06
+10481223	Zafargarh	Zafargarh		17.76822	79.48367	P	PPL	IN		40	689	4696		0		295	Asia/Kolkata	2024-01-07
+10482556	Zindpur	Zindpur		27.65281	78.31899	P	PPL	IN		36	144	758		0		183	Asia/Kolkata	2024-01-06
+10482603	Zarīrpur Bhurraka	Zarirpur Bhurraka		27.59418	78.4245	P	PPL	IN		36	144	758		0		178	Asia/Kolkata	2024-01-06
+10482604	Zarinpur Bhurraka	Zarinpur Bhurraka		27.59913	78.42555	P	PPL	IN		36	144	758		0		180	Asia/Kolkata	2024-01-06
+10484381	Ziāuddīnpur	Ziauddinpur		27.80554	78.62162	P	PPL	IN		36	202	1010		0		174	Asia/Kolkata	2024-01-07
+10486616	Zabarpur	Zabarpur		26.42787	79.68277	P	PPL	IN		36	163	847		0		137	Asia/Kolkata	2024-01-07
+10487374	Zainpur	Zainpur		26.90279	79.88305	P	PPL	IN		36	160	835		0		144	Asia/Kolkata	2024-01-07
+10487465	Zindāhpur	Zindahpur		26.83889	79.86676	P	PPL	IN		36	160	835		0		142	Asia/Kolkata	2024-01-07
+10487986	Zīrepur	Zirepur		26.37387	79.78591	P	PPL	IN		36	163	844		0		137	Asia/Kolkata	2024-01-07
+10488091	Zorāwar Purwa	Zorawar Purwa		26.27352	79.97857	P	PPL	IN		36	163	846		0		133	Asia/Kolkata	2024-01-07
+10491590	Zorāwarpur	Zorawarpur		25.55311	81.01003	P	PPL	IN		36	170	872		0		104	Asia/Kolkata	2024-01-07
+10492137	Zādīpur	Zadipur		25.62285	82.00041	P	PPL	IN		36	175	889		0		97	Asia/Kolkata	2024-01-07
+10494379	Zahīruddīnpur	Zahiruddinpur		25.93259	82.98174	P	PPL	IN		36	191	967		0		81	Asia/Kolkata	2024-01-07
+10494585	Zerakpur	Zerakpur		25.7682	82.92203	P	PPL	IN		36	191	969		0		83	Asia/Kolkata	2024-01-07
+10494619	Zamīn Sir	Zamin Sir		25.75171	82.97511	P	PPL	IN		36	191	969		0		85	Asia/Kolkata	2024-01-07
+10497590	Zainpur	Zainpur		25.60116	83.20423	P	PPL	IN		36	195	988		0		79	Asia/Kolkata	2024-01-07
+10497653	Zoharganj	Zoharganj		25.54175	83.20552	P	PPL	IN		36	195	988		0		77	Asia/Kolkata	2024-01-07
+10497674	Zamīn Sakat	Zamin Sakat		25.66981	83.12269	P	PPL	IN		36	191	969		0		83	Asia/Kolkata	2024-01-07
+10498374	Zafarpur	Zafarpur		25.26145	83.09971	P	PPL	IN		36	196	6869		0		85	Asia/Kolkata	2024-01-07
+10499969	Zafarābād	Zafarabad		25.0723	83.07528	P	PPL	IN		36	199	1003		0		92	Asia/Kolkata	2024-01-07
+10500253	Zafarpura	Zafarpura		25.14287	83.15063	P	PPL	IN		36	199	1003		0		85	Asia/Kolkata	2024-01-07
+10501043	Zarrāpur	Zarrapur		22.76957	77.70982	P	PPL	IN		35	445	3588		0		301	Asia/Kolkata	2024-01-06
+10502291	Zamīn Jaideo	Zamin Jaideo		25.68873	83.37494	P	PPL	IN		36	195	987		0		74	Asia/Kolkata	2024-01-07
+10502419	Zangīpur	Zangipur		25.61342	83.45742	P	PPL	IN		36	195	988		0		75	Asia/Kolkata	2024-01-07
+10506971	Zamīn Sharullāh	Zamin Sharullah		25.97921	83.66847	P	PPL	IN		36	192	973		0		76	Asia/Kolkata	2024-01-07
+10507099	Zamīn Hathīpur	Zamin Hathipur		25.89838	83.54636	P	PPL	IN		36	192	973		0		77	Asia/Kolkata	2024-01-07
+10507143	Zamīn Sarwān	Zamin Sarwan		25.90319	83.61357	P	PPL	IN		36	192	973		0		73	Asia/Kolkata	2024-01-07
+10507287	Zahurābād	Zahurabad		25.75191	83.72266	P	PPL	IN		36	195	6834		0		74	Asia/Kolkata	2024-01-07
+10507381	Zamīra	Zamira		25.75819	83.57423	P	PPL	IN		36	195	989		0		74	Asia/Kolkata	2024-01-07
+10507416	Zamīn Biruki	Zamin Biruki	Zamin Biruki,Zamīn Biruki	26.00024	83.65103	P	PPL	IN		36	192	973		0		76	Asia/Kolkata	2024-01-07
+10514207	Zirput	Zirput		20.14609	77.84768	P	PPL	IN		16	510	4084		0		346	Asia/Kolkata	2024-01-06
+10514890	Zaidpurkhāpa	Zaidpurkhapa		21.62974	79.84676	P	PPL	IN		35	457	3670		0		359	Asia/Kolkata	2024-01-06
+10521174	Zāmāpur	Zamapur		25.30461	80.38906	P	PPL	IN		36	170	874		0		139	Asia/Kolkata	2024-01-07
+10521397	Zābrapur	Zabrapur		25.98898	80.60289	P	PPL	IN		36	172	877		0		121	Asia/Kolkata	2024-01-07
+10521516	Zameni	Zameni		25.76226	80.62315	P	PPL	IN		36	172	878		0		119	Asia/Kolkata	2024-01-07
+10521566	Zindpur	Zindpur		25.86563	80.68323	P	PPL	IN		36	172	878		0		121	Asia/Kolkata	2024-01-07
+10521869	Zillah Parishad	Zillah Parishad		18.8507	76.52423	S	RHSE	IN		16	523	4224		0		464	Asia/Kolkata	2024-01-06
+10523008	Zamīndār Pipariya	Zamindar Pipariya		23.75099	78.12013	P	PPL	IN		35	443	3574		0		429	Asia/Kolkata	2024-01-06
+10524450	Zainpur	Zainpur		27.82294	76.27383	P	PPL	IN		24	104	493		0		331	Asia/Kolkata	2024-01-06
+10525920	Zillah Parishad	Zillah Parishad		16.80677	78.82403	P	PPL	IN		40	539	4650		0		364	Asia/Kolkata	2024-01-07
+10527105	Zillah Parishad	Zillah Parishad		17.28456	79.09071	P	PPL	IN		40	697	4632		0		320	Asia/Kolkata	2024-01-07
+10529937	Zāmtir Nāg	Zamtir Nag		34.08459	75.5119	H	LK	IN		41				0		3596	Asia/Kolkata	2020-09-13
+10529938	Zāmtir Nār	Zamtir Nar		34.08186	75.5128	H	STM	IN		41				0		3601	Asia/Kolkata	2020-09-13
+10530262	Zālimpur	Zalimpur		27.01258	79.11127	P	PPL	IN		36	148	776		0		154	Asia/Kolkata	2024-01-06
+10538046	Zafarpur	Zafarpur		25.97378	82.04189	P	PPL	IN		36	173	883		0		95	Asia/Kolkata	2024-01-07
+10538481	Zamīn	Zamin		25.86116	82.18662	P	PPL	IN		36	173	883		0		95	Asia/Kolkata	2024-01-07
+10539301	Zīrakpur	Zirakpur		25.77907	82.44494	P	PPL	IN		36	194	983		0		87	Asia/Kolkata	2024-01-07
+10539382	Zangīpur	Zangipur		25.83946	82.49708	P	PPL	IN		36	194	982		0		88	Asia/Kolkata	2024-01-07
+10539644	Zauqābād	Zauqabad		25.97336	82.5902	P	PPL	IN		36	194	981		0		93	Asia/Kolkata	2024-01-07
+10539660	Zamīn Dhamaur	Zamin Dhamaur		25.93574	82.61524	P	PPL	IN		36	194	981		0		90	Asia/Kolkata	2024-01-07
+10539674	Zahūruddīnpur	Zahuruddinpur		25.96383	82.62531	P	PPL	IN		36	194	981		0		91	Asia/Kolkata	2024-01-07
+10539713	Zerakpur	Zerakpur		25.88567	82.53312	P	PPL	IN		36	194	982		0		88	Asia/Kolkata	2024-01-07
+10539752	Zamīn Basti	Zamin Basti		25.90223	82.61423	P	PPL	IN		36	194	981		0		87	Asia/Kolkata	2024-01-07
+10540012	Zafarpur	Zafarpur		25.80452	82.67908	P	PPL	IN		36	194	984		0		85	Asia/Kolkata	2024-01-07
+10540076	Zamīn Pakri	Zamin Pakri		25.79337	82.71243	P	PPL	IN		36	194	984		0		87	Asia/Kolkata	2024-01-07
+10540139	Zamīn Rudhauli	Zamin Rudhauli		25.93626	82.6593	P	PPL	IN		36	194	981		0		88	Asia/Kolkata	2024-01-07
+10540182	Zamīn Bondi	Zamin Bondi		25.95923	82.68626	L	LCTY	IN		36	194	981		0		86	Asia/Kolkata	2024-01-07
+10540477	Zeorār	Zeorar		25.63881	82.67959	P	PPL	IN		36	194	985		0		81	Asia/Kolkata	2024-01-07
+10540808	Zīrakpur	Zirakpur		25.54112	82.60376	P	PPL	IN		36	194	985		0		90	Asia/Kolkata	2024-01-07
+10541168	Zafarābād Railroad Station	Zafarabad Railroad Station	Zafarabad,Zafarabad Railroad Station,Zafarābād,Zafarābād Railroad Station	25.7079	82.71876	S	RSTN	IN		36	194	984		0		84	Asia/Kolkata	2024-01-07
+10541187	Zamīnpakri	Zaminpakri		25.73984	82.63857	P	PPL	IN		36	194	984		0		85	Asia/Kolkata	2024-01-07
+10544966	Zāhidpur	Zahidpur		25.40529	82.58752	P	PPL	IN		36	198	997		0		90	Asia/Kolkata	2024-01-07
+10546620	Zamin Shivsāgar	Zamin Shivsagar		25.28849	82.84843	P	PPL	IN		36	197	6093		0		85	Asia/Kolkata	2024-01-07
+10546630	Zamīn Bairawan	Zamin Bairawan		25.27874	82.87745	P	PPL	IN		36	197	6093		0		83	Asia/Kolkata	2024-01-07
+10546772	Zafrābād	Zafrabad		25.2808	82.93134	P	PPL	IN		36	197	6093		0		85	Asia/Kolkata	2024-01-07
+10547249	Zirāat Rāmeshwar	Ziraat Rameshwar		25.3977	82.07688	P	PPL	IN		36	175	893		0		97	Asia/Kolkata	2024-01-07
+10547282	Zirāat Mungārī	Ziraat Mungari		25.34972	82.04025	L	LCTY	IN		36	175	889		0		80	Asia/Kolkata	2024-01-07
+10547284	Ziraāt Suthān	Ziraat Suthan		25.34981	82.01873	L	LCTY	IN		36	175	889		0		86	Asia/Kolkata	2024-01-07
+10547285	Zirāat Jamnī	Ziraat Jamni		25.3508	82.00472	L	LCTY	IN		36	175	889		0		88	Asia/Kolkata	2024-01-07
+10552278	Zāhīdpur	Zahidpur		28.50532	76.7091	P	PPL	IN		10	083	409		0		219	Asia/Kolkata	2024-01-06
+10553261	Zorāwarganj	Zorawarganj		26.53243	80.82329	P	PPL	IN		36	156	817		0		128	Asia/Kolkata	2024-01-07
+10553432	Zālim Khera	Zalim Khera		26.70347	80.91455	P	PPL	IN		36	157	6094		0		126	Asia/Kolkata	2024-01-07
+10553632	Zāhidpur Minor	Zahidpur Minor		28.43849	76.58819	H	CNL	IN		10				0		219	Asia/Kolkata	2015-08-09
+10553676	Zālim Khera	Zalim Khera		26.43425	80.80124	P	PPL	IN		36	156	817		0		122	Asia/Kolkata	2024-01-07
+10553834	Zālimganj	Zalimganj		26.27943	80.86973	P	PPL	IN		36	156	818		0		123	Asia/Kolkata	2024-01-07
+10554004	Zanbūrpur	Zanburpur		26.445	80.86079	P	PPL	IN		36	156	817		0		125	Asia/Kolkata	2024-01-07
+10554215	Zinda Khera	Zinda Khera		26.33687	80.94374	P	PPL	IN		36	158	826		0		122	Asia/Kolkata	2024-01-07
+10554235	Zinda Khera	Zinda Khera		26.31382	80.95286	P	PPL	IN		36	156	817		0		121	Asia/Kolkata	2024-01-07
+10554571	Zamīn Bagherwā	Zamin Bagherwa		25.73157	82.99233	P	PPL	IN		36	191	969		0		83	Asia/Kolkata	2024-01-07
+10555198	Zardakpur	Zardakpur		28.63388	76.86201	P	PPL	IN		10	083	408		0		212	Asia/Kolkata	2024-01-06
+10555947	Zāinpur	Zainpur		26.00212	80.75013	P	PPL	IN		36	172	877		0		122	Asia/Kolkata	2024-01-07
+10556184	Ziārat Pīr Khākān	Ziarat Pir Khakan		29.01735	78.03457	S	SHRN	IN		36	138	733		0		210	Asia/Kolkata	2024-01-06
+10556193	Ziārat Muhammad Ali Shāh	Ziarat Muhammad Ali Shah		29.01052	78.16901	S	SHRN	IN		36	137	729		0		217	Asia/Kolkata	2024-01-06
+10556351	Zābtānganj	Zabtanganj		29.61406	78.35678	P	PPL	IN		36	134	712		0		272	Asia/Kolkata	2024-01-06
+10556954	Zillopur	Zillopur		29.32091	78.4253	P	PPL	IN		36	134	715		0		236	Asia/Kolkata	2024-01-06
+10556999	Zarifpur Chatar	Zarifpur Chatar		29.29696	78.35079	P	PPL	IN		36	134	715		0		239	Asia/Kolkata	2024-01-06
+10557062	Zainābād	Zainabad		29.2541	78.33312	P	PPL	IN		36	134	716		0		235	Asia/Kolkata	2024-01-06
+10557800	Zālimnagar	Zalimnagar		27.86205	81.19539	P	PPL	IN		36	153	802		0		130	Asia/Kolkata	2024-01-07
+10557950	Zalimnagar Ferry	Zalimnagar Ferry		27.98975	81.21872	S	FY	IN		36	153	802		0		124	Asia/Kolkata	2024-01-07
+10558142	Zālimnagar	Zalimnagar		27.61498	81.10604	P	PPL	IN		36	154	805		0		124	Asia/Kolkata	2024-01-07
+10558361	Zālimpur	Zalimpur		27.61451	81.11947	P	PPL	IN		36	154	805		0		125	Asia/Kolkata	2024-01-07
+10558402	Zabar Purwa	Zabar Purwa		27.60768	81.17454	P	PPL	IN		36	154	806		0		121	Asia/Kolkata	2024-01-07
+10558434	Zālimpur Maror	Zalimpur Maror		27.7068	81.10229	P	PPL	IN		36	154	805		0		129	Asia/Kolkata	2024-01-07
+10559410	Zālimpur	Zalimpur		27.49436	81.22363	P	PPL	IN		36	154	806		0		119	Asia/Kolkata	2024-01-07
+10559728	Zālim Purwa	Zalim Purwa		27.64118	81.51116	P	PPL	IN		36	180	920		0		121	Asia/Kolkata	2024-01-07
+10561759	Zālim Ahīr	Zalim Ahir		25.97851	83.81515	P	PPL	IN		36	193	977		0		72	Asia/Kolkata	2024-01-07
+10562251	Zimī Chak	Zimi Chak		25.97812	83.99426	P	PPL	IN		36	193	976		0		69	Asia/Kolkata	2024-01-07
+10562433	Zamīn Uncherā	Zamin Unchera		25.80653	83.93407	P	PPL	IN		36	193	977		0		73	Asia/Kolkata	2024-01-07
+10563582	Zakhīra	Zakhira		27.54728	81.81259	P	PPL	IN		36	181	924		0		122	Asia/Kolkata	2024-01-07
+10564275	Zamindār Purwa	Zamindar Purwa		27.19135	81.78577	P	PPL	IN		36	183	929		0		112	Asia/Kolkata	2024-01-07
+10564612	Zālim Singh	Zalim Singh		27.0794	81.79057	P	PPL	IN		36	183	929		0		106	Asia/Kolkata	2024-01-07
+10566934	Zainābād	Zainabad		26.92697	81.05916	P	PPL	IN		36	157	820		0		124	Asia/Kolkata	2024-01-07
+10567579	Ziārat Nāthu Pīr Bāba	Ziarat Nathu Pir Baba		26.97833	81.22272	S	SHRN	IN		36	176	898		0		120	Asia/Kolkata	2024-01-07
+10567950	Zorāwar Khera	Zorawar Khera		26.51637	81.14537	P	PPL	IN		36	158	823		0		119	Asia/Kolkata	2024-01-07
+10568209	Zaphar Purwa	Zaphar Purwa		26.6942	81.241	P	PPL	IN		36	176	901		0		119	Asia/Kolkata	2024-01-07
+10568368	Zorāwar Khera	Zorawar Khera		26.5276	81.18605	P	PPL	IN		36	158	823		0		119	Asia/Kolkata	2024-01-07
+10568440	Zikaria	Zikaria		26.93669	81.30821	P	PPL	IN		36	176	898		0		122	Asia/Kolkata	2024-01-07
+10568530	Zahīruddīnpur	Zahiruddinpur		26.86554	81.28478	P	PPL	IN		36	176	898		0		122	Asia/Kolkata	2024-01-07
+10568558	Zainābād	Zainabad		26.82669	81.25665	P	PPL	IN		36	176	898		0		116	Asia/Kolkata	2024-01-07
+10568653	Zulfipur	Zulfipur		26.77795	81.29611	P	PPL	IN		36	176	901		0		118	Asia/Kolkata	2024-01-07
+10569228	Ziarat Baba	Ziarat Baba		26.89761	81.40106	S	TMPL	IN		36	176	899		0		121	Asia/Kolkata	2024-01-07
+10569802	Zahīrābād	Zahirabad		29.19532	78.45439	L	LCTY	IN		36	134	716		0		226	Asia/Kolkata	2024-01-06
+10570323	Zinatganj	Zinatganj		26.5234	81.4433	P	PPL	IN		36	640	824		0		116	Asia/Kolkata	2024-01-07
+10570340	Zorāwarganj	Zorawarganj		26.54578	81.43399	P	PPL	IN		36	640	824		0		117	Asia/Kolkata	2024-01-07
+10570662	Zāminganj	Zaminganj		26.69144	81.42496	P	PPL	IN		36	176	901		0		115	Asia/Kolkata	2024-01-07
+10572320	Zamāpur	Zamapur		29.22557	78.62623	P	PPL	IN		36	134	715		0		219	Asia/Kolkata	2024-01-06
+10573316	Zābtānagar Minor	Zabtanagar Minor		29.35275	78.75	H	CNL	IN		36				0		240	Asia/Kolkata	2015-08-09
+10573411	Zāhidpur	Zahidpur		29.38044	78.76519	P	PPL	IN		36	134	715		0		258	Asia/Kolkata	2024-01-06
+10573414	Zāhidpur	Zahidpur		29.36302	78.76424	P	PPL	IN		36	134	715		0		246	Asia/Kolkata	2024-01-06
+10574124	Zorāwarganj	Zorawarganj		26.45529	81.17788	P	PPL	IN		36	158	823		0		118	Asia/Kolkata	2024-01-07
+10574920	Zālim Singh Purwa	Zalim Singh Purwa		26.29759	81.28928	P	PPL	IN		36	158	825		0		121	Asia/Kolkata	2024-01-07
+10574951	Ziāuddīnpur	Ziauddinpur		29.01023	78.79909	P	PPL	IN		36	135	717		0		205	Asia/Kolkata	2024-01-06
+10575207	Zorawarganj	Zorawarganj		26.41994	81.40613	P	PPL	IN		36	640	824		0		115	Asia/Kolkata	2024-01-07
+10576506	Zālimpur	Zalimpur		26.31309	81.7622	P	PPL	IN		36	640	913		0		108	Asia/Kolkata	2024-01-07
+10579374	Zerki	Zerki		28.91217	78.38222	P	PPL	IN		36	137	6831		0		217	Asia/Kolkata	2024-01-06
+10579491	Zamāpur	Zamapur		28.83509	78.41842	P	PPL	IN		36	137	730		0		214	Asia/Kolkata	2024-01-06
+10579922	Zirāh	Zirah		25.05903	81.12394	P	PPL	IN		36	171	5930		0		237	Asia/Kolkata	2024-01-07
+10579955	Zabardasta Bamboo Plantation	Zabardasta Bamboo Plantation		25.04464	81.05717	S	EST	IN		36	171	5930		0		252	Asia/Kolkata	2024-01-07
+10580661	Zindpur	Zindpur		27.16654	80.93752	P	PPL	IN		36	176	896		0		130	Asia/Kolkata	2024-01-07
+10580747	Zālimpur	Zalimpur		27.08574	80.95518	P	PPL	IN		36	157	820		0		129	Asia/Kolkata	2024-01-07
+10581154	Zālim Khera	Zalim Khera		26.46916	80.45395	P	PPL	IN		36	156	816		0		114	Asia/Kolkata	2024-01-07
+10581531	Zumerpur	Zumerpur		27.12942	81.50409	P	PPL	IN		36	180	922		0		109	Asia/Kolkata	2024-01-07
+10585025	Ziārat Bhūre Shāh Miyān	Ziarat Bhure Shah Miyan		28.82895	78.51176	S	SHRN	IN		36	137	730		0		216	Asia/Kolkata	2024-01-06
+10585086	Ziārat Abdul Majīd	Ziarat Abdul Majid		28.82218	78.61645	S	SHRN	IN		36	137	730		0		210	Asia/Kolkata	2024-01-06
+10585124	Ziārat Bhure Pahalwān	Ziarat Bhure Pahalwan		28.89797	78.58763	S	SHRN	IN		36	137	730		0		208	Asia/Kolkata	2024-01-06
+10585152	Ziārat Arab Shahīd	Ziarat Arab Shahid		28.9358	78.58257	S	SHRN	IN		36	137	730		0		208	Asia/Kolkata	2024-01-06
+10585180	Ziārat Bijli Shāh	Ziarat Bijli Shah		28.99916	78.66293	S	SHRN	IN		36	135	718		0		206	Asia/Kolkata	2024-01-06
+10585341	Ziārat Sultān Shāh	Ziarat Sultan Shah		28.94603	78.72241	S	SHRN	IN		36	135	719		0		203	Asia/Kolkata	2024-01-06
+10585342	Zawārkhera	Zawarkhera		28.94903	78.72327	P	PPLQ	IN		36	135	719		0		202	Asia/Kolkata	2024-01-06
+10585343	Ziārat Aimeri Shāh	Ziarat Aimeri Shah		28.95001	78.70472	S	SHRN	IN		36	135	718		0		205	Asia/Kolkata	2024-01-06
+10585357	Ziārat Pīr Naugoja	Ziarat Pir Naugoja		28.95688	78.50728	S	SHRN	IN		36	137	6831		0		214	Asia/Kolkata	2024-01-06
+10585458	Zahūr Nagra	Zahur Nagra		28.08177	79.75669	P	PPL	IN		36	152	794		0		158	Asia/Kolkata	2024-01-06
+10585462	Zākir Nagra	Zakir Nagra		28.06549	79.78408	P	PPL	IN		36	152	794		0		156	Asia/Kolkata	2024-01-06
+10585476	Zikrīpur	Zikripur		28.03678	79.76416	P	PPL	IN		36	152	794		0		157	Asia/Kolkata	2024-01-06
+10585639	Zindpura	Zindpura		28.19901	79.84458	P	PPL	IN		36	152	794		0		168	Asia/Kolkata	2024-01-06
+10586346	Zafarpur	Zafarpur		28.74539	78.70803	P	PPL	IN		36	135	720		0		201	Asia/Kolkata	2024-01-06
+10586517	Zāfrābād	Zafrabad		25.83715	81.25056	P	PPL	IN		36	172	879		0		107	Asia/Kolkata	2024-01-07
+10587941	Zafrāpur	Zafrapur		26.14149	81.16679	P	PPL	IN		36	158	825		0		117	Asia/Kolkata	2024-01-07
+10588586	Zamin Husainābād	Zamin Husainabad		26.62887	81.53735	P	PPL	IN		36	176	901		0		115	Asia/Kolkata	2024-01-07
+10590167	Zabarnagar	Zabarnagar		26.84221	81.89389	P	PPL	IN		36	183	930		0		100	Asia/Kolkata	2024-01-07
+10591763	Zila Rāja	Zila Raja		26.06373	81.84396	P	PPL	IN		36	640	914		0		105	Asia/Kolkata	2024-01-07
+10592158	Zilla	Zilla		26.07473	81.95563	P	PPL	IN		36	640	914		0		98	Asia/Kolkata	2024-01-07
+10592537	Zafar Purwa	Zafar Purwa		26.22231	81.97013	P	PPL	IN		36	179	915		0		102	Asia/Kolkata	2024-01-07
+10594509	Zogiār	Zogiar		33.98982	74.5242	P	PPL	IN		12	002	5		0		2071	Asia/Kolkata	2024-01-06
+10594744	Zagpur	Zagpur		33.97078	74.5642	P	PPL	IN		12	002	5		0		1903	Asia/Kolkata	2024-01-06
+10594759	Zūgu Kharyan Forest	Zugu Kharyan Forest		33.89017	74.55648	V	FRST	IN		12				0		2721	Asia/Kolkata	2015-08-09
+10594763	Zandkawal	Zandkawal		33.81618	74.57759	H	STM	IN		12				0		3006	Asia/Kolkata	2015-08-09
+10594775	Zūgu Kharyan	Zugu Kharyan		33.92094	74.58755	P	PPL	IN		12	002	6		0		2127	Asia/Kolkata	2024-01-06
+10594781	Zempur	Zempur		33.93999	74.60386	P	PPL	IN		12	002	6		0		2106	Asia/Kolkata	2024-01-06
+10594790	Zabagul	Zabagul		33.96384	74.60583	P	PPL	IN		12	002	6		0		1985	Asia/Kolkata	2024-01-06
+10594834	Zaini Kol	Zaini Kol		33.99335	74.6884	H	STM	IN		12				0		1770	Asia/Kolkata	2015-08-09
+10594890	Zālāpur	Zalapur		33.99128	74.68381	P	PPL	IN		12	002	7		0		1795	Asia/Kolkata	2024-01-06
+10594893	Zagabug	Zagabug		33.98477	74.6978	P	PPL	IN		12	002	7		0		1791	Asia/Kolkata	2024-01-06
+10594943	Zampathar Forest	Zampathar Forest		33.76639	74.72196	V	FRST	IN		12				0		2358	Asia/Kolkata	2015-08-09
+10594991	Zuhom Kāndipur	Zuhom Kandipur		33.9265	74.74608	P	PPL	IN		12	002	8		0		1799	Asia/Kolkata	2024-01-06
+10595005	Zampathar	Zampathar		33.77731	74.74595	P	PPL	IN		12	013	6091		0		2128	Asia/Kolkata	2024-01-06
+10595098	Zakūpur	Zakupur		28.02479	78.81227	P	PPL	IN		36	149	781		0		167	Asia/Kolkata	2024-01-06
+10595109	Zarīfpur Garhia	Zarifpur Garhia		28.00653	78.76326	P	PPL	IN		36	149	781		0		168	Asia/Kolkata	2024-01-06
+10595166	Zāhidpur	Zahidpur	Ghensulia,Zahidpur,Zāhidpur	28.13439	78.82985	P	PPL	IN		36	149	781		0		178	Asia/Kolkata	2024-01-06
+10595444	Zaz Nār	Zaz Nar		33.65092	74.59671	H	STM	IN		12				0		2948	Asia/Kolkata	2015-08-09
+10596274	Zorāwarpur	Zorawarpur		27.43046	82.10683	P	PPL	IN		36	182	925		0		112	Asia/Kolkata	2024-01-07
+10596325	Zorāwarpur	Zorawarpur		27.39339	82.13564	P	PPL	IN		36	182	925		0		112	Asia/Kolkata	2024-01-07
+10596646	Zorāwarpur Māfi	Zorawarpur Mafi		27.41608	82.20303	P	PPL	IN		36	182	925		0		106	Asia/Kolkata	2024-01-07
+10596766	Zargala Tāl	Zargala Tal		27.40463	82.24775	H	MRSH	IN		36				0		99	Asia/Kolkata	2015-08-09
+10600827	Zorāwarnagar	Zorawarnagar		27.34558	82.47728	P	PPL	IN		36	182	926		0		97	Asia/Kolkata	2024-01-07
+10600925	Zamindār Dīh	Zamindar Dih		27.26417	82.47076	P	PPL	IN		36	182	927		0		100	Asia/Kolkata	2024-01-07
+10603378	Zanda Gutta	Zanda Gutta		18.86647	78.71671	T	MT	IN		40	681	4416		0		363	Asia/Kolkata	2024-01-07
+10603401	Zāgasāgar	Zagasagar		18.78166	78.61713	P	PPL	IN		40	681	4417		0		332	Asia/Kolkata	2024-01-07
+10605756	Zabti Pura	Zabti Pura		26.7704	82.15908	P	PPL	IN		36	177	905		0		102	Asia/Kolkata	2024-01-07
+10606817	Zirakan	Zirakan		33.75292	74.78181	P	PPL	IN		12	013	6091		0		2051	Asia/Kolkata	2024-01-06
+10606848	Zaigipur	Zaigipur		33.88876	74.80863	P	PPL	IN		12	002	9		0		1710	Asia/Kolkata	2024-01-06
+10606872	Zolu	Zolu		33.9766	74.8194	P	PPL	IN		12	002	8		0		1609	Asia/Kolkata	2024-01-06
+10606886	Zinīpur	Zinipur		33.97044	74.8376	P	PPL	IN		12	002	8		0		1607	Asia/Kolkata	2024-01-06
+10606914	Zudur	Zudur		33.90628	74.86463	P	PPL	IN		12	012	51		0		1635	Asia/Kolkata	2024-01-06
+10606942	Zīrgund	Zirgund		33.83238	74.86464	P	PPL	IN		12	012	6796		0		1755	Asia/Kolkata	2024-01-06
+10607141	Zāsau	Zasau		33.82924	74.93253	P	PPL	IN		12	012	51		0		1653	Asia/Kolkata	2024-01-06
+10608289	Zainpur	Zainpur		26.63211	82.14888	P	PPL	IN		36	177	906		0		103	Asia/Kolkata	2024-01-07
+10608704	Zahīruddīnpur	Zahiruddinpur		26.60648	82.20964	P	PPL	IN		36	177	906		0		103	Asia/Kolkata	2024-01-07
+10610460	Zila	Zila		26.25945	82.17633	P	PPL	IN		36	179	916		0		96	Asia/Kolkata	2024-01-07
+10610531	Zōwur	Zowur		33.73797	74.81358	P	PPL	IN		12	013	52		0		2003	Asia/Kolkata	2024-01-06
+10610564	Zaji Nār	Zaji Nar		33.65367	74.78479	H	STM	IN		12				0		2207	Asia/Kolkata	2015-08-09
+10610587	Zajimaro	Zajimaro		33.53285	74.87804	L	LCTY	IN		12	015	61		0		3036	Asia/Kolkata	2024-01-06
+10610590	Zimastal	Zimastal		33.54286	74.91409	P	PPL	IN		12	015	61		0		2615	Asia/Kolkata	2024-01-06
+10610704	Zatinpur	Zatinpur		33.68668	74.91335	P	PPL	IN		12	013	52		0		1909	Asia/Kolkata	2024-01-06
+10610707	Zēipur	Zeipur		33.67639	74.918	P	PPL	IN		12	013	52		0		1912	Asia/Kolkata	2024-01-06
+10610737	Zānabōt	Zanabot		33.74247	74.89353	P	PPL	IN		12	013	6798		0		1901	Asia/Kolkata	2024-01-06
+10610789	Zaban	Zaban		33.71017	74.98546	P	PPL	IN		12	015	6781		0		1760	Asia/Kolkata	2024-01-06
+10611461	Zabtāpuram	Zabtapuram		18.78441	78.97434	P	PPL	IN		40	681	6211		0		261	Asia/Kolkata	2024-01-07
+10612243	Zarīandar	Zariandar		33.4484	74.98556	P	PPL	IN		12	020	6850		0		2987	Asia/Kolkata	2024-01-06
+10612410	Zabtāpuram State Forest	Zabtapuram State Forest		18.74291	78.96087	L	RESF	IN		02				0		337	Asia/Kolkata	2015-08-09
+10613931	Zira Bhāri Tāl	Zira Bhari Tal		26.96245	82.3672	H	MRSH	IN		36				0		95	Asia/Kolkata	2015-08-09
+10613983	Zainuddīn	Zainuddin		26.93458	82.41994	P	PPL	IN		36	185	938		0		99	Asia/Kolkata	2024-01-07
+10614326	Zīra Bhāri	Zira Bhari		26.95995	82.36239	P	PPL	IN		36	183	931		0		102	Asia/Kolkata	2024-01-07
+10616922	Zamīn Muhammadpur	Zamin Muhammadpur		25.98018	83.03864	L	LCTY	IN		36	191	967		0		81	Asia/Kolkata	2024-01-07
+10618058	Zafarpur Mahāl	Zafarpur Mahal		26.12429	82.39777	P	PPL	IN		36	179	918		0		95	Asia/Kolkata	2024-01-07
+10619128	Zabti	Zabti		26.99024	82.59757	P	PPL	IN		36	185	938		0		92	Asia/Kolkata	2024-01-07
+10620305	Zāhidpur	Zahidpur		26.54665	82.551	P	PPL	IN		36	178	907		0		96	Asia/Kolkata	2024-01-07
+10621591	Zafarpur Murghzār	Zafarpur Murghzar		26.26141	82.66552	P	PPL	IN		36	178	909		0		91	Asia/Kolkata	2024-01-07
+10621657	Zaināpur	Zainapur		26.30874	82.69058	P	PPL	IN		36	178	909		0		95	Asia/Kolkata	2024-01-07
+10621787	Zaināpur	Zainapur		26.40414	82.65624	P	PPL	IN		36	178	910		0		91	Asia/Kolkata	2024-01-07
+10622120	Zahuruddīnpur	Zahuruddinpur		26.26559	82.73956	P	PPL	IN		36	178	909		0		88	Asia/Kolkata	2024-01-07
+10622244	Zafarpur	Zafarpur		26.22865	82.56551	P	PPL	IN		36	179	918		0		92	Asia/Kolkata	2024-01-07
+10622272	Zahūruddīnpur	Zahuruddinpur		26.21273	82.58309	P	PPL	IN		36	179	918		0		92	Asia/Kolkata	2024-01-07
+10622448	Zainpur	Zainpur		26.12705	82.55989	P	PPL	IN		36	194	981		0		93	Asia/Kolkata	2024-01-07
+10622769	Zangipur	Zangipur		26.09167	82.61909	P	PPL	IN		36	194	981		0		91	Asia/Kolkata	2024-01-07
+10622770	Zahūruddīnpur	Zahuruddinpur		26.09036	82.59991	P	PPL	IN		36	194	981		0		94	Asia/Kolkata	2024-01-07
+10623372	Zorawarpur	Zorawarpur		26.86338	82.78296	P	PPL	IN		36	185	940		0		90	Asia/Kolkata	2024-01-07
+10624892	Zainuddīnpur	Zainuddinpur		26.53061	82.84152	P	PPL	IN		36	178	907		0		91	Asia/Kolkata	2024-01-07
+10625553	Zafarpur Adāl	Zafarpur Adal		25.89814	83.31832	P	PPL	IN		36	191	966		0		83	Asia/Kolkata	2024-01-07
+10625576	Zamīn Burhān	Zamin Burhan		25.88009	83.32443	L	LCTY	IN		36	192	974		0		78	Asia/Kolkata	2024-01-07
+10625797	Zamīn Saraunda	Zamin Saraunda		25.87285	83.38031	P	PPL	IN		36	192	974		0		77	Asia/Kolkata	2024-01-07
+10625840	Zamīn Qāzi Hussain	Zamin Qazi Hussain		25.88457	83.34624	L	LCTY	IN		36	192	974		0		76	Asia/Kolkata	2024-01-07
+10626137	Zafarpur	Zafarpur		25.78512	83.44023	P	PPL	IN		36	195	987		0		76	Asia/Kolkata	2024-01-07
+10630692	Zeluk	Zeluk		27.25137	88.7826	P	PPL	IN		29	741	1555		0		2883	Asia/Kolkata	2024-01-06
+10652023	Zafarpur	Zafarpur		26.28335	82.76878	P	PPL	IN		36	178	909		0		91	Asia/Kolkata	2024-01-07
+10653142	Zunārdār Patti	Zunardar Patti		26.21932	82.86964	P	PPL	IN		36	191	964		0		86	Asia/Kolkata	2024-01-07
+10653164	Zafarpur Sakrauli	Zafarpur Sakrauli		26.19515	82.85911	P	PPL	IN		36	178	909		0		86	Asia/Kolkata	2024-01-07
+10653516	Zamīn Bedui	Zamin Bedui		26.22052	82.95984	P	PPL	IN		36	191	964		0		88	Asia/Kolkata	2024-01-07
+10653705	Zāhirpur	Zahirpur		26.0653	82.94877	P	PPL	IN		36	191	967		0		87	Asia/Kolkata	2024-01-07
+10653782	Zamīn Ashikpur	Zamin Ashikpur		26.00043	82.99399	L	LCTY	IN		36	191	967		0		82	Asia/Kolkata	2024-01-07
+10653927	Zuastān	Zuastan		34.07414	75.07537	P	PPL	IN		12	012	50		0		2324	Asia/Kolkata	2024-01-06
+10653933	Zanairāg	Zanairag		34.0622	75.03524	P	PPL	IN		12	012	48		0		2074	Asia/Kolkata	2024-01-06
+10653940	Zanatrāg Nār	Zanatrag Nar		34.03468	75.02033	H	STM	IN		12				0		1751	Asia/Kolkata	2015-09-08
+10653953	Zin Nāg	Zin Nag		34.01037	75.06785	H	SPNG	IN		12				0		1983	Asia/Kolkata	2015-09-08
+10653956	Zarllwain	Zarllwain	Zarllwain	34.00782	75.11432	T	MT	IN		12	012	50		0		3083	Asia/Kolkata	2024-01-06
+10653958	Zampathar	Zampathar	Zampathar	34.00869	75.15479	T	MT	IN		12	012	50		0		3280	Asia/Kolkata	2024-01-06
+10653964	Zisbal	Zisbal		34.03653	75.11062	P	PPL	IN		12	012	50		0		2381	Asia/Kolkata	2024-01-06
+10653990	Zajmarg Nadi	Zajmarg Nadi		34.15684	75.24514	H	STM	IN		41				0		2793	Asia/Kolkata	2020-09-13
+10654003	Zaiwain	Zaiwain		34.2444	75.16452	L	LCTY	IN		41	011			0		3166	Asia/Kolkata	2020-09-13
+10654537	Zabnār Forest	Zabnar Forest		34.29344	75.30065	V	FRST	IN		41				0		2973	Asia/Kolkata	2020-09-13
+10654540	Zabnār	Zabnar		34.27374	75.31022	T	RDGE	IN		41				0		3884	Asia/Kolkata	2020-09-13
+10654571	Zojibal Nār	Zojibal Nar		34.25447	75.41855	H	STM	IN		41				0		2853	Asia/Kolkata	2020-09-13
+10654622	Zräjtsak	Zrajtsak		34.05526	75.3095	T	HLLS	IN		41				0		2713	Asia/Kolkata	2020-09-13
+10654624	Zambarub	Zambarub		34.05252	75.31775	P	PPL	IN		41	014			0		2898	Asia/Kolkata	2020-09-13
+10654625	Zamtarwān	Zamtarwan		34.05074	75.30783	P	PPL	IN		41	014			0		2621	Asia/Kolkata	2020-09-13
+10654740	Zāijpal	Zaijpal		34.09047	75.47057	L	AREA	IN		41				0		3501	Asia/Kolkata	2020-09-13
+10655720	Zāhidbagh	Zahidbagh		33.80947	75.02746	P	PPL	IN		12	012	6794		0		1607	Asia/Kolkata	2024-01-06
+10655750	Zainpur	Zainpur		33.77709	75.00737	P	PPL	IN		12	013	6797		0		1609	Asia/Kolkata	2024-01-06
+10655813	Zabilpur	Zabilpur		33.78222	75.09955	P	PPL	IN		12	014	54		0		1601	Asia/Kolkata	2024-01-06
+10655815	Zirpara	Zirpara	Zirapor,Zirapōr,Zirpara	33.79221	75.11174	P	PPL	IN		12	014	54		0		1597	Asia/Kolkata	2024-01-06
+10655995	Zithyar	Zithyar	Zithyar	33.99779	75.22212	T	MT	IN		12	012	50		0		3910	Asia/Kolkata	2024-01-06
+10656030	Zaigund	Zaigund		33.87499	75.23804	P	PPL	IN		12	014	6818		0		1797	Asia/Kolkata	2024-01-06
+10656412	Zardi	Zardi		27.04644	83.38723	P	PPL	IN		36	187	947		0		85	Asia/Kolkata	2024-01-07
+10657222	Zazarpur	Zazarpur		33.67136	75.02006	P	PPL	IN		12	015	59		0		1706	Asia/Kolkata	2024-01-06
+10657231	Zāripur	Zaripur		33.66906	75.05261	P	PPL	IN		12	015	59		0		1668	Asia/Kolkata	2024-01-06
+10657238	Zungalpur	Zungalpur		33.64579	75.06205	P	PPL	IN		12	015	6194		0		1677	Asia/Kolkata	2024-01-06
+10657274	Zumulnār State Forest	Zumulnar State Forest		33.55559	75.03898	L	RESF	IN		12				0		2674	Asia/Kolkata	2015-09-08
+10657424	Zodar	Zodar		33.70254	75.11844	P	PPL	IN		12	014	55		0		1602	Asia/Kolkata	2024-01-06
+10657474	Zanāna Mission Hospital	Zanana Mission Hospital		33.73416	75.17256	S	HSP	IN		12	014	55		0		1684	Asia/Kolkata	2024-01-06
+10657550	Zaldūr	Zaldur		33.63233	75.19052	P	PPL	IN		12	014	58		0		1721	Asia/Kolkata	2024-01-06
+10657590	Zari Nāg	Zari Nag		33.55804	75.18029	H	SPNG	IN		12				0		1913	Asia/Kolkata	2015-09-08
+10658667	Zindāpur	Zindapur		26.99938	83.11565	L	LCTY	IN		36	186	941		0		79	Asia/Kolkata	2024-01-07
+10660288	Zamīn Ahrauli	Zamin Ahrauli		26.38066	83.04127	P	PPL	IN		36	178	908		0		86	Asia/Kolkata	2024-01-07
+10660413	Zafrāmau	Zaframau		26.2534	83.01835	P	PPL	IN		36	191	964		0		87	Asia/Kolkata	2024-01-07
+10660537	Zainpur	Zainpur		26.39696	83.06792	P	PPL	IN		36	178	908		0		85	Asia/Kolkata	2024-01-07
+10661005	Zamīn Bishun Pura	Zamin Bishun Pura		26.47961	83.13601	P	PPL	IN		36	188	953		0		81	Asia/Kolkata	2024-01-07
+10661084	Zamīn Gubraur	Zamin Gubraur		26.45249	83.20135	L	LCTY	IN		36	188	953		0		75	Asia/Kolkata	2024-01-07
+10661460	Zamīn Kaithi	Zamin Kaithi		26.45397	83.21792	P	PPL	IN		36	188	953		0		83	Asia/Kolkata	2024-01-07
+10661563	Zamīn Gangūa	Zamin Gangua		26.2043	83.0981	P	PPL	IN		36	191	965		0		84	Asia/Kolkata	2024-01-07
+10661679	Zamīn Sānti	Zamin Santi		26.15166	83.10269	P	PPL	IN		36	191	967		0		82	Asia/Kolkata	2024-01-07
+10661779	Zamīn Isharpār	Zamin Isharpar		26.09342	83.03641	P	PPL	IN		36	191	967		0		84	Asia/Kolkata	2024-01-07
+10661791	Zamīn Palia	Zamin Palia		26.08243	83.04997	P	PPL	IN		36	191	967		0		83	Asia/Kolkata	2024-01-07
+10661798	Zamīn Bāri	Zamin Bari		26.07994	83.01929	P	PPL	IN		36	191	967		0		84	Asia/Kolkata	2024-01-07
+10661913	Zamīn Kathgar	Zamin Kathgar		26.04558	83.09383	P	PPL	IN		36	191	967		0		85	Asia/Kolkata	2024-01-07
+10661970	Zirakpur	Zirakpur		26.01482	83.16492	P	PPL	IN		36	191	966		0		82	Asia/Kolkata	2024-01-07
+10662216	Zamīn Pharenda	Zamin Pharenda		26.14382	83.16428	P	PPL	IN		36	191	965		0		81	Asia/Kolkata	2024-01-07
+10662253	Zamīn Shaikhūpur	Zamin Shaikhupur		26.15458	83.21724	P	PPL	IN		36	191	965		0		77	Asia/Kolkata	2024-01-07
+10662611	Zamīn Pindri	Zamin Pindri		26.23628	83.24195	P	PPL	IN		36	191	965		0		79	Asia/Kolkata	2024-01-07
+10662837	Zindāpur	Zindapur		26.86032	83.29718	P	PPL	IN		36	188	950		0		82	Asia/Kolkata	2024-01-07
+10662967	Zabti	Zabti		26.80466	83.35747	P	PPL	IN		36	188	950		0		83	Asia/Kolkata	2024-01-07
+10663930	Zahūrabād	Zahurabad		26.54948	83.28663	P	PPL	IN		36	188	953		0		82	Asia/Kolkata	2024-01-07
+10665480	Zamīn Lohrāpur	Zamin Lohrapur		26.36617	83.45719	P	PPL	IN		36	188	952		0		77	Asia/Kolkata	2024-01-07
+10665497	Zamīn Shukul	Zamin Shukul		26.33469	83.45336	P	PPL	IN		36	188	954		0		77	Asia/Kolkata	2024-01-07
+10665779	Zaidi Nadi	Zaidi Nadi		26.75993	83.52148	H	STM	IN		36				0		77	Asia/Kolkata	2015-09-08
+10666597	Zālimganj	Zalimganj		25.7191	81.55318	P	PPL	IN		36	173	881		0		110	Asia/Kolkata	2024-01-07
+10668274	Zamīn Kusmaha	Zamin Kusmaha		26.20954	83.52103	P	PPL	IN		36	192	971		0		80	Asia/Kolkata	2024-01-07
+10668494	Zāmin Mutalika	Zamin Mutalika		26.16576	83.58803	P	PPL	IN		36	192	971		0		78	Asia/Kolkata	2024-01-07
+10668535	Zamira	Zamira		26.10123	83.60687	P	PPL	IN		36	192	971		0		76	Asia/Kolkata	2024-01-07
+10668609	Zamīn Sārangpur	Zamin Sarangpur		26.20814	83.63665	P	PPL	IN		36	192	972		0		76	Asia/Kolkata	2024-01-07
+10668665	Zamīn Manauli	Zamin Manauli		26.17171	83.66884	P	PPL	IN		36	192	972		0		78	Asia/Kolkata	2024-01-07
+10668686	Zamin Tinhari	Zamin Tinhari		26.11152	83.6771	P	PPL	IN		36	192	972		0		76	Asia/Kolkata	2024-01-07
+10668829	Zamīn	Zamin		26.20138	83.69334	P	PPL	IN		36	192	972		0		70	Asia/Kolkata	2024-01-07
+10669067	Zāmlān	Zamlan		33.26873	75.03701	P	PPL	IN		12	017	6763		0		1465	Asia/Kolkata	2024-01-06
+10669188	Zaban	Zaban		33.49825	75.14172	P	PPL	IN		12	017	66		0		2429	Asia/Kolkata	2024-01-06
+10669189	Zaban Nadi	Zaban Nadi		33.49527	75.16649	H	STM	IN		12				0		1910	Asia/Kolkata	2015-09-08
+10669192	Zani Nāl	Zani Nal		33.48262	75.1865	H	STM	IN		12				0		1794	Asia/Kolkata	2015-09-08
+10669213	Zenjāl	Zenjal		33.45733	75.18396	P	PPL	IN		12	017	66		0		1776	Asia/Kolkata	2024-01-06
+10669231	Zamandu	Zamandu		33.39662	75.24605	P	PPL	IN		12	017	66		0		2531	Asia/Kolkata	2024-01-06
+10669948	Zān Shāh Sāhib Ziārat	Zan Shah Sahib Ziarat		33.86763	75.28226	S	SHRN	IN		12	014	53		0		1986	Asia/Kolkata	2024-01-06
+10670084	Zammandu	Zammandu		33.81383	75.36741	P	PPL	IN		12	014	6822		0		2830	Asia/Kolkata	2024-01-06
+10670120	Zissar Nāg	Zissar Nag		33.9239	75.38677	H	LK	IN		12				0		4166	Asia/Kolkata	2015-09-08
+10670121	Zissar Nār	Zissar Nar		33.91266	75.35836	H	STM	IN		12				0		3146	Asia/Kolkata	2015-09-08
+10670134	Zonadab	Zonadab		33.9527	75.34023	P	PPL	IN		12	014	53		0		2990	Asia/Kolkata	2024-01-06
+10670135	Zonadab	Zonadab		33.9558	75.34709	T	MT	IN		12	014	53		0		3215	Asia/Kolkata	2024-01-06
+10670140	Zampathar	Zampathar		33.98041	75.34928	P	PPL	IN		12	014	53		0		2905	Asia/Kolkata	2024-01-06
+10670148	Zajimarg	Zajimarg	Kan Nag Gali,Kān Nāg Galī,Zajimarg	33.84059	75.43348	T	PASS	IN		12	018	69		0		4048	Asia/Kolkata	2024-01-06
+10670149	Zajimarg	Zajimarg		33.8411	75.44522	L	AREA	IN		12				0		3851	Asia/Kolkata	2015-09-08
+10670155	Zambakach	Zambakach	Brerimandu Gali,Brerimandū Galī,Zambakach	33.7983	75.46063	T	PASS	IN		12	018	69		0		4089	Asia/Kolkata	2024-01-06
+10670158	Zambakach Nadi	Zambakach Nadi		33.78678	75.43909	H	STM	IN		12				0		3174	Asia/Kolkata	2015-09-08
+10670235	Zammandu	Zammandu		33.39837	75.25531	P	PPL	IN		12	017	7201		0		2419	Asia/Kolkata	2024-01-06
+10670309	Zēnzanhu	Zenzanhu		33.2607	75.27603	P	PPL	IN		12	017	67		0		2236	Asia/Kolkata	2024-01-06
+10670356	Zaiwan	Zaiwan		33.34727	75.32991	P	PPL	IN		12	017	6760		0		2521	Asia/Kolkata	2024-01-06
+10670361	Zōr	Zor		33.36236	75.31954	P	PPL	IN		12	017	6760		0		2864	Asia/Kolkata	2024-01-06
+10670366	Zamunma	Zamunma		33.2853	75.30488	P	PPL	IN		12	017	66		0		2624	Asia/Kolkata	2024-01-06
+10670440	Zhōr	Zhor		33.36245	75.35134	P	PPL	IN		12	017	6760		0		2957	Asia/Kolkata	2024-01-06
+10670486	Zilānt Gali	Zilant Gali		33.33423	75.39488	T	PASS	IN		12	016	6748		0		3081	Asia/Kolkata	2024-01-06
+10670487	Zilānt	Zilant		33.33865	75.39505	P	PPL	IN		12	016	6748		0		3089	Asia/Kolkata	2024-01-06
+10670596	Zirād	Zirad		33.39504	75.27833	P	PPL	IN		12	017	6760		0		2097	Asia/Kolkata	2024-01-06
+10671670	Zamargan Nadi	Zamargan Nadi		33.77396	75.72767	H	STM	IN		41				0		3236	Asia/Kolkata	2020-09-13
+10671786	Zamīn Sisend	Zamin Sisend		26.10032	83.82907	P	PPL	IN		36	193	975		0		72	Asia/Kolkata	2024-01-07
+10671981	Zāhidpur	Zahidpur		26.09682	83.86611	P	PPL	IN		36	193	975		0		70	Asia/Kolkata	2024-01-07
+10672450	Zahīruddīnpur	Zahiruddinpur		25.60836	83.5209	P	PPLQ	IN		36	195	989		0		72	Asia/Kolkata	2024-01-07
+10672597	Zar Nadiāg Nadi	Zar Nadiag Nadi		33.63542	75.58518	H	STM	IN		12				0		3429	Asia/Kolkata	2015-09-08
+10672598	Zarnāg	Zarnag		33.63177	75.54622	T	VAL	IN		12				0		3737	Asia/Kolkata	2015-09-08
+10672685	Zawag	Zawag		33.53347	75.58464	P	PPL	IN		12	018	70		0		2391	Asia/Kolkata	2024-01-06
+10672951	Zainab Chak	Zainab Chak		25.7377	83.71666	P	PPL	IN		36	195	6834		0		73	Asia/Kolkata	2024-01-07
+10673105	Zainab Chak	Zainab Chak		25.66778	83.74729	P	PPL	IN		36	195	990		0		66	Asia/Kolkata	2024-01-07
+10673592	Zansir	Zansir		33.47776	75.57039	P	PPL	IN		12	018	70		0		2235	Asia/Kolkata	2024-01-06
+10673714	Zatil	Zatil		33.30853	75.61347	P	PPL	IN		12	018	68		0		3066	Asia/Kolkata	2024-01-06
+10673901	Zāyin	Zayin		33.3546	75.68523	P	PPL	IN		12	018	68		0		2354	Asia/Kolkata	2024-01-06
+10676626	Zambarsor Spring	Zambarsor Spring		33.46689	75.78442	H	SPNG	IN		12				0		3312	Asia/Kolkata	2015-09-08
+10677125	Zaban	Zaban		33.6663	75.8093	P	PPL	IN		41	018			0		2433	Asia/Kolkata	2020-09-13
+10677164	Zaribham Forest	Zaribham Forest		33.5647	75.77673	V	FRST	IN		12				0		2574	Asia/Kolkata	2015-09-08
+10677194	Zamanikal	Zamanikal		33.53676	75.80244	L	LCTY	IN		12	018	6765		0		1505	Asia/Kolkata	2024-01-06
+10677380	Zawar	Zawar		33.31349	75.7815	P	PPL	IN		12	018	68		0		1748	Asia/Kolkata	2024-01-06
+10677624	Zatnāg Nadi	Zatnag Nadi		33.15267	75.75118	H	STM	IN		12				0		966	Asia/Kolkata	2015-09-08
+10679169	Ziārat Lakhdāta	Ziarat Lakhdata		32.34325	75.42743	S	SHRN	IN		12	007	6727		0		280	Asia/Kolkata	2024-01-06
+10682065	Ziārat Ditto Shāh	Ziarat Ditto Shah		32.10638	75.41327	S	SHRN	IN		23	035	6860		0		259	Asia/Kolkata	2024-01-06
+10682398	Zaina Kadal	Zaina Kadal		34.09384	74.80645	S	BDG	IN		12	010	43		0		1590	Asia/Kolkata	2024-01-06
+10684174	Zlāuddīnpur	Zlauddinpur		25.50789	81.76522	P	PPL	IN		36	175	888		0		92	Asia/Kolkata	2024-01-07
+10685598	Zirāt Lawāin	Zirat Lawain		25.34453	81.9689	L	LCTY	IN		36	175	889		0		89	Asia/Kolkata	2024-01-07
+10686774	Ziārat Muhabbat Shāh	Ziarat Muhabbat Shah		32.01201	75.57589	S	SHRN	IN		23	038	215		0		252	Asia/Kolkata	2024-01-06
+10689277	Zirāt	Zirat		22.29684	75.56216	P	PPL	IN		35	440	3546		0		240	Asia/Kolkata	2024-01-06
+10689808	Zīgadi	Zigadi		22.35802	75.99779	P	PPL	IN		35	440	3545		0		259	Asia/Kolkata	2024-01-06
+10692709	Zurmur	Zurmur		22.17303	80.06106	P	PPL	IN		35	457	3672		0		356	Asia/Kolkata	2024-01-06
+10692772	Ziriātolā	Ziriatola		22.06662	80.10878	P	PPL	IN		35	457	3672		0		331	Asia/Kolkata	2024-01-06
+10695973	Zunārdān	Zunardan		31.25688	74.89489	P	PPL	IN		23	050	259		0		220	Asia/Kolkata	2024-01-06
+10697612	Zein-ul-Abdīn	Zein-ul-Abdin		31.77809	75.23694	P	PPL	IN		23	035	203		0		245	Asia/Kolkata	2024-01-06
+10697996	Zāhidpur	Zahidpur		31.72817	75.2104	P	PPL	IN		23	035	203		0		242	Asia/Kolkata	2024-01-06
+10698206	Ziārat Gharībshāh	Ziarat Gharibshah		29.33043	77.55913	S	SHRN	IN		36	133	709		0		238	Asia/Kolkata	2024-01-06
+10700380	Zāliā	Zalia		21.36229	80.42959	P	PPL	IN		16	507	4048		0		315	Asia/Kolkata	2024-01-06
+10700490	Zartāltolā	Zartaltola		21.06487	80.32586	P	PPL	IN		16	507	4051		0		364	Asia/Kolkata	2024-01-06
+10700689	Zafarwāl	Zafarwal		31.91722	75.32841	P	PPL	IN		23	035	202		0		259	Asia/Kolkata	2024-01-06
+10702152	Zāhidpur	Zahidpur		31.95952	75.54923	P	PPL	IN		23	038	215		0		247	Asia/Kolkata	2024-01-06
+10702236	Zāhidpur	Zahidpur		31.95803	75.68025	P	PPL	IN		23	038	215		0		272	Asia/Kolkata	2024-01-06
+10702377	Zāhidpur	Zahidpur		31.78747	75.56948	P	PPL	IN		23	038	214		0		236	Asia/Kolkata	2024-01-06
+10702702	Zahūra Jhīl	Zahura Jhil		31.62964	75.60293	H	MRSH	IN		23				0		230	Asia/Kolkata	2015-09-08
+10702706	Zahūra	Zahura		31.6212	75.61409	P	PPL	IN		23	038	7193		0		239	Asia/Kolkata	2024-01-06
+10703194	Zamora	Zamora		25.57897	73.79449	P	PPL	IN		24	118	602		0		367	Asia/Kolkata	2024-01-06
+10706313	Zerābāndha	Zerabandha		21.40497	80.89704	P	PPL	IN		37	759	3303		0		335	Asia/Kolkata	2024-01-07
+10709311	Zam	Zam		21.04665	82.38614	S	RHSE	IN		37	411	3343		0		361	Asia/Kolkata	2024-01-07
+10709394	Zamīndāri	Zamindari		21.10966	82.47028	S	RHSE	IN		37	411	3343		0		315	Asia/Kolkata	2024-01-07
+10709522	Zāhidpur	Zahidpur		27.2047	80.61997	P	PPL	IN		36	155	813		0		130	Asia/Kolkata	2024-01-07
+10712187	Zainuddinpur	Zainuddinpur		27.45982	80.87164	P	PPL	IN		36	154	808		0		139	Asia/Kolkata	2024-01-07
+10713823	Zathlun	Zathlun		33.30236	76.0332	T	MT	IN		12	018	6768		0		3500	Asia/Kolkata	2024-01-06
+10713990	Zār	Zar		33.28165	76.1252	P	PPL	IN		12	018	71		0		1765	Asia/Kolkata	2024-01-06
+10714003	Zaunsar	Zaunsar		33.21437	76.26103	P	PPL	IN		12	018	71		0		3051	Asia/Kolkata	2024-01-06
+10714010	Zarwāl	Zarwal		33.21126	76.32628	T	RDGE	IN		12				0		4605	Asia/Kolkata	2015-09-08
+10714127	Zōl Forest	Zol Forest		33.13129	76.31234	V	FRST	IN		12				0		1553	Asia/Kolkata	2015-09-08
+10723035	Zamānābād Khās	Zamanabad Khas		32.1244	76.26896	P	PPL	IN		11	024	100		0		713	Asia/Kolkata	2024-01-06
+10729318	Zaildār Da Khu	Zaildar Da Khu		31.02967	76.10614	P	PPL	IN		23	039	218		0		250	Asia/Kolkata	2024-01-06
+10732162	Zikhiani	Zikhiani		31.74942	76.76875	P	PPL	IN		11	027	6970		0		901	Asia/Kolkata	2024-01-06
+10734549	Zorāwarpura	Zorawarpura		26.08087	74.72938	P	PPL	IN		24	119	612		0		413	Asia/Kolkata	2024-01-06
+10734594	Zorāwarpura	Zorawarpura		26.00753	74.54886	P	PPL	IN		24	119	610		0		421	Asia/Kolkata	2024-01-06
+10742655	Zār	Zar		30.97342	77.7099	P	PPL	IN		11	033	187		0		1516	Asia/Kolkata	2024-01-06
+10745917	Zainpur	Zainpur		29.11632	77.76133	P	PPL	IN		36	138	732		0		232	Asia/Kolkata	2024-01-06
+10746604	Ziārat Biwan Pīr	Ziarat Biwan Pir		28.09894	77.33401	S	SHRN	IN		10	089	427		0		197	Asia/Kolkata	2024-01-06
+10747179	Zābar Dogri	Zabar Dogri		31.58562	78.45114	P	PPL	IN		11	034	196		0		2595	Asia/Kolkata	2024-01-06
+10750703	Zamānābād	Zamanabad		28.89583	78.2249	P	PPL	IN		36	137	729		0		212	Asia/Kolkata	2024-01-06
+10752345	Zāhidpur	Zahidpur		28.99184	78.84688	P	PPL	IN		36	135	719		0		207	Asia/Kolkata	2024-01-06
+10752565	Ziārat Bulāqi Shāh	Ziarat Bulaqi Shah		28.8577	78.77075	S	SHRN	IN		36	135	719		0		201	Asia/Kolkata	2024-01-06
+10752589	Zaffarpur	Zaffarpur		28.85402	78.9549	P	PPL	IN		36	135	719		0		196	Asia/Kolkata	2024-01-06
+10752699	Zāhir Dīwān	Zahir Diwan		28.75534	78.76813	L	LCTY	IN		36	135	720		0		202	Asia/Kolkata	2024-01-06
+10758606	Zālimnagar	Zalimnagar		27.98624	81.28019	P	PPL	IN		36	180	6862		0		130	Asia/Kolkata	2024-01-07
+10760705	Zafarpur	Zafarpur		27.1285	81.32141	P	PPL	IN		36	176	897		0		122	Asia/Kolkata	2024-01-07
+10761664	Ziladār Purwa	Ziladar Purwa		26.22185	81.40863	P	PPL	IN		36	158	829		0		117	Asia/Kolkata	2024-01-07
+10762407	Zila	Zila		26.06832	81.49931	P	PPL	IN		36	158	829		0		105	Asia/Kolkata	2024-01-07
+10762453	Zamīna	Zamina		26.93541	81.54967	P	PPL	IN		36	176	899		0		117	Asia/Kolkata	2024-01-07
+10762790	Zainābād	Zainabad		26.79092	81.63316	P	PPL	IN		36	177	902		0		115	Asia/Kolkata	2024-01-07
+10763204	Zorāwarganj	Zorawarganj		26.4522	81.53944	P	PPL	IN		36	640	824		0		114	Asia/Kolkata	2024-01-07
+10763729	Zorāwarpur	Zorawarpur		26.38179	81.63853	P	PPL	IN		36	640	913		0		111	Asia/Kolkata	2024-01-07
+10764716	Zila Dharampāl	Zila Dharampal		26.12099	81.57569	P	PPL	IN		36	173	880		0		112	Asia/Kolkata	2024-01-07
+10765082	Zila	Zila		26.11429	81.59529	P	PPL	IN		36	173	880		0		110	Asia/Kolkata	2024-01-07
+10765107	Zila	Zila		26.06331	81.61486	P	PPL	IN		36	173	880		0		112	Asia/Kolkata	2024-01-07
+10766462	Zunkarigūda	Zunkariguda		18.2683	82.95996	P	PPL	IN		02	745	4844		0		1121	Asia/Kolkata	2024-01-06
+10768008	Zājulakunta	Zajulakunta		16.91832	81.31605	P	PPL	IN		02	748	4955		0		70	Asia/Kolkata	2024-01-06
+10770392	Zangālapalle Agrahāram	Zangalapalle Agraharam		17.579	82.71034	P	PPL	IN		02	744	4875		0		43	Asia/Kolkata	2024-01-06
+10771773	Zonnalagadda	Zonnalagadda		16.24012	80.08391	P	PPL	IN		02	751	5067		0		63	Asia/Kolkata	2024-01-06
+10771792	Zālādi	Zaladi		16.13029	80.2457	P	PPL	IN		02	751	5071		0		23	Asia/Kolkata	2024-01-06
+10773677	Zūpūdi	Zupudi		16.12305	80.48847	P	PPL	IN		02	548	5084		0		12	Asia/Kolkata	2024-01-06
+10777506	Zenāna Hospital	Zenana Hospital		18.86144	82.57104	S	HSP	IN		21	398	3209		0		599	Asia/Kolkata	2024-01-06
+10783078	Zadaba	Zadaba		18.94804	83.36267	P	PPL	IN		02				0		612	Asia/Kolkata	2015-09-09
+10788898	Zonnatāli Agrahāram	Zonnatali Agraharam		15.94714	80.10195	P	PPL	IN		02	750	5106		0		49	Asia/Kolkata	2024-01-06
+10789055	Zammulapālem	Zammulapalem		15.34618	80.01739	P	PPL	IN		02	549	5141		0		11	Asia/Kolkata	2024-01-06
+10789211	Zuvvaguntapālem	Zuvvaguntapalem		14.85149	80.03821	P	PPL	IN		02	550	5158		0		9	Asia/Kolkata	2024-01-06
+10789335	Zammulapālem	Zammulapalem		15.95867	80.43256	P	PPL	IN		02	750	5093		0		9	Asia/Kolkata	2024-01-06
+10789619	Zammipālem	Zammipalem		14.49265	80.03311	P	PPL	IN		02	550	5178		0		18	Asia/Kolkata	2024-01-06
+10789752	Zangamvāni Doruvu	Zangamvani Doruvu		14.47095	80.13531	P	PPL	IN		02	550	5179		0		10	Asia/Kolkata	2024-01-06
+10790934	Zorāwarpur	Zorawarpur		25.0904	84.31073	P	PPL	IN		34	234	1462		0		98	Asia/Kolkata	2024-01-06
+10805301	Ziletan-kā-Mazra	Ziletan-ka-Mazra		29.10458	79.04684	P	PPL	IN		36	136	723		0		218	Asia/Kolkata	2024-01-06
+10805321	Zamingang Minor	Zamingang Minor		29.05267	79.06319	H	CNL	IN		36				0		211	Asia/Kolkata	2015-10-07
+10805327	Zāminganj	Zaminganj		29.05079	79.06006	P	PPL	IN		36	136	723		0		212	Asia/Kolkata	2024-01-06
+10807112	Zūnthpura	Zunthpura		25.28916	73.99881	P	PPL	IN		24	123	641		0		575	Asia/Kolkata	2024-01-06
+10810413	Zindāpur	Zindapur		25.12098	84.68837	P	PPL	IN		34	240	1545		0		81	Asia/Kolkata	2024-01-06
+10812706	Zālimpura	Zalimpura		26.6802	74.5738	P	PPL	IN		24	112	564		0		461	Asia/Kolkata	2024-01-06
+10816652	Zorāwarpura	Zorawarpura		25.40713	74.42336	P	PPL	IN		24	122	631		0		474	Asia/Kolkata	2024-01-06
+10816771	Zamin Katanwār	Zamin Katanwar		26.89644	84.02415	P	PPL	IN		36	189	955		0		92	Asia/Kolkata	2024-01-07
+10817965	Zorāwar Chhāpra	Zorawar Chhapra		26.44578	84.12952	P	PPL	IN		34	217	1217		0		78	Asia/Kolkata	2024-01-06
+10817969	Zorāwarpur	Zorawarpur		26.44245	84.13344	P	PPL	IN		34	217	1217		0		76	Asia/Kolkata	2024-01-06
+10818287	Zālimpura	Zalimpura		25.10425	74.44597	P	PPL	IN		24	126	655		0		463	Asia/Kolkata	2024-01-06
+10819021	Zamin Walidadpur	Zamin Walidadpur		26.05207	84.02895	P	PPL	IN		36	193	976		0		67	Asia/Kolkata	2024-01-07
+10819041	Zahidpur	Zahidpur		26.04648	84.10827	P	PPL	IN		36	193	976		0		68	Asia/Kolkata	2024-01-07
+10819303	Zamin Bhānti	Zamin Bhanti		26.02979	84.02266	P	PPL	IN		36	193	976		0		71	Asia/Kolkata	2024-01-07
+10822259	Zirani	Zirani		26.64302	84.58506	P	PPL	IN		34	204	1044		0		77	Asia/Kolkata	2024-01-06
+10823968	Ziārat Sultān Ul Arfin	Ziarat Sultan Ul Arfin		28.03011	79.10291	S	SHRN	IN		36	149	782		0		167	Asia/Kolkata	2024-01-06
+10824779	Zālim Nagla	Zalim Nagla		28.53004	79.38739	P	PPL	IN		36	150	787		0		179	Asia/Kolkata	2024-01-06
+10824782	Ziārat Bharpur Shāh	Ziarat Bharpur Shah		28.53249	79.37851	S	SHRN	IN		36	150	785		0		177	Asia/Kolkata	2024-01-06
+10825191	Zainpur Qādirābād	Zainpur Qadirabad		28.29089	79.33737	P	PPL	IN		36	150	786		0		168	Asia/Kolkata	2024-01-06
+10827073	Zafarganj	Zafarganj		28.78709	79.51274	P	PPL	IN		36	150	784		0		197	Asia/Kolkata	2024-01-06
+10827132	Ziārat Sikandar Shāh	Ziarat Sikandar Shah		28.78256	79.57963	S	SHRN	IN		36	150	784		0		194	Asia/Kolkata	2024-01-06
+10827156	Zahūrganj	Zahurganj		28.79335	79.6348	P	PPL	IN		36	150	784		0		197	Asia/Kolkata	2024-01-06
+10830198	Zohrāpur Jādopur	Zohrapur Jadopur		28.38823	79.69071	P	PPL	IN		36	150	788		0		175	Asia/Kolkata	2024-01-06
+10831686	Zirābasti	Zirabasti		25.78789	84.14575	P	PPL	IN		36	193	978		0		67	Asia/Kolkata	2024-01-07
+10832650	Zamīma Itauria	Zamima Itauria		28.48488	79.94703	P	PPL	IN		36	151	6866		0		181	Asia/Kolkata	2024-01-06
+10832652	Zāhidganj	Zahidganj		28.48714	79.95347	L	LCTY	IN		36	151	6866		0		181	Asia/Kolkata	2024-01-06
+10833200	Zāhidpur	Zahidpur		25.32494	84.95649	P	PPL	IN		34	230	1408		0		65	Asia/Kolkata	2024-01-06
+10834462	Zorāwarpur	Zorawarpur		24.97379	84.17305	P	PPL	IN		34	234	1472		0		104	Asia/Kolkata	2024-01-06
+10838182	Ziāuddinpur	Ziauddinpur	Sadipur,Ziauddinpur,Ziāuddinpur	24.86596	84.35962	P	PPL	IN		34	235	1480		0		102	Asia/Kolkata	2024-01-06
+10840496	Zakariya	Zakariya		24.7927	84.73512	P	PPL	IN		34	235	1479		0		117	Asia/Kolkata	2024-01-06
+10840731	Zaranpur	Zaranpur		24.56352	84.66647	P	PPL	IN		34	236	1500		0		181	Asia/Kolkata	2024-01-06
+10841231	Zarif Chak	Zarif Chak		24.37812	84.52078	P	PPL	IN		34	236	1501		0		213	Asia/Kolkata	2024-01-06
+10841251	Zafardih	Zafardih		24.35405	84.537	P	PPL	IN		38	347	2515		0		218	Asia/Kolkata	2024-01-07
+10842391	Zangalapalle	Zangalapalle		16.01015	79.77707	P	PPL	IN		02	751	5063		0		64	Asia/Kolkata	2024-01-06
+10885206	Zakar Chak	Zakar Chak		24.98773	85.53621	P	PPL	IN		34	237	1512		0		75	Asia/Kolkata	2024-01-06
+10893942	Zindāpur	Zindapur		25.52181	86.06992	P	PPL	IN		34	222	1313		0		48	Asia/Kolkata	2024-01-06
+10894218	Zamīra	Zamira		25.44185	86.05638	P	PPL	IN		34	222	1312		0		46	Asia/Kolkata	2024-01-06
+10898501	Zamīndigri	Zamindigri		25.35512	86.40099	P	PPL	IN		34	226	1356		0		34	Asia/Kolkata	2024-01-06
+10899719	Zumāladinne	Zumaladinne		15.81578	77.20206	P	PPL	IN		02	552	5251		0		380	Asia/Kolkata	2024-01-06
+10900288	Zaftijāgīrpendekallu	Zaftijagirpendekallu		15.63936	77.39913	P	PPL	IN		02	552	5271		0		428	Asia/Kolkata	2024-01-06
+10900663	Zambapalle	Zambapalle		15.26467	77.50891	P	PPLQ	IN		02	552	5292		0		425	Asia/Kolkata	2024-01-06
+10920162	Zakariāpur	Zakariapur		27.45495	80.62819	P	PPL	IN		36	154	803		0		143	Asia/Kolkata	2024-01-07
+10934406	Zardung Kud	Zardung Kud		32.98389	76.85723	L	LCTY	IN		11	025	114		0		3999	Asia/Kolkata	2024-01-06
+10938274	Zocrlral	Zocrlral	Zocrlral	15.6386	74.10912	T	MT	IN		33	585	5613		0		448	Asia/Kolkata	2024-01-06
+10938288	Zormen	Zormen		15.5735	74.10414	P	PPL	IN		33	585	5613		0		122	Asia/Kolkata	2024-01-06
+10966430	Zainpur	Zainpur		26.52426	79.34944	P	PPL	IN		36	162	6877		0		147	Asia/Kolkata	2024-01-07
+10980682	Zāhir Bigha	Zahir Bigha		24.9506	84.91196	P	PPL	IN		34	236	1489		0		95	Asia/Kolkata	2024-01-06
+10981498	Zilāpirha	Zilapirha		24.56404	84.93682	P	PPL	IN		34	236	1504		0		150	Asia/Kolkata	2024-01-06
+10989882	Zorāwarganj	Zorawarganj		25.96481	87.053	P	PPL	IN		34	213	1163		0		54	Asia/Kolkata	2024-01-06
+10990564	Zabtaili	Zabtaili		25.33707	87.03013	P	PPL	IN		34	224	1332		0		40	Asia/Kolkata	2024-01-06
+10995209	Zohra	Zohra		25.08769	87.0023	P	PPL	IN		34	225	1347		0		52	Asia/Kolkata	2024-01-06
+11011714	Zakariāpur	Zakariapur		25.58833	85.19582	P	PPL	IN		34	230	1400		0		52	Asia/Kolkata	2024-01-06
+11012004	Zohra Chak	Zohra Chak		25.41029	85.1392	P	PPL	IN		34	230	1409		0		58	Asia/Kolkata	2024-01-06
+11012453	Ziāuddīn Chak	Ziauddin Chak		25.41552	85.17574	P	PPL	IN		34	230	1411		0		57	Asia/Kolkata	2024-01-06
+11014927	Zafarpur	Zafarpur		25.58933	87.95163	P	PPL	IN		34	212	1147		0		35	Asia/Kolkata	2024-01-06
+11014940	Zaharpur	Zaharpur		25.63473	87.94079	P	PPL	IN		34	212	1147		0		39	Asia/Kolkata	2024-01-06
+11017445	Zulfipur	Zulfipur		25.23741	85.14414	P	PPL	IN		34	239	1538		0		68	Asia/Kolkata	2024-01-06
+11018968	Zindigi	Zindigi		24.35948	87.99385	P	PPL	IN		28	333	2230		0		38	Asia/Kolkata	2024-01-06
+11029449	Zorāwarpur	Zorawarpur		25.17906	85.48635	P	PPL	IN		34	229	1386		0		62	Asia/Kolkata	2024-01-06
+11035268	Zalalapālem	Zalalapalem		16.08894	79.72576	P	PPL	IN		02	751	5062		0		108	Asia/Kolkata	2024-01-06
+11038530	Zamistāpur	Zamistapur		17.41441	78.50327	P	PPL	IN		40	536	4501		0		517	Asia/Kolkata	2024-01-07
+11038629	Zafar Jang’s House	Zafar Jang's House		17.33918	78.50557	S	HSE	IN		40	536	4509		0		517	Asia/Kolkata	2024-01-07
+11061779	Zāhur Purwa	Zahur Purwa		27.86146	80.11053	P	PPL	IN		36	153	800		0		158	Asia/Kolkata	2024-01-07
+11062250	Zaki Purwa	Zaki Purwa		27.65398	80.20175	P	PPL	IN		36	155	809		0		150	Asia/Kolkata	2024-01-07
+11062322	Zafarpur	Zafarpur		27.52998	80.2335	P	PPL	IN		36	155	811		0		147	Asia/Kolkata	2024-01-07
+11063181	Zafarpur	Zafarpur		27.09593	80.00973	P	PPL	IN		36	155	812		0		133	Asia/Kolkata	2024-01-07
+11064349	Zindpur	Zindpur		27.79735	80.25441	P	PPL	IN		36	153	800		0		154	Asia/Kolkata	2024-01-07
+11186037	Zankhvav	Zankhvav	Zankhavav,Zankhvav,Zankvav	21.45118	73.31919	P	PPL	IN		09	492	3933		0		119	Asia/Kolkata	2024-01-06
+11203771	Zochachhuah	Zochachhuah		22.1325	92.77333	P	PPLF	IN		31	287	1917		0		73	Asia/Kolkata	2024-01-06
+11248698	Zafrāpur	Zafrapur		19.03108	78.3504	P	PPL	IN		02				0		317	Asia/Kolkata	2016-09-10
+11272613	Zangālapalle	Zangalapalle		15.0067	78.50588	P	PPL	IN		02	551	5201		0		169	Asia/Kolkata	2024-01-06
+11275811	Zangamrājupalle	Zangamrajupalle		14.76825	78.88597	P	PPLQ	IN		02	551	5205		0		193	Asia/Kolkata	2024-01-06
+11317727	Zunzurupenta	Zunzurupenta		13.90249	78.37212	P	PPL	IN		02	753	5368		0		467	Asia/Kolkata	2024-01-06
+11326626	Zangalapalle	Zangalapalle		13.24363	78.73985	P	PPL	IN		02	554	5417		0		687	Asia/Kolkata	2024-01-06
+11345833	Zafersahibbath	Zafersahibbath		12.69073	78.6079	P	PPL	IN		25	732	5718		0		354	Asia/Kolkata	2024-01-06
+11406553	Zuvvaleru	Zuvvaleru		15.63782	79.61412	P	PPL	IN		02	549	5120		0		85	Asia/Kolkata	2024-01-06
+11406655	Zuvvigunta	Zuvvigunta		15.43844	79.72275	P	PPL	IN		02	549	5129		0		63	Asia/Kolkata	2024-01-06
+11406733	Zangālapalle	Zangalapalle		15.35245	79.72945	P	PPL	IN		02	549	5129		0		46	Asia/Kolkata	2024-01-06
+11406760	Zangālapalle	Zangalapalle		15.27157	79.59754	P	PPL	IN		02	549	5144		0		78	Asia/Kolkata	2024-01-06
+11406862	Zangamreddipālem	Zangamreddipalem		15.09607	79.7125	P	PPL	IN		02	550	5150		0		57	Asia/Kolkata	2024-01-06
+11406886	Zakkulavāndlapalle	Zakkulavandlapalle		15.05773	79.6607	P	PPL	IN		02	550	5150		0		58	Asia/Kolkata	2024-01-06
+11406892	Zampalavāripālem	Zampalavaripalem		15.07038	79.72087	P	PPL	IN		02	550	5150		0		48	Asia/Kolkata	2024-01-06
+11406954	Zammulamadaka	Zammulamadaka		15.90919	79.88155	P	PPL	IN		02	549	5113		0		50	Asia/Kolkata	2024-01-06
+11409798	Zangalapalle	Zangalapalle		15.04916	79.79635	P	PPL	IN		02	550	5150		0		37	Asia/Kolkata	2024-01-06
+11412901	Zangālapalli	Zangalapalli		14.33174	79.21461	L	LCTY	IN		02	753	5243		0		106	Asia/Kolkata	2024-01-06
+11418043	Zakkepalligūdūr Reserved Forest	Zakkepalligudur Reserved Forest		14.7371	79.91858	L	RESF	IN		02				0		38	Asia/Kolkata	2017-01-07
+11418694	Zuvvalaguntapalli	Zuvvalaguntapalli		14.69134	79.77422	P	PPL	IN		02	550	5165		0		64	Asia/Kolkata	2024-01-06
+11418724	Zangālakhandrika	Zangalakhandrika		14.62076	79.83685	P	PPL	IN		02	550	5171		0		36	Asia/Kolkata	2024-01-06
+11418973	Zonnavāda	Zonnavada		14.48106	79.89037	P	PPL	IN		02	550	5170		0		34	Asia/Kolkata	2024-01-06
+11419341	Zalu Vanka	Zalu Vanka		13.89754	79.00188	H	STMI	IN		02				0		307	Asia/Kolkata	2017-01-07
+11422350	Zangālapalli	Zangalapalli		13.972	79.60901	P	PPL	IN		02	752	5187		0		61	Asia/Kolkata	2024-01-06
+11423938	Zangālapalli	Zangalapalli		13.86501	79.79232	P	PPL	IN		02	752	5195		0		47	Asia/Kolkata	2024-01-06
+11424017	Zuvvalapālem	Zuvvalapalem		13.89528	79.90276	P	PPL	IN		02	752	5194		0		33	Asia/Kolkata	2024-01-06
+11629355	Zālimberātoli	Zalimberatoli		23.46021	85.7628	P	PPL	IN		38	364	2688		0		289	Asia/Kolkata	2024-01-07
+11632018	Zamīndāri Forest Hunterganj Block C	Zamindari Forest Hunterganj Block C		24.29079	84.83804	V	FRST	IN		38				0		312	Asia/Kolkata	2017-08-03
+11632056	Zamīndāri Forest Hunterganj Block A	Zamindari Forest Hunterganj Block A		24.37106	84.89604	V	FRST	IN		38				0		254	Asia/Kolkata	2017-08-03
+11632253	Zamīndāri Forest Hunterganj Block B	Zamindari Forest Hunterganj Block B		24.29765	84.91502	V	FRST	IN		38				0		388	Asia/Kolkata	2017-08-03
+11640322	Zamīrā	Zamira		23.67893	84.79487	P	PPL	IN		38	359	2643		0		513	Asia/Kolkata	2024-01-07
+11680895	Zamīn Bungalow	Zamin Bungalow		9.91729	77.51012	S	HSE	IN		25	624	5846		0		308	Asia/Kolkata	2024-01-06
+11681046	Zamīn Bungalow	Zamin Bungalow		9.76296	77.73758	S	HSE	IN		25	623	5839		0		202	Asia/Kolkata	2024-01-06
+11687606	Zāmind	Zamind		22.65967	85.56205	P	PPL	IN		38	368	2731		0		255	Asia/Kolkata	2024-01-07
+11723898	Zorāwardih	Zorawardih		24.84669	85.86982	P	PPL	IN		34	237	1516		0		103	Asia/Kolkata	2024-01-06
+11789321	Zhobumai	Zhobumai		25.46943	94.37063	P	PPL	IN		17	272	1859		0		1720	Asia/Kolkata	2024-01-06
+11857264	Zahirabad	Zahirabad	ZB	17.67496	77.61021	S	RSTN	IN		40	691	4474		0		632	Asia/Kolkata	2024-01-07
+11857698	Zarap	Zarap	ZARP	15.94768	73.7341	S	RSTN	IN		16	529	4280		0		40	Asia/Kolkata	2024-01-06
+11859113	Zampini	Zampini	ZPI	16.19903	80.71401	S	RSTN	IN		02	750	5087		0		12	Asia/Kolkata	2024-01-06
+11859122	Zarpur Pali	Zarpur Pali	ZP	28.28107	76.14827	S	RSTN	IN		10	084	411		0		271	Asia/Kolkata	2024-01-06
+11859846	Zawar	Zawar	ZW	24.35862	73.73196	S	RSTN	IN		24	130	689		0		359	Asia/Kolkata	2024-01-06
+12519231	Zarugumilli	Zarugumilli		15.31284	79.98832	P	PPL	IN		02	549	5142		0		5	Asia/Kolkata	2024-01-06
+12523168	Zikzak	Zikzak		25.38789	89.90617	P	PPL	IN		18	663	1967		0		41	Asia/Kolkata	2024-01-06
+12523320	Zawlnuam	Zawlnuam		24.13466	92.33194	P	PPL	IN		31	281	1896		0		64	Asia/Kolkata	2024-01-06
+12523451	Zemithang	Zemithang		27.70937	91.72749	P	PPL	IN		30	245	1556		0		2133	Asia/Kolkata	2024-01-06
+12523507	Zapami	Zapami		25.53516	94.24691	P	PPL	IN		20	266	1810		0		1576	Asia/Kolkata	2024-01-06
+12680554	Zawlnuam	Zawlnuam		23.99517	92.43146	A	ADM3	IN		31	281	1896		47188		116	Asia/Kolkata	2023-12-17
+12681163	Zari Jamani	Zari Jamani		19.88624	78.72485	A	ADM3	IN		16	510	4093		80147		276	Asia/Kolkata	2023-12-17
+12681491	Zahirabad	Zahirabad		17.64694	77.61133	A	ADM3	IN		40	691	4474		133006		633	Asia/Kolkata	2023-12-17
+12681575	Zira	Zira		31.01889	74.94764	A	ADM3	IN		23	043	234		258154		207	Asia/Kolkata	2023-12-17
+12683226	Zamania	Zamania		25.45404	83.5954	A	ADM3	IN		36	195	991		377439		66	Asia/Kolkata	2023-12-17
+12683235	Ziradei	Ziradei		26.20348	84.23903	A	ADM3	IN		34	218	1239		163752		64	Asia/Kolkata	2023-12-17
+12684358	Zarugumalli	Zarugumalli		15.33309	79.96665	A	ADM3	IN		02	549	5142		42866		14	Asia/Kolkata	2023-12-17
+12684759	Zikzak	Zikzak		25.37676	89.92507	A	ADM3	IN		18	663	1967		78221		61	Asia/Kolkata	2023-12-17
+12684825	Zemithang Circle	Zemithang Circle		27.71313	91.73544	A	ADM3	IN		30	245	1556		2926		2503	Asia/Kolkata	2023-12-17
+12684906	Ziro HQ	Ziro HQ		27.52236	93.92352	A	ADM3	IN		30	255	1695		22747		2641	Asia/Kolkata	2023-12-17
+12684986	Zuketsa	Zuketsa		25.52705	94.23185	A	ADM3	IN		20	266	1810		5244		1626	Asia/Kolkata	2023-12-17
+12684994	Zunheboto Sadar	Zunheboto Sadar		26.02631	94.52177	A	ADM3	IN		20	263	1772		35977		1761	Asia/Kolkata	2023-12-17
+12685197	Zaingeer	Zaingeer		34.36291	74.40564	A	ADM3	IN		12	008	6826		49979		1589	Asia/Kolkata	2023-12-17
+12685227	Zachaldara	Zachaldara		34.40251	74.19863	A	ADM3	IN		12	001	6790		27514		1667	Asia/Kolkata	2023-12-17
+12685240	Zanskar	Zanskar		33.3902	77.07973	A	ADM3	IN		41	004	15		13793		5213	Asia/Kolkata	2023-12-17
+12686528	Zainapora	Zainapora		33.77757	75.01335	A	ADM3	IN		12	013	6797		20997		1639	Asia/Kolkata	2023-12-17
+12686658	Zaffergadh	Zaffergadh		17.79817	79.46145	A	ADM3	IN		40	689	4696		39172		303	Asia/Kolkata	2023-12-17
+12954078	Ziro	Ziro		27.92	94.8	S	STNM	IN		30	784	1636		0		1178	Asia/Kolkata	2024-07-26
+13157010	Ziauddin Pur	Ziauddin Pur		28.70873	77.27654	P	PPL	IN		07	092	6082		68993		202	Asia/Kolkata	2024-12-31

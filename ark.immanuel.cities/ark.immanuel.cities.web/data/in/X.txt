@@ -1,0 +1,6 @@
+1252824	Xelvona	Xelvona		15.26667	74.08333	P	PPL	IN		33	586	5617		0		8	Asia/Kolkata	2024-01-06
+1252825	Xeldem	Xeldem		15.25	74.08333	P	PPL	IN		33	586	5617		7434		16	Asia/Kolkata	2024-12-31
+10115482	Xavier Beach Resort	Xavier Beach Resort		15.51181	73.76757	S	HTL	IN		33	585	5610		0		14	Asia/Kolkata	2024-01-06
+10247167	Xanadu Retreat	Xanadu Retreat		29.64287	79.43373	S	HTL	IN		39	064	328		0		1788	Asia/Kolkata	2024-01-07
+10938309	Xelopa-buzruco	Xelopa-buzruco		15.59257	74.16211	P	PPL	IN		33	585	5613		0		83	Asia/Kolkata	2024-01-06
+11860155	Xcbn	Xcbn	XCBN	25.30384	83.16958	S	RSTN	IN		36	196	6869		0		80	Asia/Kolkata	2024-01-07
