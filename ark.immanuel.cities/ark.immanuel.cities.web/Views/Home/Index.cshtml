@@ -3,6 +3,35 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Search Cities</h1>
+    <p>started wtih INDIAN citites to start with, if response is good soo will enable other countries</p>
 </div>
+
+
+<div>
+    API URL (TEMPLATE)  : https://ark-cities.immanuel.co/api/{COUNTRY}/cities/{SEARCH_TEXT} <br />
+    API URL (EX)        : https://ark-cities.immanuel.co/api/in/cities/tir
+</div>
+<br /><br />
+<pre>
+    {
+        "error": true,
+        "message": "found 2 records",
+        "data": [
+            {
+                "lat": "8.72742",
+                "lng": "77.6838",
+                "name": "Tirunelveli",
+                "ascii_name": "Tirunelveli",
+                "geonameid": "1254361"
+            },
+            {
+                "lat": "8.7927",
+                "lng": "77.57409",
+                "name": "Tirunelveli Kattabo",
+                "ascii_name": "Tirunelveli Kattabo",
+                "geonameid": "7874380"
+            }
+        ]
+    }
+</pre>
