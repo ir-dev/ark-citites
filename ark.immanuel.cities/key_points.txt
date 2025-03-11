@@ -1,0 +1,6 @@
+
+data exported from https://www.geonames.org/export/
+
+api query: 
+
+https://localhost:7203/api/in/cities/tir
