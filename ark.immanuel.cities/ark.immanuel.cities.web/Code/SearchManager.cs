@@ -4,7 +4,7 @@ namespace ark.immanuel.cities
 {
     public class SearchManager
     {
-        public static dynamic SearchCities(string country, string searchText)
+        public static dynamic SearchCities(string country, string searchText, int limit_count = 10)
         {
             country = country.ToLower().Trim();
             char searchLetter = char.ToUpper(searchText[0]);
@@ -37,6 +37,7 @@ namespace ark.immanuel.cities
                             });
                         }
                     }
+                    if (results.Count > limit_count) break;
                 }
             }
 
