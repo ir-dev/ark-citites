@@ -12,7 +12,8 @@
     API URL (TEMPLATE)  : https://ark-cities.immanuel.co/api/{COUNTRY}/cities/{SEARCH_TEXT} <br />
     API URL (EX)        : https://ark-cities.immanuel.co/api/in/cities/tir
 </div>
-<br /><br />
+<br />
+<br />
 <pre>
     {
         "error": true,
@@ -31,6 +32,54 @@
                 "name": "Tirunelveli Kattabo",
                 "ascii_name": "Tirunelveli Kattabo",
                 "geonameid": "7874380"
+            }
+        ]
+    }
+</pre>
+
+<div class="text-center">
+    <h1 class="display-4">Search Pincode</h1>
+    <p>search pincode</p>
+</div>
+
+
+<div>
+    API URL (TEMPLATE)  : https://ark-cities.immanuel.co/api/{COUNTRY}/pincode/{SEARCH_TEXT} <br />
+    API URL (UNIQE result)        : https://localhost:7203/api/IN/pincode/627007
+    API URL (all result)        : https://localhost:7203/api/IN/pincode/627007/full
+</div>
+<br />
+<br />
+<pre>
+    {
+        "error": true,
+        "message": "found 2 records",
+        "data": [
+            {
+              "lat": "8.7067500",
+              "lng": "77.7372500",
+              "pincode": "627007",
+              "state": "TAMIL NADU",
+              "district": "TIRUNELVELI",
+              "delivery": "Delivery",
+              "office_type": "PO",
+              "office_name": "Perumalpuram SO",
+              "division_name": "Tirunelveli Division",
+              "region_name": "Southern Region Madurai",
+              "circle_name": "Tamilnadu Circle"
+            },
+            {
+              "lat": "8.6811140",
+              "lng": "77.7398550",
+              "pincode": "627007",
+              "state": "TAMIL NADU",
+              "district": "TIRUNELVELI",
+              "delivery": "Delivery",
+              "office_type": "BO",
+              "office_name": "Reddiarpatti BO",
+              "division_name": "Tirunelveli Division",
+              "region_name": "Southern Region Madurai",
+              "circle_name": "Tamilnadu Circle"
             }
         ]
     }

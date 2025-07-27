@@ -18,6 +18,12 @@ namespace ark.immanuel.cities.web.Api
         [Route("pincode/{search}")]
         public async Task<dynamic> PincodeSearch([FromRoute] string country, [FromRoute] string search)
         {
+            return SearchManager.SearchPincodeUnique(country, search);
+        }
+        [HttpGet]
+        [Route("pincode/{search}/full")]
+        public async Task<dynamic> PincodeSearchFull([FromRoute] string country, [FromRoute] string search)
+        {
             return SearchManager.SearchPincode(country, search);
         }
     }

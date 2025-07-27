@@ -159,6 +159,6 @@ class Program
     static void Main(string[] args)
     {
         //TrasnfromToIndividaulFile();
-        ConvertCsvToTab(@"C:\Immi\Personal\git_hub\ir-dev\ark-citites\ark.immanuel.cities\ark.immanuel.cities.web\data\pincode\in\in.csv", @"C:\Immi\Personal\git_hub\ir-dev\ark-citites\ark.immanuel.cities\ark.immanuel.cities.web\data\pincode\in\in.txt");
+        //ConvertCsvToTab(@"C:\Immi\Personal\git_hub\ir-dev\ark-citites\ark.immanuel.cities\ark.immanuel.cities.web\data\pincode\in\in.csv", @"C:\Immi\Personal\git_hub\ir-dev\ark-citites\ark.immanuel.cities\ark.immanuel.cities.web\data\pincode\in\in.txt");
     }
 }
