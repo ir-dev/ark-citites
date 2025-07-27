@@ -35,5 +35,5 @@ API URL (EX)        : https://ark-cities.immanuel.co/api/in/cities/tir
 
 
 ### Extracted from
-[Link](https://www.geonames.org/export/)
-
+[city names Link](https://www.geonames.org/export/)
+[Pincode Link](https://www.data.gov.in/catalog/all-india-pincode-directory-through-webservice)

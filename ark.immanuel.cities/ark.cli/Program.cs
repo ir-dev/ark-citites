@@ -1,10 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 class Program
 {
-    static void Main(string[] args)
+    static void TrasnfromToIndividaulFile()
     {
         string inputFilePath = "./IN/IN.txt"; // Path to the input file
         string outputDirectory = "./IN"; // Directory to store output files
@@ -71,5 +72,93 @@ class Program
         }
 
         Console.WriteLine("File segregation completed.");
+    }
+    public static void ConvertCsvToTab(string inputFilePath, string outputFilePath, char csvDelimiter = ',', bool hasHeader = true)
+    {
+        if (!File.Exists(inputFilePath))
+        {
+            Console.WriteLine($"Error: Input file '{inputFilePath}' not found.");
+            return;
+        }
+
+        try
+        {
+            using (StreamReader reader = new StreamReader(inputFilePath))
+            using (StreamWriter writer = new StreamWriter(outputFilePath))
+            {
+                string line;
+                int lineNumber = 0;
+
+                while ((line = reader.ReadLine()) != null)
+                {
+                    lineNumber++;
+
+                    // Skip header if specified
+                    if (hasHeader && lineNumber == 1)
+                    {
+                        writer.WriteLine(string.Join('\t', ParseCsvLine(line, csvDelimiter)));
+                        continue;
+                    }
+
+                    string[] fields = ParseCsvLine(line, csvDelimiter);
+                    writer.WriteLine(string.Join('\t', fields));
+                }
+            }
+
+            Console.WriteLine($"Successfully converted '{inputFilePath}' to '{outputFilePath}'.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+        }
+    }
+
+    /// <summary>
+    /// Parses a single CSV line, handling quoted fields.
+    /// </summary>
+    /// <param name="line">The CSV line to parse.</param>
+    /// <param name="delimiter">The delimiter character for the CSV.</param>
+    /// <returns>An array of strings representing the fields in the line.</returns>
+    private static string[] ParseCsvLine(string line, char delimiter)
+    {
+        var fields = new System.Collections.Generic.List<string>();
+        bool inQuote = false;
+        StringBuilder currentField = new StringBuilder();
+
+        for (int i = 0; i < line.Length; i++)
+        {
+            char c = line[i];
+
+            if (c == '"')
+            {
+                if (inQuote && i + 1 < line.Length && line[i + 1] == '"')
+                {
+                    // Escaped double quote (e.g., "hello ""world""")
+                    currentField.Append('"');
+                    i++; // Skip the next quote
+                }
+                else
+                {
+                    inQuote = !inQuote;
+                }
+            }
+            else if (c == delimiter && !inQuote)
+            {
+                fields.Add(currentField.ToString());
+                currentField.Clear();
+            }
+            else
+            {
+                currentField.Append(c);
+            }
+        }
+        fields.Add(currentField.ToString()); // Add the last field
+
+        return fields.ToArray();
+    }
+    static void Main(string[] args)
+    {
+        //TrasnfromToIndividaulFile();
+        ConvertCsvToTab(@"C:\Immi\Personal\git_hub\ir-dev\ark-citites\ark.immanuel.cities\ark.immanuel.cities.web\data\pincode\in\in.csv", @"C:\Immi\Personal\git_hub\ir-dev\ark-citites\ark.immanuel.cities\ark.immanuel.cities.web\data\pincode\in\in.txt");
     }
 }
