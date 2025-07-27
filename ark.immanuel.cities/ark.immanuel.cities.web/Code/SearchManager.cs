@@ -154,7 +154,7 @@ namespace ark.immanuel.cities
             return new
             {
                 error = false,
-                message = $"found {results.Count} records",
+                message = $"found unique {results.Count} pincode records",
                 data = results
             }; ;
         }
